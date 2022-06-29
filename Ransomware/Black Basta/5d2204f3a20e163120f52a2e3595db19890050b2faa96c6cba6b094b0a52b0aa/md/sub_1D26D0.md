@@ -1,3 +1,11 @@
+# sub_1D26D0 function
+
+(Add function description.)
+
+## Code Description
+
+* Store the value of `ebp` in the stack:
+```asm
 .text:001D26D0 sub_1D26D0 proc near                    ; CODE XREF: sub_1DC5A0+34↓p
 .text:001D26D0                                         ; sub_1DC5A0+C5↓p ...
 .text:001D26D0
@@ -19,12 +27,40 @@
 .text:001D26D0
 .text:001D26D0 ; __unwind { // SEH_4026D0
 .text:001D26D0 push    ebp
+```
+
+* Store the value of `esp` in `ebp`:
+```asm
 .text:001D26D1 mov     ebp, esp
+```
+
+* Store the value `0xFFFFFFFF` in the stack: 
+```asm
 .text:001D26D3 push    0FFFFFFFFh
+```
+
+* Store the value of `SEH_4026D0` in the stack:
+```asm
 .text:001D26D5 push    offset SEH_4026D0
+```
+
+* Obtain the value of `fs:0` and store it in `eax`:
+```asm
 .text:001D26DA mov     eax, large fs:0
+```
+
+* Store the value `eax` in the stack:
+```asm
 .text:001D26E0 push    eax
+```
+
+* Allocate `0x34` bytes from the stack:
+```asm
 .text:001D26E1 sub     esp, 34h
+```
+
+* 
+```asm
 .text:001D26E4 push    ebx
 .text:001D26E5 push    esi
 .text:001D26E6 push    edi
@@ -287,3 +323,13 @@
 .text:001D2903 ; } // starts at 1D26D0
 .text:001D2903 sub_1D26D0 endp
 .text:001D2903
+```
+
+## Arguments
+
+(Add arguments.)
+
+
+## Return Value
+
+(Add return value.)
