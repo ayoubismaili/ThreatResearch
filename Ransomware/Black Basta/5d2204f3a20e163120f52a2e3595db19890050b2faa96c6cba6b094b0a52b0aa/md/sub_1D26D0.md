@@ -44,7 +44,7 @@
 .text:001D26D5 push    offset SEH_4026D0
 ```
 
-* Obtain the value of `fs:0` and store it in `eax`:
+* Obtain the value in the memory location `fs:0` and store it in `eax`:
 ```asm
 .text:001D26DA mov     eax, large fs:0
 ```
@@ -59,41 +59,149 @@
 .text:001D26E1 sub     esp, 34h
 ```
 
-* 
+* Store the value of `ebx` in the stack:
 ```asm
 .text:001D26E4 push    ebx
+```
+
+* Store the value of `esi` in the stack:
+```asm
 .text:001D26E5 push    esi
+```
+
+* Store the value of `edi` in the stack:
+```asm
 .text:001D26E6 push    edi
+```
+
+* Store the value of `___security_cookie` in `eax`:
+```asm
 .text:001D26E7 mov     eax, ___security_cookie
+```
+
+* Xor the value of `ebp` with `eax`:
+```asm
 .text:001D26EC xor     eax, ebp
+```
+
+* Store the value of `eax` in the stack:
+```asm
 .text:001D26EE push    eax
+```
+
+* Load the effective address `ebp+var_C` into `eax`:
+```asm
 .text:001D26EF lea     eax, [ebp+var_C]
+```
+
+* Store the value of `eax` in the memory location `fs:0`:
+```asm
 .text:001D26F2 mov     large fs:0, eax
+```
+
+* Store the value of `esp` in the stack:
+```asm
 .text:001D26F8 mov     [ebp+var_10], esp
+```
+
+* Zero `ebx`:
+```asm
 .text:001D26FB xor     ebx, ebx
+```
+
+* Store the value of `ebx` in the stack:
+```asm
 .text:001D26FD mov     [ebp+var_14], ebx
+```
+
+* Load a value from the stack and store it in `edx`:
+```asm
 .text:001D2700 mov     edx, [ebp+arg_4]
+```
+
+* Store the value of `edx+1` in `ecx`:
+```asm
 .text:001D2703 lea     ecx, [edx+1]
+```
+
+* Obtain the value stored in the memory location `edx` and store it in `al`:
+```asm
 .text:001D2706
 .text:001D2706 loc_1D2706:                             ; CODE XREF: sub_1D26D0+3B↓j
 .text:001D2706 mov     al, [edx]
+```
+
+* Increment the value of `edx`:
+```asm
 .text:001D2708 inc     edx
+```
+
+* Check if the value of `al` is non-zero:
+```asm
 .text:001D2709 test    al, al
 .text:001D270B jnz     short loc_1D2706
+```
+
+* Subtract the value of `ecx` from `edx`:
+```asm
 .text:001D270D sub     edx, ecx
+```
+
+* Store the value of `edx` in the stack:
+```asm
 .text:001D270F mov     [ebp+var_18], edx
+```
+
+* Obtain a value from the stack and store it in `ecx`:
+```asm
 .text:001D2712 mov     ecx, [ebp+arg_0]
+```
+
+* Obtain a value stored in the memory location `ecx` and store it in `eax`:
+```asm
 .text:001D2715 mov     eax, [ecx]
+```
+
+* Obtain the value stored in the memory location `eax+4` and store it in `eax`:
+```asm
 .text:001D2717 mov     eax, [eax+4]
+```
+
+* Obtain the value stored in the memory location `eax+ecx+20h` and store it in `esi`:
+```asm
 .text:001D271A mov     esi, [eax+ecx+20h]
+```
+
+* Obtain the value stored in the memory location `eax+ecx+24h` and store it in `edi`:
+```asm
 .text:001D271E mov     edi, [eax+ecx+24h]
+```
+
+* Check if the value of `edi` is lower than zero:
+```asm
 .text:001D2722 test    edi, edi
 .text:001D2724 jl      short loc_1D273C
+```
+
+* Check if the value of `edi` is greater than zero:
+```asm
 .text:001D2726 jg      short loc_1D2736
+```
+
+* Check if the value of `esi` is zero:
+```asm
 .text:001D2728 test    esi, esi
 .text:001D272A jz      short loc_1D273C
+```
+
+* Check if the value of `edi` is lower than zero:
+```asm
 .text:001D272C test    edi, edi
 .text:001D272E jl      short loc_1D273C
+```
+
+* Check if the value of `edi` is greater than zero:
+```asm
 .text:001D2730 jg      short loc_1D2736
 .text:001D2732 cmp     esi, edx
 .text:001D2734 jbe     short loc_1D273C
