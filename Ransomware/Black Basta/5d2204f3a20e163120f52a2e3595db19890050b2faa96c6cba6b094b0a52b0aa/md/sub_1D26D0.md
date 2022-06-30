@@ -203,43 +203,127 @@
 * Check if the value of `edi` is greater than zero:
 ```asm
 .text:001D2730 jg      short loc_1D2736
+```
+
+* Check if the value of `esi` is below or equal `edx`:
+```asm
 .text:001D2732 cmp     esi, edx
 .text:001D2734 jbe     short loc_1D273C
+```
+
+* Subtract the value of `edx` from `esi`:
+```asm
 .text:001D2736
 .text:001D2736 loc_1D2736:                             ; CODE XREF: sub_1D26D0+56↑j
 .text:001D2736                                         ; sub_1D26D0+60↑j
 .text:001D2736 sub     esi, edx
+```
+
+* Subtract with borrow the value of `ebx` from `edi`:
+```asm
 .text:001D2738 sbb     edi, ebx
+```
+
+* Go to the location `loc_1D274A`:
+```asm
 .text:001D273A jmp     short loc_1D274A
+```
+
+* Zero `xmm0`:
+```asm
 .text:001D273C ; ---------------------------------------------------------------------------
 .text:001D273C
 .text:001D273C loc_1D273C:                             ; CODE XREF: sub_1D26D0+54↑j
 .text:001D273C                                         ; sub_1D26D0+5A↑j ...
 .text:001D273C xorps   xmm0, xmm0
+```
+
+* Store the value of `xmm0` in the stack:
+```asm
 .text:001D273F movlpd  [ebp+var_24], xmm0
+```
+
+* Obtain a value from the stack and store it in `edi`:
+```asm
 .text:001D2744 mov     edi, dword ptr [ebp+var_24+4]
+```
+
+* Obtain a value from the stack and store it in `esi`:
+```asm
 .text:001D2747 mov     esi, dword ptr [ebp+var_24]
+```
+
+* Store the value of `ecx` in the stack:
+```asm
 .text:001D274A
 .text:001D274A loc_1D274A:                             ; CODE XREF: sub_1D26D0+6A↑j
 .text:001D274A push    ecx
+```
+
+* Store the value `ebp+var_2C` in `ecx`:
+```asm
 .text:001D274B lea     ecx, [ebp+var_2C]
+```
+
+* Call the function [`sub_1D8D10`](sub_1D8D10.md):
+```asm
 .text:001D274E call    sub_1D8D10
+```
+
+* Store the value `0` in the stack:
+```asm
 .text:001D2753 ;   try {
 .text:001D2753 mov     [ebp+var_4], 0
+```
+
+* Check if a value in the stack does not equal zero:
+```asm
 .text:001D275A cmp     [ebp+var_28], 0
 .text:001D275E jnz     short loc_1D276A
+```
+
+* Store the value `4` in `ebx`:
+```asm
 .text:001D2760 mov     ebx, 4
+```
+
+* Go to the location `loc_1D2855`:
+```asm
 .text:001D2765 jmp     loc_1D2855
 .text:001D2765 ;   } // starts at 1D2753
+```
+
+* Store the value `1` in the stack:
+```asm
 .text:001D276A ; ---------------------------------------------------------------------------
 .text:001D276A
 .text:001D276A loc_1D276A:                             ; CODE XREF: sub_1D26D0+8E↑j
 .text:001D276A ;   try {
 .text:001D276A mov     byte ptr [ebp+var_4], 1
+```
+
+* Load a value from the stack and store it in `ecx`:
+```asm
 .text:001D276E mov     ecx, [ebp+arg_0]
+```
+
+* Load the value in the memory address `ecx` and store it in `edx`:
+```asm
 .text:001D2771 mov     edx, [ecx]
+```
+
+* Load the value in the memory address `edx+4` and store it in `eax`:
+```asm
 .text:001D2773 mov     eax, [edx+4]
+```
+
+* Load the value in the memory address `eax+ecx+14h` and store it in `eax`:
+```asm
 .text:001D2776 mov     eax, [eax+ecx+14h]
+```
+
+*
+```asm
 .text:001D277A and     eax, 1C0h
 .text:001D277F cmp     eax, 40h ; '@'
 .text:001D2782 jz      short loc_1D27B8
