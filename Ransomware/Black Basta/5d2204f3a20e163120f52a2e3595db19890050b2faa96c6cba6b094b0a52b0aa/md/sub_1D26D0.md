@@ -517,13 +517,41 @@
 * Add the value in the memory location `eax+4` to `ecx`:
 ```asm
 .text:001D27E6 add     ecx, [eax+4]
+```
+
+* Obtain the value in the memory location `ecx+40h` and store it in `eax`:
+```asm
 .text:001D27E9 movzx   eax, byte ptr [ecx+40h]
+```
+
+* Store the value of `eax` in the stack:
+```asm
 .text:001D27ED push    eax
+```
+
+* Obtain the value in the memory location `ecx+38h` and store it in `ecx`:
+```asm
 .text:001D27EE mov     ecx, [ecx+38h]
+```
+
+* Call the function [`sub_1EC490`](sub_1EC490.md):
+```asm
 .text:001D27F1 call    sub_1EC490
+```
+
+* Check if the value of `eax` equals `0xFFFFFFFF`:
+```asm
 .text:001D27F6 cmp     eax, 0FFFFFFFFh
 .text:001D27F9 jz      short loc_1D2809
+```
+
+* Add the value `0xFFFFFFFF` to `esi`:
+```asm
 .text:001D27FB add     esi, 0FFFFFFFFh
+```
+
+* 
+```asm
 .text:001D27FE mov     dword ptr [ebp+var_24], esi
 .text:001D2801 adc     edi, 0FFFFFFFFh
 .text:001D2804 mov     dword ptr [ebp+var_24+4], edi
