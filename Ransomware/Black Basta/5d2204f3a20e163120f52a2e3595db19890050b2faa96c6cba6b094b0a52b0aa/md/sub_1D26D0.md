@@ -322,64 +322,200 @@
 .text:001D2776 mov     eax, [eax+ecx+14h]
 ```
 
-*
+* And the value of `eax` with `0x1C0` and store it in `eax`:
 ```asm
 .text:001D277A and     eax, 1C0h
+```
+
+* Check if the value of `eax` equals `0x40`:
+```asm
 .text:001D277F cmp     eax, 40h ; '@'
 .text:001D2782 jz      short loc_1D27B8
+```
+
+* Check if the value of `edi` is lower than zero:
+```asm
 .text:001D2784
 .text:001D2784 loc_1D2784:                             ; CODE XREF: sub_1D26D0+E4↓j
 .text:001D2784 test    edi, edi
 .text:001D2786 jl      short loc_1D27B6
+```
+
+* Check if the value of `edi` is greater than zero:
+```asm
 .text:001D2788 jg      short loc_1D278E
+```
+
+* Check if the value of `esi` equals zero:
+```asm
 .text:001D278A test    esi, esi
 .text:001D278C jz      short loc_1D27B6
+```
+
+* Obtain the value in the memory location `ecx` and store it in `eax`:
+```asm
 .text:001D278E
 .text:001D278E loc_1D278E:                             ; CODE XREF: sub_1D26D0+B8↑j
 .text:001D278E mov     eax, [ecx]
+```
+
+* Add the value in the memory location `eax+4` to `ecx`:
+```asm
 .text:001D2790 add     ecx, [eax+4]
+```
+
+* Obtain the value in the memory location `ecx+40h` and store it in `eax`:
+```asm
 .text:001D2793 movzx   eax, byte ptr [ecx+40h]
+```
+
+* Store the value of `eax` in the stack:
+```asm
 .text:001D2797 push    eax
+```
+
+* Obtain the value in the memory location `ecx+38h` and store it in `ecx`:
+```asm
 .text:001D2798 mov     ecx, [ecx+38h]
+```
+
+* Call the function [`sub_1EC490`](sub_1EC490.md):
+```asm
 .text:001D279B call    sub_1EC490
+```
+
+* 
+```asm
 .text:001D27A0 cmp     eax, 0FFFFFFFFh
 .text:001D27A3 jz      short loc_1D2809
+```
+
+* Add the value `0xFFFFFFFF` to `esi`:
+```asm
 .text:001D27A5 add     esi, 0FFFFFFFFh
+```
+
+* Store the value of `esi` in the stack:
+```asm
 .text:001D27A8 mov     dword ptr [ebp+var_24], esi
+```
+
+* Add with carry the value `0xFFFFFFFF` to `edi`:
+```asm
 .text:001D27AB adc     edi, 0FFFFFFFFh
+```
+
+* Store the value of `edi` in the stack:
+```asm
 .text:001D27AE mov     dword ptr [ebp+var_24+4], edi
+```
+
+* Obtain a value from the stack and store it in `ecx`:
+```asm
 .text:001D27B1 mov     ecx, [ebp+arg_0]
+```
+
+* Go to the location `loc_1D2784`:
+```asm
 .text:001D27B4 jmp     short loc_1D2784
+```
+
+* Obtain the value in the memory location `ecx` and store it in `edx`:
+```asm
 .text:001D27B6 ; ---------------------------------------------------------------------------
 .text:001D27B6
 .text:001D27B6 loc_1D27B6:                             ; CODE XREF: sub_1D26D0+B6↑j
 .text:001D27B6                                         ; sub_1D26D0+BC↑j
 .text:001D27B6 mov     edx, [ecx]
+```
+
+* Obtain the value in the memory location `edx+4` and store it in `eax`:
+```asm
 .text:001D27B8
 .text:001D27B8 loc_1D27B8:                             ; CODE XREF: sub_1D26D0+B2↑j
 .text:001D27B8 mov     eax, [edx+4]
+```
+
+* Obtain the value in the memory location `eax+ecx+38h` and store it in `ecx`:
+```asm
 .text:001D27BB mov     ecx, [eax+ecx+38h]
+```
+
+* Obtain the value in the memory location `ecx` and store it in `eax`:
+```asm
 .text:001D27BF mov     eax, [ecx]
+```
+
+* Store the value `0` in the stack:
+```asm
 .text:001D27C1 push    0
+```
+
+* Obtain a value from the stack and store it in the stack:
+```asm
 .text:001D27C3 push    [ebp+var_18]
+```
+
+* Obtain a value from the stack and store it in the stack:
+```asm
 .text:001D27C6 push    [ebp+arg_4]
+```
+
+* Obtain the value in the memory location `eax+24h` and store it in `eax`:
+```asm
 .text:001D27C9 mov     eax, [eax+24h]
+```
+
+* Call the function `eax`:
+```asm
 .text:001D27CC call    eax
+```
+
+* Check if a value in the stack does not equal the value of `eax`:
+```asm
 .text:001D27CE cmp     eax, [ebp+var_18]
 .text:001D27D1 jnz     short loc_1D2809
+```
+
+* Check if the value of `edx` does not equal zero:
+```asm
 .text:001D27D3 test    edx, edx
 .text:001D27D5 jnz     short loc_1D2809
+```
+
+* Check if the value of `edi` is lower than zero:
+```asm
 .text:001D27D7
 .text:001D27D7 loc_1D27D7:                             ; CODE XREF: sub_1D26D0+137↓j
 .text:001D27D7 test    edi, edi
 .text:001D27D9 jl      short loc_1D2811
+```
+
+* Check if the value of `edi` is lower than zero:
+```asm
 .text:001D27DB jg      short loc_1D27E1
+```
+
+* Check if the value of `esi` equals zero:
+```asm
 .text:001D27DD test    esi, esi
 .text:001D27DF jz      short loc_1D2811
+```
+
+* Obtain a value from the stack and store it in `ecx`:
+```asm
 .text:001D27E1
 .text:001D27E1 loc_1D27E1:                             ; CODE XREF: sub_1D26D0+10B↑j
 .text:001D27E1 mov     ecx, [ebp+arg_0]
+```
+
+* Obtain the value in the memory location `ecx` and store it in `eax`:
+```asm
 .text:001D27E4 mov     eax, [ecx]
+```
+
+* Add the value in the memory location `eax+4` to `ecx`:
+```asm
 .text:001D27E6 add     ecx, [eax+4]
 .text:001D27E9 movzx   eax, byte ptr [ecx+40h]
 .text:001D27ED push    eax
