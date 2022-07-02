@@ -2,13 +2,15 @@
 
 ## Description
 
+This function allocates a number of bytes through the use of the function [`_malloc`](_malloc.md).
 
 ## Arguments
 
+* `Size` : The number of bytes to allocate through the function [`_malloc`](_malloc.md).
 
 ## Return Value
 
-(Add return value.)
+`void *` : A pointer to the allocated memory buffer.
 
 ## Dependencies
 
@@ -22,3 +24,6 @@
 
 ![??2@YAPAXI@Z Graph](../svg/%3F%3F2%40YAPAXI%40Z.svg "??2@YAPAXI@Z Graph")
 
+## Remarks
+
+The function possibly performs other checks in case of error.
