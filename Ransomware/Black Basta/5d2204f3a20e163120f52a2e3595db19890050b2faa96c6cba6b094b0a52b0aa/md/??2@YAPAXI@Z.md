@@ -17,5 +17,5 @@
 
 ## Graph
 
-![??2@YAPAXI@Z Graph](../svg/??2@YAPAXI@Z.svg "??2@YAPAXI@Z Graph")
+![??2@YAPAXI@Z Graph](../svg/%3F%3F2%40YAPAXI%40Z.svg "??2@YAPAXI@Z Graph")
 
