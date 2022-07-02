@@ -2,8 +2,11 @@
 
 ## Description
 
+This function is a method of an unknown class.
 
 ## Arguments
+
+* `Object` : The object of the unknown class (Referenced through `ecx` register).
 
 
 ## Return Value
