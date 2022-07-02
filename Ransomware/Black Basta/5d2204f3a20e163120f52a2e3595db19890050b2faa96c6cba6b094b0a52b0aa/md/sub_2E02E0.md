@@ -22,6 +22,16 @@ This function is a method of an unknown class. It performs the following actions
   }
 ```
 
+* It performs a check as follows:
+```c
+  //BB_002E030E
+  //...
+  bool condition3 = (arg_0 << 2) >= 0x1000;
+  if (condition3) {
+    //...
+  }
+```
+
 ## Arguments
 
 * `Object` : The object of the unknown class (Referenced through `ecx` register).
