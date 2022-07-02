@@ -3,7 +3,6 @@
 ## Description
 
 
-
 ## Arguments
 
 
@@ -14,7 +13,11 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`??2@YAPAXI@Z`](%3F%3F2%40YAPAXI%40Z.md)
+  * [`sub_30851F`](sub_30851F.md)
+  * [`sub_2D4A00`](sub_2D4A00.md)
+  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
+  * [`sub_2E29D0`](sub_2E29D0.md)
 
 ## Graph
 
