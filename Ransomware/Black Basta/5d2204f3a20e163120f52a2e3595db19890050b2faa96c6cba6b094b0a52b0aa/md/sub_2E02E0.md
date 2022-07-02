@@ -39,8 +39,8 @@ The `Object` is defined as follows:
 
 ```c
 struct {
- unsigned int a;
- unsigned int b;
+ int a;
+ int b;
 };
 ```
 
