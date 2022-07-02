@@ -5,6 +5,9 @@
 This is the main function.
 
 * The function checks if the argument `argc` is greater than `1`.
+* The function iterates over the arguments `argv`, one argument at a time.
+* The function obtains the value of `argv[x+1]` then checks if the first character equals `-`.
+* The function checks if the call to the function [`unknown_libname_1`](unknown_libname_1.md) was successful.
 
 ## Arguments
 
@@ -35,5 +38,5 @@ This is the main function.
 
 ## Graph
 
-(Add graph.)
+![\_main Graph](svg/_main.svg "_main Graph")
 
