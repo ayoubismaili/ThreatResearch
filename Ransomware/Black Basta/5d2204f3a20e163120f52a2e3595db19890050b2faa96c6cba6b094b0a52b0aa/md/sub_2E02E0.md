@@ -2,7 +2,12 @@
 
 ## Description
 
-This function is a method of an unknown class.
+This function is a method of an unknown class. It performs the following actions:
+* It performs a check as follows:
+```c
+  bool condition1 = ((Object->a - Object->b) >> 2) == arg_0;
+```
+
 
 ## Arguments
 
@@ -25,4 +30,17 @@ This function is a method of an unknown class.
 ## Graph
 
 ![sub_2E02E0 Graph](../svg/sub_2E02E0.svg "sub_2E02E0 Graph")
+
+## Remarks
+
+### Object Structure
+
+The `Object` is defined as follows:
+
+```c
+struct {
+ unsigned int a;
+ unsigned int b;
+};
+```
 
