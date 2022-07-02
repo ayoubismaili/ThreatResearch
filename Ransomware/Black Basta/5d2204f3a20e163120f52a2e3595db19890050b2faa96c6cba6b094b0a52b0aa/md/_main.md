@@ -4,9 +4,12 @@
 
 This is the main function.
 
+* The function checks if the argument `argc` is greater than `1`.
+
 ## Arguments
 
-(Add arguments.)
+* `argc` : The count of `main` arguments.
+* `argv` : The values of `main` arguments.
 
 ## Return Value
 
