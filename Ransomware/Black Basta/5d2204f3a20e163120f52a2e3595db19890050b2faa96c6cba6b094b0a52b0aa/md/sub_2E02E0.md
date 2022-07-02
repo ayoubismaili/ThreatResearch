@@ -5,13 +5,17 @@
 This function is a method of an unknown class. It performs the following actions:
 * It performs a check as follows:
 ```c
-  bool condition1 = ((Object->a - Object->b) >> 2) == arg_0;
+  bool condition1 = ((Object->a - Object->b) >> 2) >= arg_0;
+  if (condition1) {
+    //...
+  }
 ```
 
 
 ## Arguments
 
 * `Object` : The object of the unknown class (Referenced through `ecx` register).
+* `arg_0` : First Argument
 
 
 ## Return Value
