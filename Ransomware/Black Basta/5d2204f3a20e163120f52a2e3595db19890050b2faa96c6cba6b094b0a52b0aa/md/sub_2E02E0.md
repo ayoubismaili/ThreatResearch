@@ -5,6 +5,8 @@
 This function is a method of an unknown class. It performs the following actions:
 * It performs a check as follows:
 ```c
+  //BB_002E02E0
+  //...
   bool condition1 = ((Object->a - Object->b) >> 2) >= arg_0;
   if (condition1) {
     //...
@@ -13,6 +15,7 @@ This function is a method of an unknown class. It performs the following actions
 
 * It performs a check as follows:
 ```c
+  //BB_002E0302
   bool condition2 = arg_0 <= 0x3FFFFFFF;
   if (condition2) {
     //...
