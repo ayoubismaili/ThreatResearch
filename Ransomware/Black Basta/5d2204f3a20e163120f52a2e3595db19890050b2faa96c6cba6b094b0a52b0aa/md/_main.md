@@ -38,5 +38,5 @@ This is the main function.
 
 ## Graph
 
-![\_main Graph](svg/_main.svg "_main Graph")
+![\_main Graph](../svg/_main.svg "_main Graph")
 
