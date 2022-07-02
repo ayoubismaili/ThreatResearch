@@ -1,0 +1,21 @@
+digraph G {
+  start -> BB_002EDA40;
+  BB_002EDA40 -> BB_002EDA90 [color=red];
+  BB_002EDA40 -> BB_002EDB10 [color=green];
+  BB_002EDA90 -> BB_002EDAA2 [color=red];
+  BB_002EDA90 -> BB_002EDB0B [color=green];
+  BB_002EDAA2 -> BB_002EDAAA [color=red];
+  BB_002EDAA2 -> BB_002EDADE [color=green];
+  BB_002EDAAA -> BB_002EDB08 [color=blue];
+  BB_002EDADE -> BB_002EDB08 [color=blue];
+  BB_002EDB08 -> BB_002EDB0B [color=blue];
+  BB_002EDB0B -> BB_002EDB10 [color=red];
+  BB_002EDB0B -> BB_002EDA90 [color=green];
+  BB_002EDB10 -> BB_002EDB53 [color=red];
+  BB_002EDB10 -> BB_002EDB95 [color=green];
+  BB_002EDB53 -> BB_002EDB95 [color=blue];
+  BB_002EDB95 -> end;
+  
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+}
