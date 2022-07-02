@@ -11,6 +11,13 @@ This function is a method of an unknown class. It performs the following actions
   }
 ```
 
+* It performs a check as follows:
+```c
+  bool condition2 = arg_0 <= 0x3FFFFFFF;
+  if (condition2) {
+    //...
+  }
+```
 
 ## Arguments
 
