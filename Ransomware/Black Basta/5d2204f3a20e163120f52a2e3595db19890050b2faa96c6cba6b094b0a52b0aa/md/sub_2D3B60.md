@@ -31,7 +31,11 @@ v2 = v1 & arg_8;
 v3 = Object->Field0C;
 v4 = Object->Field04;
 v5 = v3 + v2*8;
-
+v6 = v5->Field04;
+if (v6 == v4) {
+  //BB_002D3B7A
+  //...
+}
 ```
 
 ### BB_002D3B7A 
