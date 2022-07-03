@@ -3,7 +3,6 @@
 ## Description
 
 
-
 ## Arguments
 
 
@@ -14,7 +13,7 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2D3B60`](sub_2D3B60.md)
 
 ## Graph
 
