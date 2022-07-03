@@ -55,7 +55,7 @@ This function is a method of an unknown class. It performs the following actions
 
 * It sets a value in the buffer:
 ```c
-  //BB_002E0325
+  //BB_002E0336
   unsigned char* data1 = (unsigned char*)buffer1;
   unsigned char* ptr1 = (data1 + 0x23) & 0xFFFFFFE0;
   *(ptr1 - 4) = data1;
