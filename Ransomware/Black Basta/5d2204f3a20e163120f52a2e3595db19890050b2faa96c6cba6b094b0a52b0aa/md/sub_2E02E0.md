@@ -26,10 +26,40 @@ This function is a method of an unknown class. It performs the following actions
 ```c
   //BB_002E030E
   //...
-  bool condition3 = (arg_0 << 2) >= 0x1000;
+  tmp = (arg_0 << 2);
+  bool condition3 = tmp >= 0x1000;
   if (condition3) {
     //...
   }
+```
+
+* It performs a check as follows:
+```c
+  //BB_002E031A
+  //...
+  bufSize = tmp + 0x23;
+  bool condition4 = bufSize > tmp;
+  if (condition4) {
+    //...
+  }
+```
+
+* It allocates a buffer:
+```c
+  //BB_002E0325
+  void* buffer1 = ??2@YAPAXI@Z(bufSize);
+  if (buffer1) {
+    //...
+  }
+```
+
+* It sets a value in the buffer:
+```c
+  //BB_002E0325
+  unsigned char* data1 = (unsigned char*)buffer1;
+  unsigned char* ptr1 = (data1 + 0x23) & 0xFFFFFFE0;
+  *(ptr1 - 4) = data1;
+  //...
 ```
 
 ## Arguments
