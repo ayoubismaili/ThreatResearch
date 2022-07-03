@@ -41,5 +41,10 @@ if (v6 == v4) {
 ### BB_002D3B7A 
 
 ```c
+v7 = arg_0;
+v7->Field00 = v4;
+v7->Field04 = 0;
+return;
 ```
+
 
