@@ -14,8 +14,23 @@ value += 3;
 value >>= 2;
 value = (arg_0 > arg_4) ? 0: value;
 if (value != 0) {
+  //BB_002D4A23
   //...
 }
+//BB_002D4A4E
+//...
+```
+
+* It performs a check as follows:
+```c
+//BB_002D4A23
+if (value >= 4)
+{
+  //BB_002D4A28
+  //...
+}
+//BB_002D4A4E
+//...
 ```
 
 ## Arguments
