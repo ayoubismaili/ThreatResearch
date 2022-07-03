@@ -33,6 +33,20 @@ if (value >= 4)
 //...
 ```
 
+* It performs a check as follows:
+```c
+//BB_002D4A28
+//...
+if (arg_0 <= arg_8)
+{
+  //BB_002D4A35
+  //...
+}
+//BB_002D4A39
+//...
+```
+
+
 ## Arguments
 
 * `arg_0` : 
