@@ -2,13 +2,16 @@
 
 ## Description
 
+This function is a method of an unknown class. It initializes some fields of the `Object`. It also counts the length of `Src`.
 
 ## Arguments
 
+* `Object` : An object of an unknown class.
+* `Src` : First argument.
 
 ## Return Value
 
-(Add return value.)
+`Object` : The method returns a pointer to the `Object`.
 
 ## Dependencies
 
@@ -19,3 +22,15 @@
 
 ![sub_2D6B90 Graph](../svg/sub_2D6B90.svg "sub_2D6B90 Graph")
 
+## Remarks
+
+### Object Structure
+
+```c
+struct {
+  int a;
+  char b[12]; //Unused
+  int c;
+  int d;
+};
+```
