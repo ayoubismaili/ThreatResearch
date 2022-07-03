@@ -3,7 +3,6 @@
 ## Description
 
 
-
 ## Arguments
 
 
@@ -14,7 +13,8 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_30851F`](sub_30851F.md)
+  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
 
 ## Graph
 
