@@ -5,6 +5,7 @@
 
 ## Arguments
 
+* `arg_0` : The first argument.
 
 ## Return Value
 
@@ -13,7 +14,7 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2D42B0`](sub_2D42B0.md)
 
 ## Graph
 
