@@ -23,10 +23,19 @@ This function is a method of an unknown object.
 
 ## Pseudo-code
 
-| Basic Block | Code |
-| ----------- | ----------- |
-| `BB_002D3B60` | ```HelloWorld
-Hello
-``` |
-| Paragraph   | First paragraph. <br><br> Second paragraph. |
+### BB_002D3B60
+
+```c
+v1 = Object->Field18;
+v2 = v1 & arg_8;
+v3 = Object->Field0C;
+v4 = Object->Field04;
+v5 = v3 + v2*8;
+
+```
+
+### BB_002D3B7A 
+
+```c
+```
 
