@@ -26,12 +26,12 @@ This function is a method of an unknown object.
 ### BB_002D3B60
 
 ```c
-v1 = Object->Field18;
+v1 = Object->Dword18;
 v2 = v1 & arg_8;
-v3 = Object->Field0C;
-v4 = Object->Field04;
+v3 = Object->Dword0C;
+v4 = Object->Dword04;
 v5 = v3 + v2*8;
-v6 = v5->Field04;
+v6 = v5->Dword04;
 if (v6 == v4) {
   //BB_002D3B7A
   //...
@@ -42,18 +42,18 @@ if (v6 == v4) {
 
 ```c
 v7 = arg_0;
-v7->Field00 = v4;
-v7->Field04 = 0;
+v7->Dword00 = v4;
+v7->Dword04 = 0;
 return;
 ```
 
 ### BB_002D3B8B
 
 ```c
-v8 = v5->Field00;
+v8 = v5->Dword00;
 v9 = arg_4;
 arg_8 = v8;
-v10 = v9->Field10;
+v10 = v9->Dword10;
 //BB_002D3BA0
 //...
 ```
@@ -130,6 +130,13 @@ if (v19 >= 0) //Unsure about correctness: this needs manual verification.
 
 ```c
 v20 = v18->Dword00;
-//TBD...
+if (v20 == v14->Dword00) {
+  //BB_002D3BC6
+  //...
+}
+//BB_002D3BD6
+//...
 ```
+
+
 
