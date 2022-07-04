@@ -13,7 +13,15 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2D8D10`](sub_2D8D10.md)
+  * [`sub_2EC490`](sub_2EC490.md)
+  * [`sub_2EC3C0`](sub_2EC3C0.md)
+  * [`j____uncaught_exception`](j____uncaught_exception.md)
+  * [`sub_2E2720`](sub_2E2720.md)
+  * `?make_error_code@std@@YA?AVerror_code@1@W4io_errc@1@@Z_0`
+  * [`sub_2D7ED0`](sub_2D7ED0.md)
+  * [`sub_3098A0`](sub_3098A0.md)
+
 
 ## Graph
 
