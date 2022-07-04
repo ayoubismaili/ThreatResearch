@@ -53,6 +53,21 @@ if (condition) {
     if (condition) {
       BB_002D272C:
       //...
+      if (condition)
+      {
+        BB_002D2730:
+        //...
+        if (condition) {
+          BB_002D2732:
+          //...
+          if (condition)
+          {
+            goto BB_002D2736;
+          }
+        } else {
+          goto BB_002D2736;
+        }
+      }
     }
   } else {
     goto BB_002D2736;
@@ -60,5 +75,14 @@ if (condition) {
 }
 BB_002D273C:
 //...
+
+goto BB_002D274A;
+BB_002D2736:
+//...
+
+BB_002D274A:
+//...
+
+
 
 ```
