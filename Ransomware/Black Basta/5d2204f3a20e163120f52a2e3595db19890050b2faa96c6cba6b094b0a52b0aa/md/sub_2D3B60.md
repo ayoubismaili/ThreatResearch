@@ -101,7 +101,35 @@ v17 = v9->Dword00;
 //...
 ```
 
+### BB_002D3BB6
 
+```c
+v18 = v15 ? v17: v16; //v18 = phi(v16, v17) 
+if (v10 == v6->Dword18) {
+  //BB_002D3BBB
+  //...
+}
+//BB_002D3C06
+//...
+```
 
+### BB_002D3BBB
 
+```c
+v19 = v10 - 4;
+if (v19 >= 0) //Unsure about correctness: this needs manual verification.
+{
+  //BB_002D3BC0
+  //...
+}
+//BB_002D3BD1
+//...
+```
+
+### BB_002D3BC0
+
+```c
+v20 = v18->Dword00;
+//TBD...
+```
 
