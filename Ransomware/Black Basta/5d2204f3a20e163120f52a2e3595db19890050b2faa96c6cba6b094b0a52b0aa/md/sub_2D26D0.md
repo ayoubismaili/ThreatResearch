@@ -34,31 +34,31 @@
 ## Flow
 
 ```c
-:BB_002D26D0
+BB_002D26D0:
 //...
 
-:BB_002D2706
+BB_002D2706:
 do{
   //...
 }while (condition);
 
-:BB_002D270D
+BB_002D270D:
 //...
 if (condition) {
-  :BB_002D2726
+  BB_002D2726:
   //...
   if (condition) {
-    :BB_002D2728
+    BB_002D2728:
     //...
     if (condition) {
-      :BB_002D272C
+      BB_002D272C:
       //...
     }
   } else {
-    goto BB_002D2736
+    goto BB_002D2736;
   }
 }
-:BB_002D273C
+BB_002D273C:
 //...
 
 ```
