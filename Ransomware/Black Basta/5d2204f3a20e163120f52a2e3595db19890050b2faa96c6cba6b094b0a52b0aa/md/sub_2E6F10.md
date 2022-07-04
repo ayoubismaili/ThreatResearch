@@ -13,7 +13,7 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
 
 ## Graph
 
