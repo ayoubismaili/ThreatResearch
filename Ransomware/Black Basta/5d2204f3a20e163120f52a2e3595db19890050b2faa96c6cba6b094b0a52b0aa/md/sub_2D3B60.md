@@ -138,5 +138,56 @@ if (v20 == v14->Dword00) {
 //...
 ```
 
+### BB_002D3BC6
+
+```c
+v21 = v18 + 4;
+v22 = v14 + 4;
+ v18 = v21; //Propagate changes to BB_002D3BC0
+ v14 = v22; //Propagate changes to BB_002D3BC0
+v23 = v19 - 4;
+if (v23 < 0) //Unsure about correctness: this needs manual verification.
+{
+  //BB_002D3BD1
+  //...
+}
+//BB_002D3BC0
+//...
+```
+
+### BB_002D3BD1
+
+```c
+if (v23 != 0xFFFFFFFC) {
+  //BB_002D3BD6
+  //...
+}
+//BB_002D3C10
+//...
+```
+
+### BB_002D3BD6
+
+```c
+v24 = v18->Byte00;
+if (v24 == v14->Byte00) {
+  //BB_002D3BDC
+  //...
+}
+//BB_002D3C03
+//...
+```
+
+### BB_002D3BDC
+
+```c
+if (v23 != 0xFFFFFFFD) {
+  //BB_002D3BE1
+  //...
+}
+//BB_002D3C10
+//...
+```
+
 
 
