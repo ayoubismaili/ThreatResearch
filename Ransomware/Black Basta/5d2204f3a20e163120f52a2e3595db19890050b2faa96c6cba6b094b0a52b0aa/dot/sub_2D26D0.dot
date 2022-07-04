@@ -1,0 +1,112 @@
+digraph G {
+  start -> BB_002D26D0;
+
+  BB_002D26D0 -> BB_002D2706 [color=blue];
+  
+  BB_002D2706 -> BB_002D270D [color=red];
+  BB_002D2706 -> BB_002D2706 [color=green];
+  
+  BB_002D270D -> BB_002D2726 [color=red];
+  BB_002D270D -> BB_002D273C [color=green];
+  
+  BB_002D2726 -> BB_002D2728 [color=red];
+  BB_002D2726 -> BB_002D2736 [color=green];
+  
+  BB_002D2728 -> BB_002D272C [color=red];
+  BB_002D2728 -> BB_002D273C [color=green];
+  
+  BB_002D272C -> BB_002D2730 [color=red];
+  BB_002D272C -> BB_002D273C [color=green];
+  
+  BB_002D2730 -> BB_002D2732 [color=red];
+  BB_002D2730 -> BB_002D2736 [color=green];
+  
+  BB_002D2732 -> BB_002D2736 [color=red];
+  BB_002D2732 -> BB_002D273C [color=green];
+  
+  BB_002D2736 -> BB_002D274A [color=blue];
+  
+  BB_002D273C -> BB_002D274A [color=blue];
+  
+  BB_002D274A -> BB_002D2760 [color=red];
+  BB_002D274A -> BB_002D276A [color=green];
+  
+  BB_002D2760 -> BB_002D2855 [color=blue];
+  
+  BB_002D276A -> BB_002D2784 [color=red];
+  BB_002D276A -> BB_002D27B8 [color=green];
+  
+  BB_002D2784 -> BB_002D2788 [color=red];
+  BB_002D2784 -> BB_002D27B6 [color=green];
+  
+  BB_002D2788 -> BB_002D278A [color=red];
+  BB_002D2788 -> BB_002D278E [color=green];
+  
+  BB_002D278A -> BB_002D278E [color=red];
+  BB_002D278A -> BB_002D27B6 [color=green];
+  
+  BB_002D278E -> BB_002D27A5 [color=red];
+  BB_002D278E -> BB_002D2809 [color=green];
+  
+  BB_002D27A5 -> BB_002D2784 [color=blue];
+  
+  BB_002D27B6 -> BB_002D27B8 [color=blue];
+  
+  BB_002D27B8 -> BB_002D27D3 [color=red];
+  BB_002D27B8 -> BB_002D2809 [color=green];
+  
+  BB_002D27D3 -> BB_002D27D7 [color=red];
+  BB_002D27D3 -> BB_002D2809 [color=green];
+  
+  BB_002D27D7 -> BB_002D27DB [color=red];
+  BB_002D27D7 -> BB_002D2811 [color=green];
+  
+  BB_002D27DB -> BB_002D27DD [color=red];
+  BB_002D27DB -> BB_002D27E1 [color=green];
+  
+  BB_002D27DD -> BB_002D27E1 [color=red];
+  BB_002D27DD -> BB_002D2811 [color=green];
+  
+  BB_002D27E1 -> BB_002D27FB [color=red];
+  BB_002D27E1 -> BB_002D2809 [color=green];
+  
+  BB_002D27FB -> BB_002D27D7 [color=blue];
+  
+  BB_002D2809 -> BB_002D2811 [color=blue];
+  
+  BB_002D2811 -> BB_002D2858 [color=blue];
+  
+  BB_002D2832 -> end;
+  
+  BB_002D284B -> BB_002D2855 [color=blue];
+  
+  BB_002D2855 -> BB_002D2858 [color=blue];
+  
+  BB_002D2858 -> BB_002D2880 [color=red];
+  BB_002D2858 -> BB_002D28C8 [color=green];
+  
+  BB_002D2880 -> BB_002D2890 [color=red];
+  BB_002D2880 -> BB_002D2898 [color=green];
+  
+  BB_002D2890 -> BB_002D2898 [color=blue];
+  
+  BB_002D2898 -> BB_002D28AF [color=red];
+  BB_002D2898 -> BB_002D28B4 [color=green];
+  
+  BB_002D28AF -> BB_002D28B4 [color=blue];
+  
+  BB_002D28B4 -> end;
+  
+  BB_002D28C8 -> BB_002D28CC [color=red];
+  BB_002D28C8 -> BB_002D28D3 [color=green];
+  
+  BB_002D28CC -> BB_002D28E2 [color=blue];
+  
+  BB_002D28D3 -> BB_002D28E2 [color=blue];
+  
+  BB_002D28E2 -> dead_end;
+
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+  dead_end [shape=Msquare];
+}
