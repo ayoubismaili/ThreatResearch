@@ -27,3 +27,28 @@
 
 ![sub_2D26D0 Graph](../svg/sub_2D26D0.svg "sub_2D26D0 Graph")
 
+## Pseudo-code
+
+(Add pseudo-code.)
+
+## Flow
+
+```c
+//BB_002D26D0
+//...
+
+//BB_002D2706
+do{
+  //...
+}while (condition);
+
+//BB_002D270D
+//...
+if (condition) {
+  //BB_002D2726
+  //...
+}
+//BB_002D273C
+//...
+
+```
