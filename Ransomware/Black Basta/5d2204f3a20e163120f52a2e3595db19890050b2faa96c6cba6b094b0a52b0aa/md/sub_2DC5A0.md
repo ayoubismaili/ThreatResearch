@@ -75,7 +75,7 @@ v16 = &ServiceStartTable;
 var_38 = 0;
 var_34 = 0;
 v17 = StartServiceCtrlDispatcherW(v16);
-if (v17) {
+if (v17 == 0) {
   //BB_002DC63B
   //...
 }
@@ -83,4 +83,16 @@ if (v17) {
 //...
 ```
 
+### BB_002DC63B
+
+```c
+v18 = OpenSCManagerW(v17, v17, 0xF003F);
+v19 = v18;
+if (v19 == 0) {
+  //BB_002DC64E
+  //...
+}
+//BB_002DC69E
+//...
+```
 
