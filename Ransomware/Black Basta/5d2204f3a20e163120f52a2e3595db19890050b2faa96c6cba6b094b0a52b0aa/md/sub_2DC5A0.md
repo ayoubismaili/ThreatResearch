@@ -45,3 +45,33 @@ This function is possibly responsible for infecting the machine and performing f
 
 ![sub_2DC5A0 Graph](../svg/sub_2DC5A0.svg "sub_2DC5A0 Graph")
 
+## Flow
+
+(Add flow.)
+
+## Pseudo-code
+
+### BB_002DC5A0
+
+```c
+v1 = sub_2D26D0(unk_359670, aEncryption);
+v2 = v1;
+v3 = v2->Dword00;
+v4 = v3->Dword04;
+v5 = v4 + v2;
+v6 = sub_2ED330(v5, 0xA); //UnknownObject.sub_2ED330(...)
+v7 = v6;
+v8 = v2;
+v9 = sub_2EAB20(v8, v7); //UnknownObject.sub_2EAB20(...)
+v10 = v2;
+v11 = sub_2E76E0(v10); //UnknownObject.sub_2E76E0(...)
+v12 = dword_357290 >= 8;
+v13 = lpServiceName;
+ServiceStartTable.lpServiceProc = sub_2DFE80;
+v14 = lpServiceName;
+v15 = v12 ? v14: v13; //v15 = phi(v13, v14);
+
+
+
+```
+
