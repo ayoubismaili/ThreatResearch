@@ -70,8 +70,17 @@ v13 = lpServiceName;
 ServiceStartTable.lpServiceProc = sub_2DFE80;
 v14 = lpServiceName;
 v15 = v12 ? v14: v13; //v15 = phi(v13, v14);
-
-
-
+ServiceStartTable.lpServiceName = v15;
+v16 = &ServiceStartTable;
+var_38 = 0;
+var_34 = 0;
+v17 = StartServiceCtrlDispatcherW(v16);
+if (v17) {
+  //BB_002DC63B
+  //...
+}
+//BB_002DC8B0
+//...
 ```
+
 
