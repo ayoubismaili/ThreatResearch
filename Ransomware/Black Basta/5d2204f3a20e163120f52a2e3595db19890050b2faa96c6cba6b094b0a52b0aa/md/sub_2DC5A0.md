@@ -19,6 +19,7 @@ This function is possibly responsible for infecting the machine and performing f
   * [`sub_2ED330`](sub_2ED330.md)
   * [`sub_2EAB20`](sub_2EAB20.md)
   * [`sub_2E76E0`](sub_2E76E0.md)
+  * [`sub_2DFE80`](sub_2DFE80.md)
   * [`StartServiceCtrlDispatcherW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-startservicectrldispatcherw)
   * [`OpenSCManagerW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-openscmanagerw)
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
