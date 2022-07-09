@@ -136,4 +136,29 @@ v27 = __loaddll(0);
 //...
 ```
 
+### BB_002DC69E
+
+```c
+v28 = sub_2DF650();
+v29 = _alloca(0x18);
+v30 = v29;
+phkResult = v29;
+v31 = sub_2D6BD0(xmmword_3571D4);
+var_4 = 0;
+v32 = _alloca(0x18);
+v33 = v32;
+var_30 = v32;
+v34 = sub_2D6BD0(lpServiceName);
+var_4 = 1;
+var_4 = 0xFFFFFFFF;
+v35 = (v19 != 0) ? v19: GetLastError;
+v36 = sub_2DC8E0(v35);
+if (v36 != 0) {
+  //BB_002DC6EA
+  //...
+}
+//BB_002DC87D
+//...
+
+```
 
