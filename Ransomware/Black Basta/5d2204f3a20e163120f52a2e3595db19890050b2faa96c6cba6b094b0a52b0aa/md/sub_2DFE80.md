@@ -18,11 +18,12 @@ void LpserviceMainFunctionw(
 
 ## Arguments
 
-(Add arguments.)
+* `dwNumServicesArgs` : 
+* `lpServiceArgVectors` : 
 
 ## Return Value
 
-(Add return value.)
+None.
 
 ## Dependencies
 
