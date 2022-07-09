@@ -55,5 +55,29 @@ None.
 
 ## Pseudo-code
 
-(Add pseudo-code.)
+### BB_002DFE80
+
+```c
+v1 = GetSystemMetrics(0x43);
+v2 = v1;
+v3 = sub_2D26D0(unk_359670, aBootOption);
+v4 = v3;
+v5 = sub_2DA530(v4); //UnknownObject.sub_2DA530(...)
+v6 = v5;
+v7 = v6->Dword00;
+v8 = v7->Dword04;
+v9 = v8 + v6;
+v10 = sub_2ED330(v9, 0xA); //UnknownObject.sub_2ED330(...)
+v11 = v10;
+v12 = v6;
+v13 = sub_2EAB20(v12, v11); //UnknownObject.sub_2EAB20(...)
+v14 = v6;
+v15 = sub_2E76E0(v14); //UnknownObject.sub_2E76E0(...)
+if (v1 != 0) {
+  //BB_002DFED0
+  //...
+}
+//BB_002E004B
+//...
+```
 
