@@ -245,4 +245,57 @@ v71 = __loaddll(v38);
 //...
 ```
 
+### BB_002DC81E
+
+```c
+v72 = sub_2D26D0(unk_359670, aErrorWhileAddi);
+v73 = sub_2DA8D0(v72, sub_2D4910); //UnknownObject.sub_2DA8D0(...)
+v74 = __loaddll(0);
+//BB_002DC843
+//...
+```
+
+### BB_002DC843
+
+```c
+v75 = sub_2DEA60(v74, 0x2E0);
+v76 = __loaddll(0);
+//BB_002DC858
+//...
+```
+
+### BB_002DC858
+
+```c
+v77 = sub_2D26D0(unk_359670, aThisProgramNee);
+v78 = v77;
+v79 = sub_2DA8D0(v78, sub_2D4910); //UnknownObject.sub_2DA8D0(...)
+v80 = __loaddll(0);
+//BB_002DC87D
+//...
+```
+
+### BB_002DC87D
+
+```c
+v81 = GetLastError();
+v82 = sub_2D26D0(unk_359670, aErrorWhileCrea);
+v83 = v82;
+v84 = sub_2DA700(v83, v81);
+v85 = v84;
+v86 = sub_2DA8D0(v85, sub_2D4910);
+v87 = __loaddll(0);
+//BB_002DC8B0
+//...
+```
+
+### BB_002DC8B0
+
+```c
+v88 = sub_2D26D0(unk_359670, aStartedAsServi);
+v89 = v88;
+v90 = sub_2DA8D0(v89, sub_2D4910);
+v91 = __loaddll(0);
+//dead_end
+```
 
