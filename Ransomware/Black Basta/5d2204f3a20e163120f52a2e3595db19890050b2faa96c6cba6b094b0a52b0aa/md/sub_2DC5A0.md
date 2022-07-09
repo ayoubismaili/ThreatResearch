@@ -200,4 +200,21 @@ if (v52 == 0) {
 //..
 ```
 
+### BB_002DC75A
+
+```c
+v53 = _alloca(0x18);
+v54 = v53;
+var_30 = v54;
+v55 = sub_2D6BD0(lpServiceName);
+var_4 = 2;
+var_4 = 0xFFFFFFFF;
+v56 = sub_2DCEE0(phkResult);
+if (v56 != 0) {
+  //BB_002DC78D
+  //...
+}
+//BB_002DC81E
+//...
+```
 
