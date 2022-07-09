@@ -241,6 +241,8 @@ var_4 = 0xFFFFFFFF;
 v69 = sub_2E0280();
 v70 = ShellExecuteA(v38, Operation, File, Parameters, v38, v38);
 v71 = __loaddll(v38);
+//BB_002DC81E
+//...
 ```
 
 
