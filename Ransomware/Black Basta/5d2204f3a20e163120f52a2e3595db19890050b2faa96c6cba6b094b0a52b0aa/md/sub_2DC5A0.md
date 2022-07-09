@@ -205,7 +205,7 @@ if (v52 == 0) {
 ```c
 v53 = _alloca(0x18);
 v54 = v53;
-var_30 = v54;
+var_30 = v53;
 v55 = sub_2D6BD0(lpServiceName);
 var_4 = 2;
 var_4 = 0xFFFFFFFF;
@@ -217,4 +217,30 @@ if (v56 != 0) {
 //BB_002DC81E
 //...
 ```
+
+### BB_002DC78D
+
+```c
+v57 = sub_30DC04(aBcdeditSetSafe);
+v58 = sub_30DC04(aCWindowsSystem);
+v59 = sub_30DC04(aCWindowsSysnat);
+v60 = &var_28;
+v61 = sub_2DFCB0(v60);
+var_4 = 3;
+v62 = unk_357294;
+v63 = sub_2DA440(v61);
+var_4 = 0xFFFFFFFF;
+v64 = &var_28;
+v65 = sub_2D9620(v64); //UnknownObject.sub_2D9620(...)
+v66 = _alloca(0x18);
+v67 = v66;
+var_30 = v66;
+v68 = sub_2D6BD0(unk_357294);
+var_4 = 4;
+var_4 = 0xFFFFFFFF;
+v69 = sub_2E0280();
+v70 = ShellExecuteA(v38, Operation, File, Parameters, v38, v38);
+v71 = __loaddll(v38);
+```
+
 
