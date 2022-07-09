@@ -2,6 +2,19 @@
 
 ## Description
 
+This is the [`LPSERVICE_MAIN_FUNCTIONW`](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nc-winsvc-lpservice_main_functionw) callback function of the *Service Start Table*.
+
+## Syntax
+
+```c
+LPSERVICE_MAIN_FUNCTIONW LpserviceMainFunctionw;
+
+void LpserviceMainFunctionw(
+  [in] DWORD dwNumServicesArgs,
+  [in] LPWSTR *lpServiceArgVectors
+)
+{...}
+```
 
 ## Arguments
 
@@ -30,7 +43,7 @@
   * [`CreateThread`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread)
   * [`WaitForSingleObject`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject)
   * [`CloseHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
-  
+
 ## Graph
 
 ![sub_2DFE80 Graph](../svg/sub_2DFE80.svg "sub_2DFE80 Graph")
