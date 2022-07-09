@@ -162,3 +162,31 @@ if (v36 != 0) {
 
 ```
 
+### BB_002DC6EA
+
+```c
+v37 = GetSystemMetrics(0x43);
+v38 = v37;
+v39 = sub_2D26D0(unk_359670, aBootOption);
+v40 = v39;
+v41 = sub_2DA530(v40); //UnknownObject.sub_2DA530(...)
+v42 = v41;
+v43 = v42->Dword00;
+v44 = v43->Dword04;
+v45 = v44 + v42;
+v46 = sub_2ED330(v45, 0xA); //UnknownObject.sub_2ED330(...)
+v47 = v46;
+v48 = v42;
+v49 = sub_2EAB20(v48, v47); //UnknownObject.sub_2EAB20(...)
+v50 = v42;
+v51 = sub_2E76E0(v50); //UnknownObject.sub_2E76E0(...)
+if (v38 == 0) {
+  //BB_002DC738
+  //...
+}
+//BB_002DC858
+//...
+```
+
+
+
