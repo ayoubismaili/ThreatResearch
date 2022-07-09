@@ -151,7 +151,7 @@ var_30 = v32;
 v34 = sub_2D6BD0(lpServiceName);
 var_4 = 1;
 var_4 = 0xFFFFFFFF;
-v35 = (v19 != 0) ? v19: GetLastError;
+v35 = (v19 != 0) ? v19: GetLastError; //phi
 v36 = sub_2DC8E0(v35);
 if (v36 != 0) {
   //BB_002DC6EA
