@@ -81,3 +81,22 @@ if (v1 != 0) {
 //...
 ```
 
+### BB_002DFED0
+
+```c
+v16 = dword_357290 >= 8;
+v17 = lpServiceName;
+v18 = v16 ? v17: lpServiceName; //phi
+v19 = RegisterServiceCtrlHandlerW(v18, HandlerProc);
+hServiceStatus = v19;
+if (v19 != 0) {
+  //BB_002DFEFC
+  //...
+}
+//BB_002E004B
+//...
+```
+
+
+
+
