@@ -116,4 +116,24 @@ v21 = sub_2D26D0(unk_359670, aPleaseRunProgr);
 //...
 ```
 
+### BB_002DC66F
+
+```c
+v22 = GetLastError();
+v23 = sub_2D26D0(unk_359670, aCantOpenScmMan);
+v24 = v23;
+v25 = sub_2DA700(v24);
+//BB_002DC68B
+//...
+```
+
+### BB_002DC68B
+
+```c
+v26 = sub_2DA8D0(v25, sub_2D4910);
+v27 = __loaddll(0);
+//BB_002DC69E
+//...
+```
+
 
