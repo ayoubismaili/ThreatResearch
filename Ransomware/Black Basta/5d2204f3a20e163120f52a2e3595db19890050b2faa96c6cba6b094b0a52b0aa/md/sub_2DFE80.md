@@ -3,6 +3,14 @@
 ## Description
 
 This is the [`LPSERVICE_MAIN_FUNCTIONW`](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nc-winsvc-lpservice_main_functionw) callback function of the *Service Start Table*.
+The function checks how the system was booted by obtaining the metric `SM_CLEANBOOT`. A large portion of the function code is not executed unless the system boot is not normal.
+
+> The value that specifies how the system is started:
+> 0 Normal boot
+> 1 Fail-safe boot
+> 2 Fail-safe with network boot
+> 
+> A fail-safe boot (also called SafeBoot, Safe Mode, or Clean Boot) bypasses the user startup files.
 
 ## Syntax
 
