@@ -212,7 +212,7 @@ ServiceStatus.dwControlsAccepted = 1;
 ServiceStatus.dwCurrentState = 4;
 ServiceStatus.dwWin32ExitCode = 0;
 ServiceStatus.dwCheckPoint = 0;
-v23 = SetServiceStatus(hServiceStatus, ServiceStatus);
+v23 = SetServiceStatus(hServiceStatus, &ServiceStatus);
 if (v23 == 0) {
   //BB_002DFFDA
   //...
@@ -246,7 +246,7 @@ ServiceStatus.dwCheckPoint = 3;
 ### BB_002E0033
 
 ```c
-v26 = SetServiceStatus(hServiceStatus, ServiceStatus);
+v26 = SetServiceStatus(hServiceStatus, &ServiceStatus);
 if (v26 == 0) {
   //BB_002E0044
   //...

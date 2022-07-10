@@ -77,7 +77,7 @@ void sub_2DFE80(
         ServiceStatus.dwCurrentState = 4;
         ServiceStatus.dwWin32ExitCode = 0;
         ServiceStatus.dwCheckPoint = 0;
-        v23 = SetServiceStatus(hServiceStatus, ServiceStatus);
+        v23 = SetServiceStatus(hServiceStatus, &ServiceStatus);
         if (v23 == 0) {
         //BB_002DFFA1 End
 
@@ -101,7 +101,7 @@ void sub_2DFE80(
 
       BB_002E0033:
       //BB_002E0033 Start
-      v26 = SetServiceStatus(hServiceStatus, ServiceStatus);
+      v26 = SetServiceStatus(hServiceStatus, &ServiceStatus);
       if (v26 == 0) {
       //BB_002E0033 End
 
