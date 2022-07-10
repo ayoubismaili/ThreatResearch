@@ -2,6 +2,7 @@
 
 ## Description
 
+This function is the *Service Control Handler* procedure.
 
 ## Syntax
 
