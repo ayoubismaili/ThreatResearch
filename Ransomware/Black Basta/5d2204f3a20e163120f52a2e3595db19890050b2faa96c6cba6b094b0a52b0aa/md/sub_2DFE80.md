@@ -51,7 +51,47 @@ None.
 
 ## Flow
 
-(Add flow.)
+```c
+BB_002DFE80:
+//...
+if (condition) {
+  BB_002DFED0:
+  //...
+  if (condition) {
+    BB_002DFEFC:
+    //...
+    if (condition)
+    {
+      BB_002DFF5A:
+      //...
+    }
+    BB_002DFF61:
+    //...
+    if (condition) {
+      BB_002DFF78:
+      //...
+    } else {
+      BB_002DFFA1:
+      //...
+      if (condition) {
+        BB_002DFFDA:
+        //...
+      }
+      BB_002DFFE1:
+      //...
+    }
+    BB_002E0033:
+    //...
+    if (condition) {
+      BB_002E0044:
+      //...
+    }
+  }
+}
+BB_002E004B:
+//...
+end:
+```
 
 ## Pseudo-code
 
