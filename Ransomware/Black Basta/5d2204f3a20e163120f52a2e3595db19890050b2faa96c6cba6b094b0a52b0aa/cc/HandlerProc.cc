@@ -3,7 +3,6 @@ void HandlerProc(
 )
 {
   BB_002DFE00:
-
   //BB_002DFE00 Start
   dwControl -= 1;
   if (dwControl == 0) {
