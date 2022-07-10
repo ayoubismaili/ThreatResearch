@@ -16,6 +16,10 @@ void LpserviceMainFunctionw(
 {...}
 ```
 
+## Source
+
+Go to [source](../cc/sub_2DFE80.cc).
+
 ## Arguments
 
 * `dwNumServicesArgs` : 
