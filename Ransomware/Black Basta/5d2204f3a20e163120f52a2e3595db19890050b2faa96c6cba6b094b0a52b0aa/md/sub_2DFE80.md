@@ -97,6 +97,121 @@ if (v19 != 0) {
 //...
 ```
 
+### BB_002DFEFC
 
+```c
+ServiceStatus.dwWaitHint = 0;
+ServiceStatus.dwServiceType = 0x10;
+ServiceStatus.dwControlsAccepted = 0;
+ServiceStatus.dwCurrentState = 0;
+ServiceStatus.dwWin32ExitCode = 0;
+ServiceStatus.dwServiceSpecificExitCode = 0;
+ServiceStatus.dwCheckPoint = 0;
+v20 = SetServiceStatus(v19, &ServiceStatus);
+if (v20 == 0)
+{
+  //BB_002DFF5A
+  //...
+}
+//BB_002DFF61
+//...
+```
 
+### BB_002DFF5A
+
+```c
+OutputDebugStringW(aMySampleServic_0);
+//BB_002DFF61
+//...
+```
+
+### BB_002DFF61
+
+```c
+v21 = CreateEventW(0, 1, 0, 0);
+hHandle = v21;
+if (v21 == 0) {
+  //BB_002DFF78
+  //...
+}
+//BB_002DFFA1
+//...
+```
+
+### BB_002DFF78
+
+```c
+ServiceStatus.dwControlsAccepted = v21;
+ServiceStatus.dwCurrentState = 1;
+v22 = GetLastError();
+ServiceStatus.dwWin32ExitCode = v22;
+ServiceStatus.dwCheckPoint = 1;
+//BB_002E0033
+//...
+```
+
+### BB_002DFFA1
+
+```c
+ServiceStatus.dwControlsAccepted = 1;
+ServiceStatus.dwCurrentState = 4;
+ServiceStatus.dwWin32ExitCode = 0;
+ServiceStatus.dwCheckPoint = 0;
+v23 = SetServiceStatus(hServiceStatus, ServiceStatus);
+if (v23 == 0) {
+  //BB_002DFFDA
+  //...
+}
+//BB_002DFFE1
+//...
+```
+
+### BB_002DFFDA
+
+```c
+OutputDebugStringW(aMySampleServic_0);
+//BB_002DFFE1
+//...
+```
+
+### BB_002DFFE1
+
+```c
+v24 = CreateThread(0, 0, StartAddress, 0, 0, 0);
+WaitForSingleObject(v24, 0xFFFFFFFF);
+v25 = CloseHandle(hHandle);
+ServiceStatus.dwControlsAccepted = 0;
+ServiceStatus.dwCurrentState = 1;
+ServiceStatus.dwWin32ExitCode = 0;
+ServiceStatus.dwCheckPoint = 3;
+//BB_002E0033
+//...
+```
+
+### BB_002E0033
+
+```c
+v26 = SetServiceStatus(hServiceStatus, ServiceStatus);
+if (v26 == 0) {
+  //BB_002E0044
+  //...
+}
+//BB_002E004B
+//...
+```
+
+### BB_002E0044
+
+```c
+OutputDebugStringW(aMySampleServic_0);
+//BB_002E004B
+//...
+```
+
+### BB_002E004B
+
+```c
+return;
+//end
+```
 
