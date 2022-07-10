@@ -1,3 +1,16 @@
+#ifndef aBootOption
+  #define aBootOption "Boot option: "
+#endif
+
+#ifndef aMySampleServic_0
+  #define aMySampleServic_0 L"My Sample Service: ServiceMain: SetServiceStatus returned error"
+#endif
+
+#ifndef lpServiceName
+  #define lpServiceName L"Fax"
+#endif
+
+
 void sub_2DFE80(
   /*[in]*/ DWORD dwNumServicesArgs,
   /*[in]*/ LPWSTR *lpServiceArgVectors
@@ -73,7 +86,7 @@ void sub_2DFE80(
 
         BB_002DFFA1:
         //BB_002DFFA1 Start
-        ServiceStatus.dwControlsAccepted = 1;
+        ServiceStatus.dwControlsAccepted = SERVICE_ACCEPT_STOP;
         ServiceStatus.dwCurrentState = SERVICE_RUNNING;
         ServiceStatus.dwWin32ExitCode = 0;
         ServiceStatus.dwCheckPoint = 0;
