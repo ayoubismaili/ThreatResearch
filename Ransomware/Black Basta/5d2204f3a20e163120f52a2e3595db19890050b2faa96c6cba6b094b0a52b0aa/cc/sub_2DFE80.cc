@@ -5,7 +5,7 @@ void sub_2DFE80(
 {
   BB_002DFE80:
   //BB_002DFE80 Start
-  v1 = GetSystemMetrics(0x43);
+  v1 = GetSystemMetrics(SM_CLEANBOOT);
   v2 = v1;
   v3 = sub_2D26D0(unk_359670, aBootOption);
   v4 = v3;
