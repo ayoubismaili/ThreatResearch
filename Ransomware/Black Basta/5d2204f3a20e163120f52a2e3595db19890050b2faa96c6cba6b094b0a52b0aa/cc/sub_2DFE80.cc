@@ -36,10 +36,10 @@ void sub_2DFE80(
       BB_002DFEFC:
       //BB_002DFEFC Start
       ServiceStatus.dwWaitHint = 0;
-      ServiceStatus.dwServiceType = 0x10;
+      ServiceStatus.dwServiceType = SERVICE_WIN32_OWN_PROCESS;
       ServiceStatus.dwControlsAccepted = 0;
       ServiceStatus.dwCurrentState = 0;
-      ServiceStatus.dwWin32ExitCode = 0;
+      ServiceStatus.dwWin32ExitCode = NO_ERROR;
       ServiceStatus.dwServiceSpecificExitCode = 0;
       ServiceStatus.dwCheckPoint = 0;
       v20 = SetServiceStatus(v19, &ServiceStatus);
@@ -63,7 +63,7 @@ void sub_2DFE80(
         BB_002DFF78:
         //BB_002DFF78 Start
         ServiceStatus.dwControlsAccepted = v21;
-        ServiceStatus.dwCurrentState = 1;
+        ServiceStatus.dwCurrentState = SERVICE_STOPPED;
         v22 = GetLastError();
         ServiceStatus.dwWin32ExitCode = v22;
         ServiceStatus.dwCheckPoint = 1;
@@ -74,7 +74,7 @@ void sub_2DFE80(
         BB_002DFFA1:
         //BB_002DFFA1 Start
         ServiceStatus.dwControlsAccepted = 1;
-        ServiceStatus.dwCurrentState = 4;
+        ServiceStatus.dwCurrentState = SERVICE_RUNNING;
         ServiceStatus.dwWin32ExitCode = 0;
         ServiceStatus.dwCheckPoint = 0;
         v23 = SetServiceStatus(hServiceStatus, &ServiceStatus);
@@ -93,7 +93,7 @@ void sub_2DFE80(
         WaitForSingleObject(v24, 0xFFFFFFFF);
         v25 = CloseHandle(hHandle);
         ServiceStatus.dwControlsAccepted = 0;
-        ServiceStatus.dwCurrentState = 1;
+        ServiceStatus.dwCurrentState = SERVICE_STOPPED;
         ServiceStatus.dwWin32ExitCode = 0;
         ServiceStatus.dwCheckPoint = 3;
         //BB_002DFFE1 End

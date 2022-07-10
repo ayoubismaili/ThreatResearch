@@ -15,7 +15,7 @@ The function checks how the system was booted by obtaining the metric `SM_CLEANB
 > 
 > A fail-safe boot (also called SafeBoot, Safe Mode, or Clean Boot) bypasses the user startup files.
 
-The function registers [`HandlerProc`](HandlerProc.md) as a *Service Control Handler*.
+The function registers [`HandlerProc`](HandlerProc.md) as a *Service Control Handler*. It also creates an unnamed *Event Object*;
 
 ## Syntax
 
