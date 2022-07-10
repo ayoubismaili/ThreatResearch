@@ -61,6 +61,12 @@ BB_002DFE66:
 ### BB_002DFE00
 
 ```c
-
+dwControl -= 1;
+if (dwControl == 0) {
+  //BB_002DFE09
+  //...
+}
+//BB_002DFE66
+//...
 ```
 
