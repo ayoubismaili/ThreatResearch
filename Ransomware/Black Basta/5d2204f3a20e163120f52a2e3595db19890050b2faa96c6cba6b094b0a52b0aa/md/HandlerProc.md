@@ -3,12 +3,24 @@
 ## Description
 
 
+## Syntax
+
+```c
+LPHANDLER_FUNCTION LphandlerFunction;
+
+void LphandlerFunction(
+  DWORD dwControl
+)
+{...}
+```
+
 ## Arguments
 
+* `dwControl` : 
 
 ## Return Value
 
-(Add return value.)
+None.
 
 ## Dependencies
 
