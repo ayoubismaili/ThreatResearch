@@ -438,7 +438,7 @@ v107 = v106->Dword04;
 v108 = v107();
 v109 = v108;
 v110 = sub_2D26D0(unk_359670, aErrrrrrrror);
-v111 = sub_2D26D0(unk_359670, v101);
+v111 = sub_2D26D0(unk_359670, v109);
 v112 = &loc_2DFA58;
 return v112;
 //end
