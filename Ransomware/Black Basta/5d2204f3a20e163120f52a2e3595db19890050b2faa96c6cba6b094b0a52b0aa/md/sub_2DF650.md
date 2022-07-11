@@ -149,5 +149,22 @@ if (v10 != &xmmword_35721C) {
 //...
 ```
 
+### BB_002DF734
+
+```c
+v11 = &xmmword_35721C;
+v12 = sub_2E2BC0(v11);
+v13 = v10->Xmm00;
+xmmword_35721C = v13;
+v14 = v10->Qword10;
+qword_35722C = v14;
+v10->Dword10 = 0;
+v10->Dword14 = 0xF;
+v10->Byte00 = 0;
+//BB_002DF766
+//...
+```
+
+
 
 
