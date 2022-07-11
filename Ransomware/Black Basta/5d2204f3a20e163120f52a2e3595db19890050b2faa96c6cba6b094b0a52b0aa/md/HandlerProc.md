@@ -2,7 +2,7 @@
 
 ## Description
 
-This function is the *Service Control Handler* procedure.
+This function is the *Service Control Handler* procedure. This handler is registered by the function [`sub_2DFE80`](sub_2DFE80.md).
 
 ## Syntax
 
