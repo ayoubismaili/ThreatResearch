@@ -315,9 +315,146 @@ if (v48 <= 0x1F) {
 //...
 ```
 
+### BB_002DF8AF
 
+```c
+v49 = sub_30851F(v46, v45);
+//BB_002DF8B9
+//...
+```
 
+### BB_002DF8B9
 
+```c
+var_3C = 0;
+var_38 = 0xF;
+Src = 0;
+v50 = sub_2F01C0(unk_35925C);
+v51 = &xmmword_35721C;
+v52 = dword_357230 >= 0x10;
+v53 = v52 ? dword_35721C: v51; //phi
+v54 = sub_2F00A0(&unk_35925C, dword_35722C, 1, 1, 0, 0, v53);
+v55 = sub_2F01C0(&unk_359250);
+v56 = &xmmword_357204;
+v57 = dword_357218 >= 0x10;
+v58 = v57 ? dword_357204: v56; //phi
+v59 = sub_2F00A0(&unk_359250, dword_357214, 1, 1, 0, 0, v58);
+var_4 = 4;
+v60 = &var_9C;
+v61 = sub_2D71D0(v60); //UnknownObject.sub_2D71D0(...)
+var_4 = 5;
+v62 = &Block;
+v63 = sub_2DF1B0(v62);
+var_4 = 6;
+v64 = &unk_3571EC;
+v65 = sub_2DA3D0(v64, v63); //UnknownObject.sub_2DA3D0(...)
+var_4 = 5;
+v66 = &Block;
+v67 = sub_2E2BC0(v66); //UnknownObject.sub_2E2BC0(...)
+v68 = &Block;
+v69 = &var_9C;
+v70 = sub_2E7840(v69, v68); //UnknownObject.sub_2E7840(...)
+var_4 = 7;
+v71 = &unk_357264;
+v72 = sub_2DA440(v71, v68); //UnknownObject.sub_2DA440(...)
+var_4 = 5;
+v73 = &Block;
+v74 = sub_2E2C40(v73); //UnknownObject.sub_2E2C40(...)
+v75 = &Block;
+v76 = sub_2DFCB0(v75);
+var_4 = 8;
+v77 = &unk_357294;
+v78 = sub_2DA440(v77, v76); //UnknownObject.sub_2DA440(...)
+var_4 = 5;
+v79 = &Block;
+v80 = sub_2E2C40(v79); //UnknownObject.sub_2E2C40(...)
+v81 = _alloca(0x18);
+v82 = v81;
+var_A0 = v81;
+v83 = sub_2D6BD0(unk_357294);
+var_4 = 9;
+var_4 = 5;
+v84 = sub_2E0280();
+v85 = &Block;
+v86 = sub_2DFB60(v85);
+var_4 = 0xA;
+v87 = &unk_3572AC;
+v88 = sub_2DA440(v87, v86); //UnknownObject.sub_2DA440(...)
+var_4 = 5;
+v89 = &Block;
+v90 = sub_2E2C40(v89); //UnknownObject.sub_2E2C40(...)
+v91 = _alloca(0x18);
+v92 = v91;
+var_A0 = v91;
+v93 = sub_2D6BD0(unk_3572AC);
+var_4 = 0xB;
+var_4 = 5;
+v94 = sub_2E0150();
+var_4 = 4;
+v95 = &var_9C;
+v96 = sub_2D9AF0(v95);
+//BB_002DFA4A
+//...
+```
 
+### BB_002DFA4A
 
+```c
+var_4 = 0xFFFFFFFF;
+var_4 = 0xD;
+//BB_002DFA58
+//...
+```
 
+### BB_002DFA58
+
+```c
+var_4 = 0xFFFFFFFF;
+return v96;
+//end
+```
+
+### BB_002DFA7B
+
+```c
+v97 = var_A4;
+v98 = v97->Dword00;
+v99 = v98->Dword04;
+v100 = v99();
+v101 = v100;
+v102 = sub_2D26D0(unk_359670, aErrrrrrrror);
+v103 = sub_2D26D0(unk_359670, v101);
+v104 = &loc_2DFA4A;
+return v104;
+//end
+```
+
+### BB_002DFAAD
+
+```c
+v105 = var_A8;
+v106 = v105->Dword00;
+v107 = v106->Dword04;
+v108 = v107();
+v109 = v108;
+v110 = sub_2D26D0(unk_359670, aErrrrrrrror);
+v111 = sub_2D26D0(unk_359670, v101);
+v112 = &loc_2DFA58;
+return v112;
+//end
+```
+
+### BB_002DFADF
+
+```c
+v113 = __invalid_parameter_noinfo_noreturn();
+//BB_002DFAE4
+//...
+```
+
+### BB_002DFAE4
+
+```c
+v114 = __invalid_parameter_noinfo_noreturn();
+//dead_end
+```
