@@ -61,5 +61,48 @@ BB_002E0137:
 //...
 ```
 
+## Pseudo-code
+
+### BB_002E0050
+
+```c
+v1 = WaitForSingleObject(hHandle, 0);
+if (v1 != 0) {
+  //BB_002E008E
+  //...
+}
+//BB_002E0137
+//...
+```
+
+### BB_002E008E
+
+```c
+v2 = sub_2DF650();
+v3 = &var_1C;
+v4 = sub_2DEE40(v3);
+var_4 = 0;
+v6 = 0x2AAAAAAB;
+v7 = var_18;
+v8 = 0;
+v9 = var_1C;
+v10 = v7 - v9;
+v11 = v10 * v6;
+v12 = v11 & 0xFFFFFFFF;
+v13 = v11 >> 32;
+v14 = v13 >> 2;
+v15 = v14;
+v16 = v15 >> 0x1F;
+v17 = v16 + v14;
+if (v17 != 0) {
+  //BB_002E00C3
+  //...
+}
+//BB_002E0107
+//...
+```
+
+
+
 
 
