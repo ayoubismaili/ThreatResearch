@@ -10,14 +10,14 @@ void HandlerProc(
 
     BB_002DFE09:
     //BB_002DFE09 Start
-    if (ServiceStatus.dwCurrentState == 4) {
+    if (ServiceStatus.dwCurrentState == SERVICE_RUNNING) {
     //BB_002DFE09 End
 
       BB_002DFE12:
       //BB_002DFE12 Start
       ServiceStatus.dwControlsAccepted = 0;
-      ServiceStatus.dwCurrentState = 3;
-      ServiceStatus.dwWin32ExitCode = 0;
+      ServiceStatus.dwCurrentState = SERVICE_STOP_PENDING;
+      ServiceStatus.dwWin32ExitCode = NO_ERROR;
       ServiceStatus.dwCheckPoint = 4;
       v1 = SetServiceStatus(hServiceStatus, &ServiceStatus);
       if (v1 == 0) {
