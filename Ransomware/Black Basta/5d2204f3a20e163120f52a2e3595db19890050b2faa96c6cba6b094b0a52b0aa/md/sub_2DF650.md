@@ -270,6 +270,54 @@ v34->Byte00 = 0;
 //...
 ```
 
+### BB_002DF872
+
+```c
+var_4 = 2;
+v39 = &Block;
+v40 = sub_2E2BC0(v39);
+var_4 = 0xFFFFFFFF;
+v41 = var_38;
+if (v41 >= 0x10) {
+  //BB_002DF88D
+  //...
+}
+//BB_002DF8B9
+//...
+```
+
+### BB_002DF88D
+
+```c
+v42 = v41 + 1;
+v43 = Src;
+v44 = v43;
+if (v42 >= 0x1000) {
+  //BB_002DF89B
+  //...
+}
+//BB_002DF8AF
+//...
+```
+
+### BB_002DF89B
+
+```c
+v45 = v42 + 0x23;
+v46 = v44->NegativeDword04;
+v47 = v44 - v46;
+v48 = v47 + 0xFFFFFFFC;
+if (v48 <= 0x1F) {
+  //BB_002DF8AF
+  //...
+}
+//BB_002DFAE4
+//...
+```
+
+
+
+
 
 
 
