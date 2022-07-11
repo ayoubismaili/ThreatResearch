@@ -3,6 +3,7 @@
 ## Description
 
 This function is the *Service Control Handler* procedure. This handler is registered by the function [`sub_2DFE80`](sub_2DFE80.md).
+This handler changes the status of the service from `SERVICE_RUNNING` to `SERVICE_STOP_PENDING`.
 
 ## Syntax
 
