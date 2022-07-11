@@ -108,5 +108,46 @@ BB_002DFAE4:
 
 ```
 
+## Pseudo-code
+
+### BB_002DF650
+
+```c
+pIdentifierAuthority.Value[0] = 0;
+pIdentifierAuthority.Value[1] = 0;
+pIdentifierAuthority.Value[2] = 0;
+pIdentifierAuthority.Value[3] = 0;
+pIdentifierAuthority.Value[4] = 0;
+pIdentifierAuthority.Value[5] = 1;
+v1 = &pIdentifierAuthority;
+v2 = AllocateAndInitializeSid(v1, 1, 0, 0, 0, 0, 0, 0, 0, 0, pSid);
+v3 = GetCurrentProcessId();
+dword_359278 = v3;
+v4 = FreeConsole();
+v5 = sub_30DC04(aCWindowsSysnat_0);
+v6 = sub_30DC04(aCWindowsSystem_0);
+Block = 0;
+var_24 = 0;
+var_20 = 0;
+var_24 = 0;
+var_20 = 0xF;
+Block = 0;
+var_24 = 4;
+Block = 0x42415141;
+var_30 = 0;
+var_4 = 0;
+v7 = &Block;
+v8 = &Src;
+v9 = sub_2F1320(v8, v7, 0);
+v10 = v9;
+var_4 = 1;
+if (v10 != &xmmword_35721C) {
+  //BB_002DF734
+  //...
+}
+//BB_002DF766:
+//...
+```
+
 
 
