@@ -210,6 +210,65 @@ if (v24 <= 0x1F) {
 //...
 ```
 
+### BB_002DF7A3
+
+```c
+v25 = sub_30851F(v22, v21);
+//BB_002DF7AD
+//...
+```
+
+### BB_002DF7AD
+
+```c
+var_24 = 0;
+var_20 = 0xF;
+Block = 0;
+Src = 0;
+var_3C = 0;
+var_38 = 0;
+var_3C = 0;
+var_38 = 0xF;
+Src = 0;
+v26 = &Src;
+v27 = sub_2E3350(v26, 0x2B0); //UnknownObject.sub_2E3350(...)
+var_3C = 0x2AC;
+var_38 = 0x2AF;
+v28 = 0xAB;
+v29 = aUagkcg5mzsQxxu;
+v30 = v27;
+memcpy(v30, v29, v28);
+v27->Byte2AC = 0;
+Src = v27;
+var_4 = 2;
+v31 = &Src;
+v32 = &Block;
+v33 = sub_2F1320(v32, v31, 0);
+v34 = v33;
+var_4 = 3;
+if (v34 != &xmmword_357204) {
+  //BB_002DF840
+  //...
+}
+//BB_002DF872
+//...
+```
+
+### BB_002DF840
+
+```c
+v35 = &xmmword_357204;
+v36 = sub_2E2BC0(v35);
+v37 = v34->Xmm00;
+xmmword_357204 = v37;
+v38 = v34->Qword10;
+qword_357214 = v38;
+v34->Dword10 = 0;
+v34->Dword14 = 0xF;
+v34->Byte00 = 0;
+//BB_002DF872
+//...
+```
 
 
 
