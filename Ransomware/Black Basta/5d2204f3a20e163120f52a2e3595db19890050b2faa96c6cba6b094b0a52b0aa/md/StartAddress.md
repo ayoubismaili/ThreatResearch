@@ -36,3 +36,29 @@ typedef DWORD (__stdcall *LPTHREAD_START_ROUTINE) (
 
 ![StartAddress Graph](../svg/StartAddress.svg "StartAddress Graph")
 
+## Flow
+
+```c
+BB_002E0050:
+//...
+if (condition) {
+  BB_002E008E:
+  //...
+  if (condition) {
+  	BB_002E00C3:
+  	//...
+
+  	do {
+  	  BB_002E00C5:
+  	  //...
+  	} while(condition);
+
+  }
+  BB_002E0107:
+  //...
+}
+BB_002E0137:
+//...
+```
+
+
