@@ -45,3 +45,68 @@
 
 ![sub_2DF650 Graph](../svg/sub_2DF650.svg "sub_2DF650 Graph")
 
+## Flow
+
+```c
+BB_002DF650:
+//...
+if (condition) {
+  BB_002DF734:
+  //...
+}
+BB_002DF766:
+//...
+if (condition) {
+  BB_002DF781:
+  //...
+  if (condition) {
+    BB_002DF78F:
+    //...
+    if (condition) {
+      BB_002DFADF:
+      //...
+      goto BB_002DFAE4;
+    }
+  }
+
+  BB_002DF7A3:
+  //...
+}
+BB_002DF7AD:
+//...
+if (condition) {
+  BB_002DF840:
+  //...
+}
+BB_002DF872:
+//...
+if (condition) {
+  BB_002DF88D:
+  //...
+  if (condition) {
+    BB_002DF89B:
+    //...
+    if (condition) {
+      goto BB_002DFAE4;
+    }
+  }
+
+  BB_002DF8AF:
+  //...
+}
+BB_002DF8B9:
+//...
+BB_002DFA4A:
+//...
+BB_002DFA58:
+//...
+return;
+
+BB_002DFAE4:
+//...
+//dead_end
+
+```
+
+
+
