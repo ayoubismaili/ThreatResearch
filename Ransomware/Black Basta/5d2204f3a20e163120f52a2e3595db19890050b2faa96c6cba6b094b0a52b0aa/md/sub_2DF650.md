@@ -153,7 +153,7 @@ if (v10 != &xmmword_35721C) {
 
 ```c
 v11 = &xmmword_35721C;
-v12 = sub_2E2BC0(v11);
+v12 = sub_2E2BC0(v11); //UnknownObject.sub_2E2BC0(...)
 v13 = v10->Xmm00;
 xmmword_35721C = v13;
 v14 = v10->Qword10;
@@ -164,6 +164,52 @@ v10->Byte00 = 0;
 //BB_002DF766
 //...
 ```
+
+### BB_002DF766
+
+```c
+var_4 = 0;
+v15 = &Src;
+v16 = sub_2E2BC0(v15); //UnknownObject.sub_2E2BC0(...)
+var_4 = 0xFFFFFFFF;
+v17 = var_20;
+if (v17 >= 0x10) {
+  //BB_002DF781
+  //...
+}
+//BB_002DF7AD
+//...
+```
+
+### BB_002DF781
+
+```c
+v18 = v17 + 1;
+v19 = Block;
+v20 = v19;
+if (v18 >= 0x1000) {
+  //BB_002DF78F
+  //...
+}
+//BB_002DF7A3
+//...
+```
+
+### BB_002DF78F
+
+```c
+v21 = v18 + 0x23;
+v22 = v20->NegativeDword04;
+v23 = v20 - v22;
+v24 = v23 + 0xFFFFFFFC;
+if (v24 <= 0x1F) {
+  //BB_002DF7A3
+  //...
+}
+//BB_002DFADF
+//...
+```
+
 
 
 
