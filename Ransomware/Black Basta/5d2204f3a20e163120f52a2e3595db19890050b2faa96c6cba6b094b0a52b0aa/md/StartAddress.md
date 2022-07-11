@@ -2,6 +2,7 @@
 
 ## Description
 
+This function represents a *Thread Procedure* that is created from the function [`sub_2DFE80`](sub_2DFE80.md).
 
 ## Syntax
 
