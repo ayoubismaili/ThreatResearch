@@ -2,6 +2,7 @@
 
 ## Description
 
+This function uses the functions [`__spawnve`](__spawnve.md) and [`__spawnvpe`](__spawnvpe.md) to spawn the process `cmd.exe`.
 
 ## Arguments
 
