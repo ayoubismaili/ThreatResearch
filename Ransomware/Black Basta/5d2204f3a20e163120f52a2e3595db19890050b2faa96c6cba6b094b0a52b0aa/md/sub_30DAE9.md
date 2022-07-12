@@ -85,15 +85,14 @@ if (condition) {
 
     BB_0030DBB5:
     //...
-
-    BB_0030DBE8:
-    //...
-    goto BB_0030DBEB;
+    goto BB_0030DBE8;
   }
 
   BB_0030DBC7:
   //...
-  goto BB_0030DBE8;
+
+  BB_0030DBE8:
+  //...
 }
 BB_0030DBEB:
 //...
