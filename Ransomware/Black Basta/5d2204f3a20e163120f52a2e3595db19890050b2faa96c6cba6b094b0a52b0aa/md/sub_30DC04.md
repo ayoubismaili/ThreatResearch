@@ -13,7 +13,7 @@ DWORD sub_30DC04(CHAR* CommandLine)
 
 ## Arguments
 
-* `CommandLine` : The commmand line that will be executed
+* `CommandLine` : The command line that will be executed
 
 ## Return Value
 
