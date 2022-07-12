@@ -2,7 +2,7 @@
 
 ## Description
 
-This function uses the functions [`__spawnve`](__spawnve.md) and [`__spawnvpe`](__spawnvpe.md) to spawn the process `cmd.exe`.
+This function uses the functions [`__spawnve`](__spawnve.md) and [`__spawnvpe`](__spawnvpe.md) to spawn the process `cmd.exe`. It uses the function [`__dupenv_s`](__dupenv_s.md) to obtain the value of the environment variable `COMSPEC`.
 
 ## Arguments
 
