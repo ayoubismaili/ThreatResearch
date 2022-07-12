@@ -13,7 +13,7 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_30DAE9`](sub_30DAE9.md)
 
 ## Graph
 
