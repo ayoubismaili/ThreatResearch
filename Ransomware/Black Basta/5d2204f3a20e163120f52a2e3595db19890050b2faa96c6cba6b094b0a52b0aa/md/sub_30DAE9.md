@@ -35,7 +35,73 @@
 ## Flow
 
 ```c
+BB_0030DAE9:
+//...
+if (condition) {
+  BB_0030DB1B:
+  //...
+  if (!condition) {
+    goto BB_0030DBF9;
+  }
+}
+BB_0030DB24:
+//...
+if (condition) {
+  BB_0030DB28:
+  //...
+  if (condition) {
+    BB_0030DB2E:
+    //...
+  } else {
+    BB_0030DB3B:
+    //...
+  }
 
+} else {
+  BB_0030DB5C:
+  //...
+  if (condition) {
+    BB_0030DB74:
+    //...
+    if (condition) {
+      BB_0030DB9F:
+      //...
+    } else {
+      BB_0030DBA3:
+      //...
+      if (condition) {
+        BB_0030DBA8:
+        //...
+        if (condition) {
+          BB_0030DBB2:
+          //...
+          goto BB_0030DBB5;
+        }
+      }
+      BB_0030DBC0:
+      //...
+      goto BB_0030DBC7;
+    }
+
+    BB_0030DBB5:
+    //...
+
+    BB_0030DBE8:
+    //...
+    goto BB_0030DBEB;
+  }
+
+  BB_0030DBC7:
+  //...
+  goto BB_0030DBE8;
+}
+BB_0030DBEB:
+//...
+return;
+//end
+BB_0030DBF9:
+//...
+//dead_end
 ```
 
 ## Pseudo-code
