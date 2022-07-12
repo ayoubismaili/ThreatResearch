@@ -4,6 +4,13 @@
 
 This function jumps to the function [`sub_30DAE9`](sub_30DAE9.md).
 
+## Syntax
+
+```c
+DWORD sub_30DC04(CHAR* CommandLine)
+{...}
+```
+
 ## Arguments
 
 
