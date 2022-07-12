@@ -14,7 +14,8 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2E3350`](sub_2E3350.md)
+  * [`_memmove`](_memmove.md)
 
 ## Graph
 
