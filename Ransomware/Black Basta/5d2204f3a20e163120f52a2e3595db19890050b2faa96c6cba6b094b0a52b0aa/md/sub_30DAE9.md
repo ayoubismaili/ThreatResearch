@@ -22,6 +22,12 @@
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md)
   * [`__invoke_watson`](__invoke_watson.md)
 
+* Data dependencies:
+  * [`VarName`](VarName.md)
+  * [`aC`](aC.md)
+  * [`aCmdExe_0`](aCmdExe_0.md)
+  
+
 ## Graph
 
 ![sub_30DAE9 Graph](../svg/sub_30DAE9.svg "sub_30DAE9 Graph")
