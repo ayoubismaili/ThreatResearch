@@ -2,7 +2,7 @@
 
 ## Description
 
-This functions jumps to the function [`sub_30DAE9`](sub_30DAE9.md).
+This function jumps to the function [`sub_30DAE9`](sub_30DAE9.md).
 
 ## Arguments
 
