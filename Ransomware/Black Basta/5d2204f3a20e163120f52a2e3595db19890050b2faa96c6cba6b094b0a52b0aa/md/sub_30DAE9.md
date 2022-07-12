@@ -32,3 +32,31 @@
 
 ![sub_30DAE9 Graph](../svg/sub_30DAE9.svg "sub_30DAE9 Graph")
 
+## Flow
+
+```c
+
+```
+
+## Pseudo-code
+
+### BB_0030DAE9
+
+```c
+v1 = arg_0;
+v2 = &Block;
+v3 = 0;
+Block = v3;
+v4 = __dupenv_s(v2, v3, VarName);
+if (v4 != 0) {
+  //BB_0030DB1B
+  //...
+}
+//BB_0030DB24
+//...
+```
+
+
+
+
+
