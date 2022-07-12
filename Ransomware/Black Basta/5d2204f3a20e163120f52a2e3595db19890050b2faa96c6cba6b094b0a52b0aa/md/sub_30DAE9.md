@@ -13,7 +13,14 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`__dupenv_s`](__dupenv_s.md)
+  * [`__free_base`](__free_base.md)
+  * [`__access_s`](__access_s.md)
+  * [`__errno`](__errno.md)
+  * [`__spawnve`](__spawnve.md)
+  * [`__spawnvpe`](__spawnvpe.md)
+  * [`@__security_check_cookie@4`](@__security_check_cookie@4.md)
+  * [`__invoke_watson`](__invoke_watson.md)
 
 ## Graph
 
