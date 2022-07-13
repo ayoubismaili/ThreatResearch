@@ -26,6 +26,7 @@
 
 * Used by functions:
   * [`sub_2DC5A0`](sub_2DC5A0.md)
+  * [`sub_2DFE80`](sub_2DFE80.md)
 
 ## Graph
 
