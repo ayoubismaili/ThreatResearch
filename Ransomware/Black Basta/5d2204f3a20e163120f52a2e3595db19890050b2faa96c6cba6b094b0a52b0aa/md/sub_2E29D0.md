@@ -2,6 +2,7 @@
 
 ## Description
 
+This function unconditionally raises an exception by calling the function [`sub_3098A0`](sub_3098A0.md).
 
 ## Syntax
 
