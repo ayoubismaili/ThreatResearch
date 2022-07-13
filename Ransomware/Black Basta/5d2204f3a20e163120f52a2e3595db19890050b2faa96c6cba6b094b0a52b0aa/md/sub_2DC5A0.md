@@ -41,6 +41,10 @@ This function is possibly responsible for infecting the machine and performing f
   * [`ShellExecuteA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-shellexecutea)
   * [`sub_2DEA60`](sub_2DEA60.md)
 
+## Used By
+
+* Used by functions:
+  * [`_main`](_main.md)
 
 ## Graph
 

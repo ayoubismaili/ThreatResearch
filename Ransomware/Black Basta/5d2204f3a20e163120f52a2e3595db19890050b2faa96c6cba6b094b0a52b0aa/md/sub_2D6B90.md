@@ -18,6 +18,11 @@ This function is a method of an unknown class. It initializes some fields of the
 * Function dependencies:
   * [`sub_2E3BA0`](sub_2E3BA0.md)
 
+## Used By
+
+* Used by functions:
+  * [`_main`](_main.md)
+
 ## Graph
 
 ![sub_2D6B90 Graph](../svg/sub_2D6B90.svg "sub_2D6B90 Graph")

@@ -16,6 +16,11 @@
 * Function dependencies:
   * [`sub_2D42B0`](sub_2D42B0.md)
 
+## Used By
+
+* Used by functions:
+  * [`_main`](_main.md)
+
 ## Graph
 
 ![sub_2DAEA0 Graph](../svg/sub_2DAEA0.svg "sub_2DAEA0 Graph")
