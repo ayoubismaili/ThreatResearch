@@ -42,16 +42,16 @@ Go to [source](../cc/sub_2DA3D0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2E2BC0`](sub_2E2BC0.md)
 
 * Data dependencies:
-  * ...
+  * None.
 
 
 ## Used By
 
 * Used by functions:
-  * ...
+  * [`sub_2DF650`](sub_2DF650.md)
 
 ## Graph
 
