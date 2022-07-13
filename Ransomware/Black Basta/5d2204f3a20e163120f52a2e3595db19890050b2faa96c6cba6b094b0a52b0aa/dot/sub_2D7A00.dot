@@ -1,0 +1,8 @@
+digraph G {
+  start -> BB_002D7A00;
+
+  BB_002D7A00 -> end;
+
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+}
