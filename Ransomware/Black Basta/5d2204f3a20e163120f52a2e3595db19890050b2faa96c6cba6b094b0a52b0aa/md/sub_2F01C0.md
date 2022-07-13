@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Dependencies.
 - [ ] Add Used By.
-- [ ] Add Graph.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -42,7 +42,10 @@ Go to [assembly](../cc/sub_2F01C0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
+
+* Data dependencies:
+  * [`unk_341C98`](unk_341C98.md)
 
 ## Used By
 
