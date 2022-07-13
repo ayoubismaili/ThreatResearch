@@ -22,6 +22,10 @@
   * [`sub_2D7ED0`](sub_2D7ED0.md)
   * [`sub_3098A0`](sub_3098A0.md)
 
+## Used By
+
+* Used by functions:
+  * [`sub_2DC5A0`](sub_2DC5A0.md)
 
 ## Graph
 
