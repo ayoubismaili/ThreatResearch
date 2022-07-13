@@ -4,7 +4,7 @@
 
 - [ ] Add Description.
 - [ ] Add Syntax.
-- [ ] Add Assembly.
+- [X] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
@@ -47,7 +47,7 @@ Go to [assembly](../cc/sub_2F01C0.cc).
 ## Used By
 
 * Used by functions:
-  * ...
+  * [`sub_2DF650`](sub_2DF650.md)
 
 ## Graph
 
