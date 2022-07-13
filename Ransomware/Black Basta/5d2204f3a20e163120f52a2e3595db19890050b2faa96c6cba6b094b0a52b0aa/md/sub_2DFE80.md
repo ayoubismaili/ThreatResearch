@@ -63,6 +63,11 @@ None.
   * [`WaitForSingleObject`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject)
   * [`CloseHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
 
+## Used By
+
+* Used by functions:
+  * [`sub_2DC5A0`](sub_2DC5A0.md)
+
 ## Graph
 
 ![sub_2DFE80 Graph](../svg/sub_2DFE80.svg "sub_2DFE80 Graph")
