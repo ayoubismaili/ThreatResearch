@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Dependencies.
 - [X] Add Used By.
-- [ ] Add Graph.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -42,10 +42,12 @@ Go to [source](../cc/sub_2D75D0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * `??0_Lockit@std@@QAE@H@Z`
+  * `?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@PBD@Z`
+  * [`sub_2F1651`](sub_2F1651.md)
 
 * Data dependencies:
-  * ...
+  * [`aBadLocaleName`](aBadLocaleName.md)
 
 
 ## Used By
