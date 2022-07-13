@@ -21,6 +21,12 @@
 * Function dependencies:
   * None.
 
+* Data dependencies:
+  * `??_7exception@std@@6B@`
+  * [`aBadArrayNewLen`](aBadArrayNewLen.md)
+  * `??_7bad_alloc@std@@6B@`
+  * `??_7bad_array_new_length@std@@6B@`
+
 ## Used By
 
 * Used by functions:
