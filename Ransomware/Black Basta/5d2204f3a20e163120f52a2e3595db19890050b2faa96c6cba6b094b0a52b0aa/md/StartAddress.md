@@ -36,6 +36,11 @@ Go to [source](../cc/StartAddress.cc).
   * [`sub_2DFB20`](sub_2DFB20.md)
   * [`sub_2E2A70`](sub_2E2A70.md)
 
+## Used By
+
+* Used by functions:
+  * [`sub_2DFE80`](sub_2DFE80.md)
+
 ## Graph
 
 ![StartAddress Graph](../svg/StartAddress.svg "StartAddress Graph")
