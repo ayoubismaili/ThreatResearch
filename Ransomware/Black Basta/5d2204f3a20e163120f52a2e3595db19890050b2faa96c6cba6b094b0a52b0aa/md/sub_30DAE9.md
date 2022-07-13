@@ -1,5 +1,20 @@
 # sub_30DAE9 function
 
+## Tasks
+
+- [ ] Add Description.
+- [ ] Add Syntax.
+- [ ] Add Assembly.
+- [ ] Add Source.
+- [ ] Add Arguments.
+- [ ] Add Return Value.
+- [ ] Add Dependencies.
+- [ ] Add Used By.
+- [ ] Add Graph.
+- [ ] Add Flow.
+- [ ] Add Pseudo-code.
+- [ ] Fully documented (Including dependencies).
+
 ## Description
 
 This function uses the functions [`__spawnve`](__spawnve.md) and [`__spawnvpe`](__spawnvpe.md) to spawn the process `cmd.exe`. It uses the function [`__dupenv_s`](__dupenv_s.md) to obtain the value of the environment variable `COMSPEC`.

@@ -1,5 +1,20 @@
 # StartAddress function
 
+## Tasks
+
+- [ ] Add Description.
+- [ ] Add Syntax.
+- [ ] Add Assembly.
+- [ ] Add Source.
+- [ ] Add Arguments.
+- [ ] Add Return Value.
+- [ ] Add Dependencies.
+- [ ] Add Used By.
+- [ ] Add Graph.
+- [ ] Add Flow.
+- [ ] Add Pseudo-code.
+- [ ] Fully documented (Including dependencies).
+
 ## Description
 
 This function represents a *Thread Procedure* that is created from the function [`sub_2DFE80`](sub_2DFE80.md).

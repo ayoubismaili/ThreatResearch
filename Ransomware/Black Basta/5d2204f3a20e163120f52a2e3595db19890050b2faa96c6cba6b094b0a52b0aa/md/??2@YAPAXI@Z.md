@@ -1,5 +1,20 @@
 # ??2@YAPAXI@Z function
 
+## Tasks
+
+- [ ] Add Description.
+- [ ] Add Syntax.
+- [ ] Add Assembly.
+- [ ] Add Source.
+- [ ] Add Arguments.
+- [ ] Add Return Value.
+- [ ] Add Dependencies.
+- [ ] Add Used By.
+- [ ] Add Graph.
+- [ ] Add Flow.
+- [ ] Add Pseudo-code.
+- [ ] Fully documented (Including dependencies).
+
 ## Description
 
 This function allocates a number of bytes through the use of the function [`_malloc`](_malloc.md).

@@ -1,5 +1,20 @@
 # sub_2E6F10 function
 
+## Tasks
+
+- [ ] Add Description.
+- [ ] Add Syntax.
+- [ ] Add Assembly.
+- [ ] Add Source.
+- [ ] Add Arguments.
+- [ ] Add Return Value.
+- [ ] Add Dependencies.
+- [ ] Add Used By.
+- [ ] Add Graph.
+- [ ] Add Flow.
+- [ ] Add Pseudo-code.
+- [ ] Fully documented (Including dependencies).
+
 ## Description
 
 
