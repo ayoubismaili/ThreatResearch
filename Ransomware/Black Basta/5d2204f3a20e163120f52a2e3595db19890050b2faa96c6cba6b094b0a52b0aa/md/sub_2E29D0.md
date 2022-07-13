@@ -10,6 +10,10 @@ This function unconditionally raises an exception by calling the function [`sub_
 
 ```
 
+## Assembly
+
+Go to [assembly](../asm/sub_2E29D0.asm)
+
 ## Arguments
 
 
