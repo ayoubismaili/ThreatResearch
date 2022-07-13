@@ -25,11 +25,11 @@
 
 ## Assembly
 
-(Add assembly.)
+Go to [assembly](../asm/sub_2F01C0.asm).
 
 ## Source
 
-(Add source.)
+Go to [assembly](../cc/sub_2F01C0.cc).
 
 ## Arguments
 
@@ -42,13 +42,12 @@
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2D6A50`](sub_2D6A50.md)
-  * [`sub_2F0BD0`](sub_2F0BD0.md)
+  * ...
 
 ## Used By
 
 * Used by functions:
-  * [`sub_2DF650`](sub_2DF650.md)
+  * ...
 
 ## Graph
 
