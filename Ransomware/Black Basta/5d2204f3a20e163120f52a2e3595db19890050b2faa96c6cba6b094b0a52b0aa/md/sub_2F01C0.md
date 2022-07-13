@@ -9,7 +9,7 @@
 - [ ] Add Arguments.
 - [ ] Add Return Value.
 - [X] Add Dependencies.
-- [ ] Add Used By.
+- [X] Add Used By.
 - [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
@@ -29,7 +29,7 @@ Go to [assembly](../asm/sub_2F01C0.asm).
 
 ## Source
 
-Go to [assembly](../cc/sub_2F01C0.cc).
+Go to [source](../cc/sub_2F01C0.cc).
 
 ## Arguments
 
