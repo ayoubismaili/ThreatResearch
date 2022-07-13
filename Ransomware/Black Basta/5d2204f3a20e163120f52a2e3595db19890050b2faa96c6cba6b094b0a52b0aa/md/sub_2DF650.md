@@ -1,5 +1,19 @@
 # sub_2DF650 function
 
+## Tasks
+
+- [ ] Add Description.
+- [ ] Add Syntax.
+- [X] Add Assembly.
+- [X] Add Source.
+- [ ] Add Arguments.
+- [ ] Add Return Value.
+- [X] Add Dependencies.
+- [X] Add Used By.
+- [X] Add Graph.
+- [X] Add Flow.
+- [X] Add Pseudo-code.
+
 ## Description
 
 
