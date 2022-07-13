@@ -12,7 +12,11 @@ This function unconditionally raises an exception by calling the function [`sub_
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2E29D0.asm)
+Go to [assembly](../asm/sub_2E29D0.asm).
+
+## Source
+
+Go to [source](../cc/sub_2E29D0.cc).
 
 ## Arguments
 
