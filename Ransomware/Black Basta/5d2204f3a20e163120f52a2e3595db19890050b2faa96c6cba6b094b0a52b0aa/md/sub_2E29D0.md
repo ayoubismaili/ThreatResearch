@@ -19,7 +19,11 @@
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2D7A00`](sub_2D7A00.md)
+  * [`sub_3098A0`](sub_3098A0.md)
+
+* Data dependencies:
+  * `__TI3?AVbad_array_new_length@std@@`
 
 ## Used By
 
