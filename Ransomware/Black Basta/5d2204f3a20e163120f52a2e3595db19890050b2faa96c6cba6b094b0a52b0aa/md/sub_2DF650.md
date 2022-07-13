@@ -13,6 +13,7 @@
 - [X] Add Graph.
 - [X] Add Flow.
 - [X] Add Pseudo-code.
+- [ ] Fully documented (Including dependencies).
 
 ## Description
 
