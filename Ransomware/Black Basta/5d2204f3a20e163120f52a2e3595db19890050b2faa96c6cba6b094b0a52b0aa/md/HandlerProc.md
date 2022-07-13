@@ -35,6 +35,11 @@ None.
   * [`OutputDebugStringW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-outputdebugstringw)
   * [`SetEvent`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-setevent)
 
+## Used By
+
+* Used by functions:
+  * [`sub_2DFE80`](sub_2DFE80.md)
+
 ## Graph
 
 ![HandlerProc Graph](../svg/HandlerProc.svg "HandlerProc Graph")
