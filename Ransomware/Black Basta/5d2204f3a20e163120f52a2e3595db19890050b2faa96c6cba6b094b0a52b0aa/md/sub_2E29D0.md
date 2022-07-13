@@ -24,7 +24,7 @@
 ## Used By
 
 * Used by functions:
-  * ...
+  * [`sub_2E3350`](sub_2E3350.md)
 
 ## Graph
 
