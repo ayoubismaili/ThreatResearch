@@ -36,6 +36,10 @@ DWORD sub_30DAE9(CHAR* CommandLine)
   * [`aC`](aC.md)
   * [`aCmdExe_0`](aCmdExe_0.md)
   
+## Used By
+
+* Used by functions:
+  * [`sub_30DC04`](sub_30DC04.md)
 
 ## Graph
 
