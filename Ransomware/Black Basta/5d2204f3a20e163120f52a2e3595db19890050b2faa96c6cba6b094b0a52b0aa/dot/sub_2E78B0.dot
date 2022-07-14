@@ -1,0 +1,194 @@
+digraph G {
+  start -> BB_002E78B0;
+
+  BB_002E78B0 -> BB_002E7963 [color=red];
+  BB_002E78B0 -> BB_002E7970 [color=green];
+  
+  BB_002E7963 -> BB_002E7970 [color=blue];
+  
+  BB_002E7970 -> BB_002E798F [color=red];
+  BB_002E7970 -> BB_002E7CE1 [color=green];
+  
+  BB_002E798F -> BB_002E7992 [color=blue];
+  
+  BB_002E7992 -> BB_002E79CE [color=red];
+  BB_002E7992 -> BB_002E7B31 [color=green];
+  
+  BB_002E79CE -> BB_002E79D7 [color=red];
+  BB_002E79CE -> BB_002E7B31 [color=green];
+  
+  BB_002E79D7 -> BB_002E79E0 [color=red];
+  BB_002E79D7 -> BB_002E7D76 [color=green];
+  
+  BB_002E79E0 -> BB_002E79EC [color=red];
+  BB_002E79E0 -> BB_002E7CCA [color=green];
+  
+  BB_002E79EC -> BB_002E79F0 [color=blue];
+  
+  BB_002E79F0 -> BB_002E79FA [color=red];
+  BB_002E79F0 -> BB_002E7A28 [color=green];
+  
+  BB_002E79FA -> BB_002E7B1C [color=blue];
+  
+  BB_002E7A28 -> BB_002E7A3D [color=red];
+  BB_002E7A28 -> BB_002E7F25 [color=green];
+  
+  BB_002E7A3D -> BB_002E7A55 [color=red];
+  BB_002E7A3D -> BB_002E7A5C [color=green];
+  
+  BB_002E7A55 -> BB_002E7A7A [color=blue];
+  
+  BB_002E7A5C -> BB_002E7A6B [color=red];
+  BB_002E7A5C -> BB_002E7A72 [color=green];
+  
+  BB_002E7A6B -> BB_002E7A7A [color=blue];
+  
+  BB_002E7A72 -> BB_002E7A7A [color=blue];
+  
+  BB_002E7A7A -> BB_002E7AAA [color=red];
+  BB_002E7A7A -> BB_002E7AF7 [color=green];
+  
+  BB_002E7AAA -> BB_002E7AD7 [color=red];
+  BB_002E7AAA -> BB_002E7AEB [color=green];
+  
+  BB_002E7AD7 -> BB_002E7AEB [color=red];
+  BB_002E7AD7 -> BB_002E7F2A [color=green];
+  
+  BB_002E7AEB -> BB_002E7B13 [color=blue];
+  
+  BB_002E7AF7 -> BB_002E7B13 [color=blue];
+  
+  BB_002E7B13 -> BB_002E7B1C [color=blue];
+  
+  BB_002E7B1C -> BB_002E7B2C [color=red];
+  BB_002E7B1C -> BB_002E79F0 [color=green];
+  
+  BB_002E7B2C -> BB_002E7CCA [color=blue];
+  
+  BB_002E7B31 -> BB_002E7B3F [color=red];
+  BB_002E7B31 -> BB_002E7CB1 [color=green];
+  
+  BB_002E7B3F -> BB_002E7B51 [color=red];
+  BB_002E7B3F -> BB_002E7B94 [color=green];
+  
+  BB_002E7B51 -> BB_002E7CC7 [color=blue];
+  
+  BB_002E7B94 -> BB_002E7BA6 [color=red];
+  BB_002E7B94 -> BB_002E7F25 [color=green];
+  
+  BB_002E7BA6 -> BB_002E7BBE [color=red];
+  BB_002E7BA6 -> BB_002E7BC5 [color=green];
+  
+  BB_002E7BBE -> BB_002E7BE3 [color=blue];
+  
+  BB_002E7BC5 -> BB_002E7BD4 [color=red];
+  BB_002E7BC5 -> BB_002E7BDB [color=green];
+  
+  BB_002E7BD4 -> BB_002E7BE3 [color=blue];
+  
+  BB_002E7BDB -> BB_002E7BE3 [color=blue];
+  
+  BB_002E7BE3 -> BB_002E7C2C [color=red];
+  BB_002E7BE3 -> BB_002E7C86 [color=green];
+  
+  BB_002E7C2C -> BB_002E7C60 [color=red];
+  BB_002E7C2C -> BB_002E7C74 [color=green];
+  
+  BB_002E7C60 -> BB_002E7C74 [color=red];
+  BB_002E7C60 -> BB_002E7F2A [color=green];
+  
+  BB_002E7C74 -> BB_002E7CC7 [color=blue];
+  
+  BB_002E7C86 -> BB_002E7CC7 [color=blue];
+  
+  BB_002E7CB1 -> BB_002E7CBB [color=red];
+  BB_002E7CB1 -> BB_002E7E3B [color=green];
+  
+  BB_002E7CBB -> BB_002E7CC7 [color=blue];
+  
+  BB_002E7CC7 -> BB_002E7CCA [color=blue];
+  
+  BB_002E7CCA -> BB_002E7CE1 [color=red];
+  BB_002E7CCA -> BB_002E7992 [color=green];
+  
+  BB_002E7CE1 -> BB_002E7D45 [color=red];
+  BB_002E7CE1 -> BB_002E7EED [color=green];
+  
+  BB_002E7D45 -> BB_002E7D5D [color=red];
+  BB_002E7D45 -> BB_002E7EE3 [color=green];
+  
+  BB_002E7D5D -> BB_002E7D71 [color=red];
+  BB_002E7D5D -> BB_002E7F20 [color=green];
+  
+  BB_002E7D71 -> BB_002E7EE3 [color=blue];
+  
+  BB_002E7D76 -> BB_002E7D83 [color=red];
+  BB_002E7D76 -> BB_002E7F2F [color=green];
+  
+  BB_002E7D83 -> BB_002E7D9F [color=red];
+  BB_002E7D83 -> BB_002E7DCE [color=green];
+  
+  BB_002E7D9F -> BB_002E7DB0 [color=red];
+  BB_002E7D9F -> BB_002E7DC4 [color=green];
+  
+  BB_002E7DB0 -> BB_002E7DC4 [color=red];
+  BB_002E7DB0 -> BB_002E7F2A [color=green];
+  
+  BB_002E7DC4 -> BB_002E7DCE [color=blue];
+  
+  BB_002E7DCE -> BB_002E7DED [color=red];
+  BB_002E7DCE -> BB_002E7E1F [color=green];
+  
+  BB_002E7DED -> BB_002E7E01 [color=red];
+  BB_002E7DED -> BB_002E7E15 [color=green];
+  
+  BB_002E7E01 -> BB_002E7E15 [color=red];
+  BB_002E7E01 -> BB_002E7F2A [color=green];
+  
+  BB_002E7E15 -> BB_002E7E1F [color=blue];
+  
+  BB_002E7E1F -> BB_002E7F03 [color=blue];
+  
+  BB_002E7E3B -> BB_002E7E48 [color=red];
+  BB_002E7E3B -> BB_002E7F2F [color=green];
+  
+  BB_002E7E48 -> BB_002E7E64 [color=red];
+  BB_002E7E48 -> BB_002E7E93 [color=green];
+  
+  BB_002E7E64 -> BB_002E7E75 [color=red];
+  BB_002E7E64 -> BB_002E7E89 [color=green];
+  
+  BB_002E7E75 -> BB_002E7E89 [color=red];
+  BB_002E7E75 -> BB_002E7F2A [color=green];
+  
+  BB_002E7E89 -> BB_002E7E93 [color=blue];
+  
+  BB_002E7E93 -> BB_002E7EB6 [color=red];
+  BB_002E7E93 -> BB_002E7E1F [color=green];
+  
+  BB_002E7EB6 -> BB_002E7ECE [color=red];
+  BB_002E7EB6 -> BB_002E7E15 [color=green];
+  
+  BB_002E7ECE -> BB_002E7EDE [color=red];
+  BB_002E7ECE -> BB_002E7F2A [color=green];
+  
+  BB_002E7EDE -> BB_002E7E15 [color=blue];
+  
+  BB_002E7EE3 -> BB_002E7EED [color=blue];
+  
+  BB_002E7EED -> BB_002E7F03 [color=blue];
+  
+  BB_002E7F03 -> end;
+  
+  BB_002E7F20 -> BB_002E7F25 [color=blue];
+  
+  BB_002E7F25 -> BB_002E7F2A [color=blue];
+  
+  BB_002E7F2A -> BB_002E7F2F [color=blue];
+  
+  BB_002E7F2F -> dead_end;
+
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+  dead_end [shape=Msquare];
+}
