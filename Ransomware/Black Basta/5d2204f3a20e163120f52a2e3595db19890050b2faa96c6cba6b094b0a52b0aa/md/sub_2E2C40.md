@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Dependencies.
 - [X] Add Used By.
-- [ ] Add Graph.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -42,10 +42,11 @@ Go to [source](../cc/sub_2E2C40.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_30851F`](sub_30851F.md)
+  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
 
 * Data dependencies:
-  * ...
+  * None.
 
 
 ## Used By
