@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
-- [ ] Add Used By.
-- [ ] Add Graph.
+- [X] Add Dependencies.
+- [X] Add Used By.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -42,10 +42,18 @@ Go to [source](../cc/sub_2D52B0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
+  * [`FormatMessageW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-formatmessagew)
+  * [`sub_2E3C90`](sub_2E3C90.md)
+  * [`sub_2D5400`](sub_2D5400.md)
+  * [`sub_30851F`](sub_30851F.md)
+  * [`__imp_LocalFree`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-localfree)
+  * [`@__security_check_cookie@4`](@__security_check_cookie@4.md)
+  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
+
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
