@@ -43,7 +43,7 @@ Go to [source](../cc/sub_2D67A0.cc).
 
 * Function dependencies:
   * [`sub_2D6930`](sub_2D6930.md) ❓
-  * [`sub_2D6650`](sub_2D6650.md) ⌛
+  * [`sub_2D6650`](sub_2D6650.md) ✅
   * [`sub_2E9970`](sub_2E9970.md) ⌛
   * `?make_error_code@std@@YA?AVerror_code@1@W4io_errc@1@@Z_0` ⌛
   * [`sub_2D7ED0`](sub_2D7ED0.md) ⌛
