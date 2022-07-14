@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Dependencies.
 - [X] Add Used By.
-- [ ] Add Graph.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -42,11 +42,16 @@ Go to [source](../cc/sub_2ECB40.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`GetTempPathW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-gettemppathw)
+  * [`sub_2E3C90`](sub_2E3C90.md)
+  * [`sub_2D8A90`](sub_2D8A90.md)
+  * [`sub_30851F`](sub_30851F.md)
+  * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
+  * [`@__security_check_cookie@4`](@__security_check_cookie@4.md)
+  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
 
 * Data dependencies:
-  * ...
-
+  * [`off_357548`](off_357548.md)
 
 ## Used By
 
