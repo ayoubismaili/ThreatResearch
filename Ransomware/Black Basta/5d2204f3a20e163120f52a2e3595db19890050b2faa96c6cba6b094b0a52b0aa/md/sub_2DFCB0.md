@@ -55,7 +55,7 @@ Go to [source](../cc/sub_2DFCB0.cc).
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
 
 * Data dependencies:
-  * [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) ✔️
+  * [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md)
   * [`dword_357190`](dword_357190.md) ⌛
   * [`unk_336330`](unk_336330.md) ⌛
 
