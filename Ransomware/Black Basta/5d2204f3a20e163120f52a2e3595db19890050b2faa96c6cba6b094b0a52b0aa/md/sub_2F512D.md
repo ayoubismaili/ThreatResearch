@@ -1,4 +1,4 @@
-# sub_2F507E function
+# sub_2F512D function
 
 ## Tasks
 
@@ -8,7 +8,7 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [X] Add Dependencies.
+- [ ] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
 - [ ] Add Flow.
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2F507E.asm).
+Go to [assembly](../asm/sub_2F512D.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2F507E.cc).
+Go to [source](../cc/sub_2F512D.cc).
 
 ## Arguments
 
@@ -42,22 +42,19 @@ Go to [source](../cc/sub_2F507E.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2F512D`](sub_2F512D.md) ⌛
-  * [`_fclose`](_fclose.md)
-  * [`_fseek`](_fseek.md)
+  * [`__wfsopen`](__wfsopen.md) ⌛
 
 * Data dependencies:
-  * [`dword_357574`](dword_357574.md) ⌛
-  * [`dword_357578`](dword_357578.md) ⌛
+  * [`Mode`](Mode.md) 
 
 ## Used By
 
 * Used by functions:
-  * [`sub_2F5124`](sub_2F5124.md)
+  * [`sub_2F507E`](sub_2F507E.md)
 
 ## Graph
 
-![sub_2F507E Graph](../svg/sub_2F507E.svg "sub_2F507E Graph")
+![sub_2F512D Graph](../svg/sub_2F512D.svg "sub_2F512D Graph")
 
 ## Flow
 
