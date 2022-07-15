@@ -42,7 +42,7 @@ Go to [source](../cc/sub_2F507E.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2F512D`](sub_2F512D.md) ⌛
+  * [`sub_2F512D`](sub_2F512D.md) ✅
   * [`_fclose`](_fclose.md)
   * [`_fseek`](_fseek.md)
 

@@ -45,7 +45,7 @@ Go to [source](../cc/sub_2F512D.cc).
   * [`__wfsopen`](__wfsopen.md) ⌛
 
 * Data dependencies:
-  * [`Mode`](Mode.md) 
+  * [`Mode`](Mode.md) ⌛
 
 ## Used By
 
