@@ -51,7 +51,7 @@ Go to [source](../cc/sub_2DFB60.cc).
   * [`sub_2ED3E0`](sub_2ED3E0.md) ❓
   * [`sub_2E76E0`](sub_2E76E0.md) ❓
   * [`sub_2E4190`](sub_2E4190.md) ❓
-  * [`sub_2DB720`](sub_2DB720.md) ⌛
+  * [`sub_2DB720`](sub_2DB720.md) ❓
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
 
 * Data dependencies:
