@@ -3,10 +3,10 @@
 ## Tasks
 
 - [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
-- [ ] Add Arguments.
+- [X] Add Arguments.
 - [ ] Add Return Value.
 - [ ] Add Dependencies.
 - [X] Add Used By.
@@ -21,7 +21,10 @@
 
 ## Syntax
 
-(Add syntax.)
+```c
+int sub_2F512D(wchar_t *FileName, int Mode, int ShFlag)
+{...}
+```
 
 ## Assembly
 
@@ -33,7 +36,9 @@ Go to [source](../cc/sub_2F512D.cc).
 
 ## Arguments
 
-(Add arguments.)
+* `FileName` : 
+* `Mode` : 
+* `ShFlag` : 
 
 ## Return Value
 
