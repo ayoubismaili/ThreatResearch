@@ -61,7 +61,7 @@ Go to [source](../cc/sub_2DF650.cc).
   * [`sub_2E2C40`](sub_2E2C40.md)
   * [`sub_2DFCB0`](sub_2DFCB0.md) ❓
   * [`sub_2D6BD0`](sub_2D6BD0.md) ❓
-  * [`sub_2E0280`](sub_2E0280.md)
+  * [`sub_2E0280`](sub_2E0280.md) ✔️
   * [`sub_2DFB60`](sub_2DFB60.md)
   * [`sub_2E0150`](sub_2E0150.md)
   * [`sub_2D9AF0`](sub_2D9AF0.md)
