@@ -8,7 +8,7 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
 - [ ] Add Flow.
@@ -42,10 +42,23 @@ Go to [source](../cc/sub_2D5A90.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * `??0_Lockit@std@@QAE@H@Z`
+  * `??1_Lockit@std@@QAE@XZ`
+  * [`sub_2F1F12`](sub_2F1F12.md) ⌛
+  * `??2@YAPAXI@Z`
+  * [`sub_2D75D0`](sub_2D75D0.md) ⌛
+  * [`sub_2D9BF0`](sub_2D9BF0.md) ⌛
+  * `?_Facet_Register@std@@YAXPAV_Facet_base@1@@Z`
 
 * Data dependencies:
-  * ...
+  * [`dword_359350`](dword_359350.md) ⌛
+  * [`dword_359370`](dword_359370.md) ⌛
+  * [`dword_3595F0`](dword_3595F0.md) ⌛
+  * [`byte_340C84`](byte_340C84.md) ⌛
+  * `??_7_Facet_base@std@@6B@`
+  * `??_7facet@locale@std@@6B@`
+  * `??_7codecvt_base@std@@6B@`
+  * `??_7?$codecvt@DDU_Mbstatet@@@std@@6B@`
 
 ## Used By
 
