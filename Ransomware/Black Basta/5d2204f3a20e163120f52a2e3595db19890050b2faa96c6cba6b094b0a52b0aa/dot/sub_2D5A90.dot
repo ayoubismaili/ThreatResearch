@@ -1,0 +1,68 @@
+digraph G {
+  start -> BB_002D5A90;
+
+  BB_002D5A90 -> BB_002D5ADB [color=red];
+  BB_002D5A90 -> BB_002D5B12 [color=green];
+  
+  BB_002D5ADB -> BB_002D5AF0 [color=red];
+  BB_002D5ADB -> BB_002D5B00 [color=green];
+  
+  BB_002D5AF0 -> BB_002D5B00 [color=blue];
+  
+  BB_002D5B00 -> BB_002D5B12 [color=blue];
+  
+  BB_002D5B12 -> BB_002D5B27 [color=red];
+  BB_002D5B12 -> BB_002D5B37 [color=green];
+  
+  BB_002D5B27 -> BB_002D5B35 [color=red];
+  BB_002D5B27 -> BB_002D5C30 [color=green];
+  
+  BB_002D5B35 -> BB_002D5B3C [color=blue];
+  
+  BB_002D5B37 -> BB_002D5B3C [color=blue];
+  
+  BB_002D5B3C -> BB_002D5B42 [color=red];
+  BB_002D5B3C -> BB_002D5B55 [color=green];
+  
+  BB_002D5B42 -> BB_002D5B4C [color=red];
+  BB_002D5B42 -> BB_002D5B5D [color=green];
+  
+  BB_002D5B4C -> BB_002D5B55 [color=blue];
+  
+  BB_002D5B55 -> BB_002D5B5D [color=red];
+  BB_002D5B55 -> BB_002D5C30 [color=green];
+  
+  BB_002D5B5D -> BB_002D5B64 [color=red];
+  BB_002D5B5D -> BB_002D5B6B [color=green];
+  
+  BB_002D5B64 -> BB_002D5C30 [color=blue];
+  
+  BB_002D5B6B -> BB_002D5B82 [color=red];
+  BB_002D5B6B -> BB_002D5BEC [color=green];
+  
+  BB_002D5B82 -> BB_002D5B8C [color=red];
+  BB_002D5B82 -> BB_002D5B98 [color=green];
+  
+  BB_002D5B8C -> BB_002D5B93 [color=red];
+  BB_002D5B8C -> BB_002D5B9D [color=green];
+  
+  BB_002D5B93 -> BB_002D5B9D [color=blue];
+  
+  BB_002D5B98 -> BB_002D5B9D [color=blue];
+  
+  BB_002D5B9D -> BB_002D5BEE [color=blue];
+  
+  BB_002D5BEC -> BB_002D5BEE [color=blue];
+  
+  BB_002D5BEE -> BB_002D5BFA [color=red];
+  BB_002D5BEE -> BB_002D5C08 [color=green];
+  
+  BB_002D5BFA -> BB_002D5C08 [color=blue];
+  
+  BB_002D5C08 -> BB_002D5C30 [color=blue];
+  
+  BB_002D5C30 -> end;
+  
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+}
