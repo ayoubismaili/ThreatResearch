@@ -6,7 +6,7 @@ This data represents the name of an icon file.
 
 ## Information
 
-* Start Address : 
+* Start Address : `003411E8`
 * End Address : 
 * Size : 
 * Data Type : `CHAR*`
