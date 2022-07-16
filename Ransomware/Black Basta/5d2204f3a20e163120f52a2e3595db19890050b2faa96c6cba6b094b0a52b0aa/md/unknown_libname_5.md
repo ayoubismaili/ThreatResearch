@@ -42,11 +42,11 @@ Go to [source](../cc/unknown_libname_5.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2EC510`](sub_2EC510.md) ✅
+  * ...
 
 
 * Data dependencies:
-  * None.
+  * ...
 
 ## Used By
 
