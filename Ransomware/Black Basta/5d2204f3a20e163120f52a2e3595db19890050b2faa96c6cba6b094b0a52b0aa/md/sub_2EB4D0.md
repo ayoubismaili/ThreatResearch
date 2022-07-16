@@ -51,7 +51,7 @@ Go to [source](../cc/sub_2EB4D0.cc).
   * [`sub_2D4730`](sub_2D4730.md) ❓
   * [`sub_2E9D30`](sub_2E9D30.md) ❓
   * [`sub_2DB050`](sub_2DB050.md) ❓
-  * [`sub_2DA4B0`](sub_2DA4B0.md) ⌛
+  * [`sub_2DA4B0`](sub_2DA4B0.md) ❓
   * [`sub_2E7F40`](sub_2E7F40.md) ⌛
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`sub_2E2EF0`](sub_2E2EF0.md) ⌛
