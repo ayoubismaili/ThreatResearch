@@ -4,19 +4,32 @@
 
 - [ ] Add Description.
 - [ ] Add Syntax.
-- [ ] Add Assembly.
+- [X] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
-- [ ] Add Used By.
-- [ ] Add Graph.
+- [X] Add Dependencies.
+- [X] Add Used By.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
 
 ## Description
 
+(Add description.)
+
+## Syntax
+
+(Add syntax.)
+
+## Assembly
+
+Go to [assembly](../asm/sub_2D6A50.asm).
+
+## Source
+
+Go to [source](../cc/sub_2D6A50.cc).
 
 ## Arguments
 
@@ -36,8 +49,18 @@
 
 * Used by functions:
   * [`sub_2F1320`](sub_2F1320.md)
+  * [`StartAddress`](StartAddress.md)
 
 ## Graph
 
 ![sub_2D6A50 Graph](../svg/sub_2D6A50.svg "sub_2D6A50 Graph")
+
+## Flow
+
+(Add flow.)
+
+## Pseudo-code
+
+(Add pseudo-code.)
+
 
