@@ -42,11 +42,11 @@ Go to [source](../cc/sub_2EB200.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2E3350`](sub_2E3350.md) ⌛
+  * [`sub_2E3350`](sub_2E3350.md) ❓
   * [`_memmove`](_memmove.md)
-  * [`sub_30851F`](sub_30851F.md) ⌛
+  * [`sub_30851F`](sub_30851F.md) ❓
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
-  * [`sub_2E2ED0`](sub_2E2ED0.md) ⌛
+  * [`sub_2E2ED0`](sub_2E2ED0.md) ❓
 
 * Data dependencies:
   * None.
