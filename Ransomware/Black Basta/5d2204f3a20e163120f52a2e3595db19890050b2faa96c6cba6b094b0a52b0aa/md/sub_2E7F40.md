@@ -47,7 +47,7 @@ Go to [source](../cc/sub_2E7F40.cc).
   * [`sub_2E3C90`](sub_2E3C90.md) ✅
   * [`sub_2D8A90`](sub_2D8A90.md) ❓
   * [`sub_30851F`](sub_30851F.md) ✅
-  * [`sub_2E2B30`](sub_2E2B30.md) ⌛
+  * [`sub_2E2B30`](sub_2E2B30.md) ❓
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
