@@ -48,7 +48,7 @@ Go to [source](../cc/sub_2DD790.cc).
   * [`sub_2E2C40`](sub_2E2C40.md) ✅
   * [`sub_2EA990`](sub_2EA990.md) ❓
   * [`sub_2DAEC0`](sub_2DAEC0.md) ❓
-  * [`sub_2DCD30`](sub_2DCD30.md) ⌛
+  * [`sub_2DCD30`](sub_2DCD30.md) ❓
   * [`unknown_libname_5`](unknown_libname_5.md) ⌛
   * [`sub_2D2410`](sub_2D2410.md) ⌛
   * [`sub_2EAAD0`](sub_2EAAD0.md) ⌛
