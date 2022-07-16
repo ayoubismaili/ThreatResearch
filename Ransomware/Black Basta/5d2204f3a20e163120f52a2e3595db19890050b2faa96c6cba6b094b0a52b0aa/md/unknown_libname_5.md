@@ -2,12 +2,12 @@
 
 ## Tasks
 
-- [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Description.
+- [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
-- [ ] Add Arguments.
-- [ ] Add Return Value.
+- [X] Add Arguments.
+- [X] Add Return Value.
 - [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
@@ -17,11 +17,14 @@
 
 ## Description
 
-(Add description.)
+This function obtains the number of logical processors in the computer.
 
 ## Syntax
 
-(Add syntax.)
+```c
+DWORD unknown_libname_5()
+{...}
+```
 
 ## Assembly
 
@@ -33,11 +36,11 @@ Go to [source](../cc/unknown_libname_5.cc).
 
 ## Arguments
 
-(Add arguments.)
+None.
 
 ## Return Value
 
-(Add return value.)
+`DWORD` : The number of logical processors.
 
 ## Dependencies
 
