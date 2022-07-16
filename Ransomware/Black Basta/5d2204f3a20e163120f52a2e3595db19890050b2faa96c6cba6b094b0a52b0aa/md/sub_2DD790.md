@@ -54,7 +54,7 @@ Go to [source](../cc/sub_2DD790.cc).
   * [`sub_2EAAD0`](sub_2EAAD0.md) ❓
   * [`Sleep`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep)
   * [`sub_2E3DA0`](sub_2E3DA0.md) ❓
-  * [`sub_2D8B20`](sub_2D8B20.md) ⌛
+  * [`sub_2D8B20`](sub_2D8B20.md) ❓
   * [`sub_2DF520`](sub_2DF520.md) ⌛
   * [`sub_2D7BC0`](sub_2D7BC0.md) ⌛
   * [`sub_2D7B50`](sub_2D7B50.md) ⌛
