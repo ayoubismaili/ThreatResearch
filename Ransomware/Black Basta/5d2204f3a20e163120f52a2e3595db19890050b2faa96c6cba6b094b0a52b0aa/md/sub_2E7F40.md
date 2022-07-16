@@ -43,7 +43,7 @@ Go to [source](../cc/sub_2E7F40.cc).
 
 * Function dependencies:
   * [`GetFullPathNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfullpathnamew)
-  * [`sub_2D70F0`](sub_2D70F0.md) ⌛
+  * [`sub_2D70F0`](sub_2D70F0.md) ❓
   * [`sub_2E3C90`](sub_2E3C90.md) ⌛
   * [`sub_2D8A90`](sub_2D8A90.md) ⌛
   * [`sub_30851F`](sub_30851F.md) ⌛
