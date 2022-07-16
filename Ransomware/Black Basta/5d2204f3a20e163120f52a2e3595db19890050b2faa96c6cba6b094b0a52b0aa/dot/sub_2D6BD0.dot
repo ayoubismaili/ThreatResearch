@@ -1,0 +1,18 @@
+digraph G {
+  start -> BB_002D6BD0;
+  
+  BB_002D6BD0 -> BB_002D6BFB [color=red];
+  BB_002D6BD0 -> BB_002D6BFD [color=green];
+  
+  BB_002D6BFB -> BB_002D6BFD [color=blue];
+  
+  BB_002D6BFD -> BB_002D6C02 [color=red];
+  BB_002D6BFD -> BB_002D6C1C [color=green];
+  
+  BB_002D6C02 -> end;
+  
+  BB_002D6C1C -> end;
+  
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+}
