@@ -42,11 +42,11 @@ Go to [source](../cc/unknown_libname_5.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`GetNativeSystemInfo`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getnativesysteminfo)
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
