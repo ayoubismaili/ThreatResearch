@@ -56,8 +56,8 @@ Go to [source](../cc/StartAddress.cc).
   * [`sub_2E2A70`](sub_2E2A70.md) ⌛
 
 * Data dependencies:
-  * [`hHandle`](hHandle.md)
-  * [`lpServiceName`](lpServiceName.md)
+  * [`hHandle`](hHandle.md) ⌛
+  * [`lpServiceName`](lpServiceName.md) ⌛
 
 ## Used By
 
