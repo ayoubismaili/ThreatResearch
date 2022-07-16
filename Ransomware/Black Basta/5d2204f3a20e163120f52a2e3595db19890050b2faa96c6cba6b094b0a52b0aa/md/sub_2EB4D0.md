@@ -42,7 +42,7 @@ Go to [source](../cc/sub_2EB4D0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2E8100`](sub_2E8100.md) ⌛
+  * [`sub_2E8100`](sub_2E8100.md) ✅
   * [`_free`](_free.md) ⌛
   * [`sub_2D6D90`](sub_2D6D90.md) ⌛
   * [`sub_2D6D40`](sub_2D6D40.md) ⌛
