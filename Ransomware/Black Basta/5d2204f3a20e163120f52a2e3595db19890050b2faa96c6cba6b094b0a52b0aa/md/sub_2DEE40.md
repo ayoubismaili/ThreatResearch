@@ -2,7 +2,7 @@
 
 ## Tasks
 
-- [ ] Add Description.
+- [X] Add Description.
 - [ ] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
@@ -17,7 +17,7 @@
 
 ## Description
 
-(Add description.)
+This function scans the volumes of the computer.
 
 ## Syntax
 
