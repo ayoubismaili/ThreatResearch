@@ -2,13 +2,13 @@
 
 ## Tasks
 
-- [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Description.
+- [X] Add Syntax.
 - [X] Add Assembly.
-- [ ] Add Source.
-- [ ] Add Arguments.
-- [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Source.
+- [X] Add Arguments.
+- [X] Add Return Value.
+- [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
 - [X] Add Flow.
@@ -56,7 +56,8 @@ Go to [source](../cc/StartAddress.cc).
   * [`sub_2E2A70`](sub_2E2A70.md) ⌛
 
 * Data dependencies:
-  * ...
+  * [`hHandle`](hHandle.md)
+  * [`lpServiceName`](lpServiceName.md)
 
 ## Used By
 
