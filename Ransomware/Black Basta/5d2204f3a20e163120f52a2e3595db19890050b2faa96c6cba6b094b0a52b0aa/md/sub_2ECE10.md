@@ -42,10 +42,10 @@ Go to [source](../cc/sub_2ECE10.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
