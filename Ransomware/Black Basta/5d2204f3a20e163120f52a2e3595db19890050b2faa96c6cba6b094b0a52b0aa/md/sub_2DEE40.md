@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Dependencies.
 - [X] Add Used By.
-- [ ] Add Graph.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -42,10 +42,20 @@ Go to [source](../cc/sub_2DEE40.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`FindFirstVolumeW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findfirstvolumew)
+  * [`GetVolumePathNamesForVolumeNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getvolumepathnamesforvolumenamew)
+  * [`GetVolumeInformationW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getvolumeinformationw)
+  * [`sub_2EB200`](sub_2EB200.md) ⌛
+  * [`sub_2D3230`](sub_2D3230.md) ⌛
+  * [`sub_2D3640`](sub_2D3640.md) ⌛
+  * [`sub_30851F`](sub_30851F.md) ⌛
+  * [`FindNextVolumeW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findnextvolumew)
+  * [`FindVolumeClose`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findvolumeclose)
+  * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
+  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
