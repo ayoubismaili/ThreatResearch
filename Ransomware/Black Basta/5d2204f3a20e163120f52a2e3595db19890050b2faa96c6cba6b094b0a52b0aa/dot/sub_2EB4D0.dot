@@ -1,0 +1,92 @@
+digraph G {
+  start -> BB_002EB4D0;
+  
+  BB_002EB4D0 -> BB_002EB59D [color=red];
+  BB_002EB4D0 -> BB_002EB5A6 [color=green];
+  
+  BB_002EB59D -> BB_002EB5A6 [color=blue];
+  
+  BB_002EB5A6 -> BB_002EB5B5 [color=red];
+  BB_002EB5A6 -> BB_002EB7AD [color=green];
+  
+  BB_002EB5B5 -> BB_002EB5BD [color=red];
+  BB_002EB5B5 -> BB_002EB7AD [color=green];
+  
+  BB_002EB5BD -> BB_002EB5C7 [color=red];
+  BB_002EB5BD -> BB_002EB7AD [color=green];
+  
+  BB_002EB5C7 -> BB_002EB5D2 [color=red];
+  BB_002EB5C7 -> BB_002EB779 [color=green];
+  
+  BB_002EB5D2 -> BB_002EB5DD [color=red];
+  BB_002EB5D2 -> BB_002EB7AD [color=green];
+  
+  BB_002EB5DD -> BB_002EB62E [color=red];
+  BB_002EB5DD -> BB_002EB6E4 [color=green];
+  
+  BB_002EB62E -> BB_002EB640 [color=red];
+  BB_002EB62E -> BB_002EB7DC [color=green];
+  
+  BB_002EB640 -> BB_002EB67C [color=red];
+  BB_002EB640 -> BB_002EB6AC [color=green];
+  
+  BB_002EB67C -> BB_002EB692 [color=blue];
+  
+  BB_002EB692 -> BB_002EB69B [color=red];
+  BB_002EB692 -> BB_002EB6E4 [color=green];
+  
+  BB_002EB69B -> BB_002EB6A9 [color=red];
+  BB_002EB69B -> BB_002EB692 [color=green];
+  
+  BB_002EB6A9 -> BB_002EB6AC [color=blue];
+  
+  BB_002EB6AC -> BB_002EB6B1 [color=red];
+  BB_002EB6AC -> BB_002EB6E4 [color=green];
+  
+  BB_002EB6B1 -> BB_002EB6B3 [color=red];
+  BB_002EB6B1 -> BB_002EB6E4 [color=green];
+  
+  BB_002EB6B3 -> BB_002EB6E4 [color=red];
+  BB_002EB6B3 -> BB_002EB6E8 [color=green];
+  
+  BB_002EB6E4 -> BB_002EB6E8 [color=blue];
+  
+  BB_002EB6E8 -> BB_002EB6F4 [color=red];
+  BB_002EB6E8 -> BB_002EB705 [color=green];
+  
+  BB_002EB6F4 -> BB_002EB705 [color=blue];
+  
+  BB_002EB705 -> BB_002EB710 [color=red];
+  BB_002EB705 -> BB_002EB713 [color=green];
+  
+  BB_002EB710 -> BB_002EB713 [color=blue];
+  
+  BB_002EB713 -> BB_002EB71F [color=red];
+  BB_002EB713 -> BB_002EB764 [color=green];
+  
+  BB_002EB71F -> BB_002EB764 [color=blue];
+  
+  BB_002EB764 -> BB_002EB7A8 [color=blue];
+  
+  BB_002EB779 -> BB_002EB785 [color=red];
+  BB_002EB779 -> BB_002EB787 [color=green];
+  
+  BB_002EB785 -> BB_002EB787 [color=blue];
+  
+  BB_002EB787 -> BB_002EB7A8 [color=blue];
+  
+  BB_002EB7A8 -> BB_002EB7AD [color=blue];
+  
+  BB_002EB7AD -> BB_002EB7B5 [color=red];
+  BB_002EB7AD -> BB_002EB7BE [color=green];
+  
+  BB_002EB7B5 -> BB_002EB7BE [color=blue];
+  
+  BB_002EB7BE -> end;
+  
+  BB_002EB7DC -> dead_end;
+  
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+  dead_end [shape=Msquare];
+}
