@@ -46,7 +46,7 @@ Go to [source](../cc/sub_2EC5E0.cc).
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`sub_2E8100`](sub_2E8100.md) ✅
   * [`_free`](_free.md) ⌛
-  * [`sub_2EB4D0`](sub_2EB4D0.md) ⌛
+  * [`sub_2EB4D0`](sub_2EB4D0.md) ✅
   * [`sub_2D5180`](sub_2D5180.md) ⌛
   * `sub_2EC5E0` *(Recursion)*
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
