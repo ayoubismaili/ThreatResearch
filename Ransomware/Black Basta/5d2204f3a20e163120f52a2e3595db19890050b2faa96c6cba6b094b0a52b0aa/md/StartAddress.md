@@ -11,8 +11,8 @@
 - [ ] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
-- [ ] Add Flow.
-- [ ] Add Pseudo-code.
+- [X] Add Flow.
+- [X] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
 
 ## Description
