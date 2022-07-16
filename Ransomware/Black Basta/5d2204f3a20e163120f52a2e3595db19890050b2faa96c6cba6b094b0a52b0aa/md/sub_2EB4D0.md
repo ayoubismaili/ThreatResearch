@@ -45,7 +45,7 @@ Go to [source](../cc/sub_2EB4D0.cc).
   * [`sub_2E8100`](sub_2E8100.md) ✅
   * [`_free`](_free.md) ⌛
   * [`sub_2D6D90`](sub_2D6D90.md) ❓
-  * [`sub_2D6D40`](sub_2D6D40.md) ⌛
+  * [`sub_2D6D40`](sub_2D6D40.md) ❓
   * [`sub_2D5100`](sub_2D5100.md) ⌛
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
   * [`sub_2D4730`](sub_2D4730.md) ⌛
