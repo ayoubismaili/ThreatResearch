@@ -1,0 +1,70 @@
+digraph G {
+  start -> BB_002EB200;
+
+  BB_002EB200 -> BB_002EB21B [color=red];
+  BB_002EB200 -> BB_002EB347 [color=green];
+  
+  BB_002EB21B -> BB_002EB227 [color=red];
+  BB_002EB21B -> BB_002EB346 [color=green];
+  
+  BB_002EB227 -> BB_002EB22D [color=red];
+  BB_002EB227 -> BB_002EB2FD [color=green];
+  
+  BB_002EB22D -> BB_002EB240 [color=red];
+  BB_002EB22D -> BB_002EB354 [color=green];
+  
+  BB_002EB240 -> BB_002EB24D [color=red];
+  BB_002EB240 -> BB_002EB254 [color=green];
+  
+  BB_002EB24D -> BB_002EB272 [color=blue];
+  
+  BB_002EB254 -> BB_002EB263 [color=red];
+  BB_002EB254 -> BB_002EB26A [color=green];
+  
+  BB_002EB263 -> BB_002EB272 [color=blue];
+  
+  BB_002EB26A -> BB_002EB272 [color=blue];
+  
+  BB_002EB272 -> BB_002EB296 [color=red];
+  BB_002EB272 -> BB_002EB2DF [color=green];
+  
+  BB_002EB296 -> BB_002EB2AB [color=red];
+  BB_002EB296 -> BB_002EB2C1 [color=green];
+  
+  BB_002EB2AB -> BB_002EB2BF [color=red];
+  BB_002EB2AB -> BB_002EB34F [color=green];
+  
+  BB_002EB2BF -> BB_002EB2C1 [color=blue];
+  
+  BB_002EB2C1 -> end;
+  
+  BB_002EB2DF -> end;
+  
+  BB_002EB2FD -> BB_002EB302 [color=red];
+  BB_002EB2FD -> BB_002EB346 [color=green];
+  
+  BB_002EB302 -> BB_002EB307 [color=red];
+  BB_002EB302 -> BB_002EB346 [color=green];
+  
+  BB_002EB307 -> BB_002EB323 [color=red];
+  BB_002EB307 -> BB_002EB335 [color=green];
+  
+  BB_002EB323 -> BB_002EB333 [color=red];
+  BB_002EB323 -> BB_002EB34F [color=green];
+  
+  BB_002EB333 -> BB_002EB335 [color=blue];
+  
+  BB_002EB335 -> BB_002EB346 [color=blue];
+  
+  BB_002EB346 -> BB_002EB347 [color=blue];
+  
+  BB_002EB347 -> end;
+  
+  BB_002EB34F -> BB_002EB354 [color=blue];
+  
+  BB_002EB354 -> dead_end;
+  
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+  dead_end [shape=Msquare];
+}
