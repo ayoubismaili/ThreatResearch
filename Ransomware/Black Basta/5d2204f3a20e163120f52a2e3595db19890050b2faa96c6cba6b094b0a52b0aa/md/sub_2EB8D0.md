@@ -42,10 +42,11 @@ Go to [source](../cc/sub_2EB8D0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`_toupper`](_toupper.md) ⌛
+  * [`_isprint`](_isprint.md) ⌛
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
