@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
-- [ ] Add Used By.
-- [ ] Add Graph.
+- [X] Add Dependencies.
+- [X] Add Used By.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -42,11 +42,12 @@ Go to [source](../cc/sub_2D24F0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2D4B10`](sub_2D4B10.md)
+  * [`sub_2EA1C0`](sub_2EA1C0.md)
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
