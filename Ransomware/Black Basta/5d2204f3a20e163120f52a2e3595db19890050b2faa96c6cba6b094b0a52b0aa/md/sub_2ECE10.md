@@ -17,7 +17,7 @@
 
 ## Description
 
-(Add description.)
+This function looks like a cryptographic function that processes a block of data.
 
 ## Syntax
 
