@@ -42,11 +42,11 @@ Go to [source](../cc/sub_2E6F20.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_2D7CE0`](sub_2D7CE0.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
