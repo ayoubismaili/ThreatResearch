@@ -46,7 +46,7 @@ Go to [source](../cc/sub_2DF520.cc).
   * [`LocalAlloc`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-localalloc)
   * [`InitializeSecurityDescriptor`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/securitybaseapi/nf-securitybaseapi-initializesecuritydescriptor)
   * [`SetSecurityDescriptorDacl`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/securitybaseapi/nf-securitybaseapi-setsecuritydescriptordacl)
-  * [`sub_2D6BD0`](sub_2D6BD0.md) ⌛
+  * [`sub_2D6BD0`](sub_2D6BD0.md) ✅
   * [`SetFileSecurityW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/securitybaseapi/nf-securitybaseapi-setfilesecurityw)
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
   * [`__imp_LocalFree`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-localfree)
