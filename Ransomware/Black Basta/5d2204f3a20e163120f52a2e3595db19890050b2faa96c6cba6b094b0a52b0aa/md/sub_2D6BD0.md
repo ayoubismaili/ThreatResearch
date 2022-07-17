@@ -42,7 +42,7 @@ Go to [source](../cc/sub_2D6BD0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2E3480`](sub_2E3480.md) ⌛
+  * [`sub_2E3480`](sub_2E3480.md) ✅
   * [`_memmove`](_memmove.md) ⌛
 
 
