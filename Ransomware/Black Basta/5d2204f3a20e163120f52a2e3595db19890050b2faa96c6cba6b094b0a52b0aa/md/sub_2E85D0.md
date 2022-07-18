@@ -44,7 +44,7 @@ Go to [source](../cc/sub_2E85D0.cc).
 * Function dependencies:
   * [`FindNextFileW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findnextfilew)
   * [`sub_2E3C90`](sub_2E3C90.md) ✅
-  * [`sub_2D59F0`](sub_2D59F0.md) ⌛
+  * [`sub_2D59F0`](sub_2D59F0.md) ❓
   * [`sub_30851F`](sub_30851F.md) ⌛
   * [`sub_2EA1C0`](sub_2EA1C0.md) ⌛
   * [`sub_2DB0D0`](sub_2DB0D0.md) ⌛
