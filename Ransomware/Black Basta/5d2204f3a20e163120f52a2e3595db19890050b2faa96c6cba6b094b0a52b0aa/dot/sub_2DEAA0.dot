@@ -1,0 +1,78 @@
+digraph G {
+  start -> BB_002DEAA0;
+  
+  BB_002DEAA0 -> BB_002DEB28 [color=red];
+  BB_002DEAA0 -> BB_002DEB5A [color=green];
+  
+  BB_002DEB28 -> BB_002DEB3C [color=red];
+  BB_002DEB28 -> BB_002DEB50 [color=green];
+  
+  BB_002DEB3C -> BB_002DEB50 [color=red];
+  BB_002DEB3C -> BB_002DEE2E [color=green];
+  
+  BB_002DEB50 -> BB_002DEB5A [color=blue];
+  
+  BB_002DEB5A -> BB_002DEB77 [color=red];
+  BB_002DEB5A -> BB_002DEDFE [color=green];
+  
+  BB_002DEB77 -> BB_002DEBBD [color=red];
+  BB_002DEB77 -> BB_002DEBEF [color=green];
+  
+  BB_002DEBBD -> BB_002DEBD1 [color=red];
+  BB_002DEBBD -> BB_002DEBE5 [color=green];
+  
+  BB_002DEBD1 -> BB_002DEBE5 [color=red];
+  BB_002DEBD1 -> BB_002DEE2E [color=green];
+  
+  BB_002DEBE5 -> BB_002DEBEF [color=blue];
+  
+  BB_002DEBEF -> BB_002DEC0C [color=red];
+  BB_002DEBEF -> BB_002DEDFE [color=green];
+  
+  BB_002DEC0C -> BB_002DEC0C [color=red];
+  BB_002DEC0C -> BB_002DEC84 [color=green];
+  
+  BB_002DEC52 -> BB_002DEC66 [color=red];
+  BB_002DEC52 -> BB_002DEC7A [color=green];
+  
+  BB_002DEC66 -> BB_002DEC7A [color=red];
+  BB_002DEC66 -> BB_002DEE2E [color=green];
+  
+  BB_002DEC7A -> BB_002DEC84 [color=blue];
+  
+  BB_002DEC84 -> BB_002DECA1 [color=red];
+  BB_002DEC84 -> BB_002DEDFE [color=green];
+  
+  BB_002DECA1 -> BB_002DECD4 [color=red];
+  BB_002DECA1 -> BB_002DEDFE [color=green];
+  
+  BB_002DECD4 -> BB_002DED07 [color=red];
+  BB_002DECD4 -> BB_002DEDFE [color=green];
+  
+  BB_002DED07 -> BB_002DED3A [color=red];
+  BB_002DED07 -> BB_002DEDFE [color=green];
+  
+  BB_002DED3A -> BB_002DED6D [color=red];
+  BB_002DED3A -> BB_002DEDFE [color=green];
+  
+  BB_002DED6D -> BB_002DED9C [color=red];
+  BB_002DED6D -> BB_002DEDFE [color=green];
+  
+  BB_002DED9C -> BB_002DEDCB [color=red];
+  BB_002DED9C -> BB_002DEDFE [color=green];
+  
+  BB_002DEDCB -> BB_002DEDFA [color=red];
+  BB_002DEDCB -> BB_002DEDFE [color=green];
+  
+  BB_002DEDFA -> BB_002DEE03 [color=blue];
+  
+  BB_002DEDFE -> BB_002DEE03 [color=blue];
+  
+  BB_002DEE03 -> end;
+  
+  BB_002DEE2E -> dead_end;
+  
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+  dead_end [shape=Msquare];
+}
