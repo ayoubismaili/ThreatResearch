@@ -47,7 +47,7 @@ Go to [source](../cc/sub_2E2F10.cc).
   * [`sub_2D2CB0`](sub_2D2CB0.md) ❓
   * [`sub_2D52B0`](sub_2D52B0.md) ✅
   * [`sub_2D80B0`](sub_2D80B0.md) ❓
-  * [`sub_3098A0`](sub_3098A0.md) ⌛
+  * [`sub_3098A0`](sub_3098A0.md) ✅
 
 
 * Data dependencies:
