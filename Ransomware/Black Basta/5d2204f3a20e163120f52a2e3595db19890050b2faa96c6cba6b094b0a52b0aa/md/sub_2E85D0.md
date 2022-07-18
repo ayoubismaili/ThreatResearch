@@ -50,7 +50,7 @@ Go to [source](../cc/sub_2E85D0.cc).
   * [`sub_2DB0D0`](sub_2DB0D0.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ✅
   * [`sub_2EA860`](sub_2EA860.md) ❓
-  * [`sub_2E3940`](sub_2E3940.md) ⌛
+  * [`sub_2E3940`](sub_2E3940.md) ❓
   * [`sub_2E3F00`](sub_2E3F00.md) ⌛
   * [`sub_2EC5E0`](sub_2EC5E0.md) ⌛
   * [`sub_2E8310`](sub_2E8310.md) ⌛
