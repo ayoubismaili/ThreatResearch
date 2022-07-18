@@ -53,7 +53,7 @@ Go to [source](../cc/sub_2E85D0.cc).
   * [`sub_2E3940`](sub_2E3940.md) ❓
   * [`sub_2E3F00`](sub_2E3F00.md) ❓
   * [`sub_2EC5E0`](sub_2EC5E0.md) ✅
-  * [`sub_2E8310`](sub_2E8310.md) ⌛
+  * [`sub_2E8310`](sub_2E8310.md) ✅
   * [`sub_2ECE10`](sub_2ECE10.md) ⌛
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`FindClose`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findclose)
