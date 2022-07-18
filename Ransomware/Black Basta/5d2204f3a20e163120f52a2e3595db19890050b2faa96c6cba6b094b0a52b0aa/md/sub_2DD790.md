@@ -65,7 +65,7 @@ Go to [source](../cc/sub_2DD790.cc).
   * [`sub_2DEAA0`](sub_2DEAA0.md) ✅
   * [`sub_2DAF30`](sub_2DAF30.md) ❓
   * [`sub_2E2F10`](sub_2E2F10.md) ✅
-  * [`sub_2D8A90`](sub_2D8A90.md) ⌛
+  * [`sub_2D8A90`](sub_2D8A90.md) ✅
   * [`sub_2D7010`](sub_2D7010.md) ⌛
   * [`sub_2E92E0`](sub_2E92E0.md) ⌛
   * [`sub_2EAA40`](sub_2EAA40.md) ⌛
