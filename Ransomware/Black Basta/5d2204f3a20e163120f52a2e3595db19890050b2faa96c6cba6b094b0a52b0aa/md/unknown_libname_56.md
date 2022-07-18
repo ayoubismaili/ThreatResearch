@@ -42,7 +42,7 @@ Go to [source](../cc/unknown_libname_56.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`??2@YAPAXI@Z`](%3F%3F2%40YAPAXI%40Z.md)
+  * [`??2@YAPAXI@Z`](%3F%3F2%40YAPAXI%40Z.md) ✅
 
 
 * Data dependencies:
