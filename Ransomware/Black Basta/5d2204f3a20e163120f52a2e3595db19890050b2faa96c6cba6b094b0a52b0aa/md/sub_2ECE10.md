@@ -51,6 +51,7 @@ Go to [source](../cc/sub_2ECE10.cc).
 
 * Used by functions:
   * [`sub_2D5180`](sub_2D5180.md)
+  * [`sub_2E85D0`](sub_2E85D0.md)
 
 ## Graph
 
