@@ -42,11 +42,11 @@ Go to [source](../cc/sub_2E3C90.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`_memmove`](_memmove.md)
-  * [`sub_2E3480`](sub_2E3480.md)
-  * [`sub_30851F`](sub_30851F.md)
-  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
-  * [`sub_2E2ED0`](sub_2E2ED0.md)
+  * [`_memmove`](_memmove.md) ⌛
+  * [`sub_2E3480`](sub_2E3480.md) ⌛
+  * [`sub_30851F`](sub_30851F.md) ⌛
+  * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
+  * [`sub_2E2ED0`](sub_2E2ED0.md) ⌛
 
 * Data dependencies:
   * None.
@@ -56,6 +56,7 @@ Go to [source](../cc/sub_2E3C90.cc).
 * Used by functions:
   * [`sub_2ECB40`](sub_2ECB40.md)
   * [`sub_2D52B0`](sub_2D52B0.md)
+  * [`sub_2E85D0`](sub_2E85D0.md)
 
 ## Graph
 
