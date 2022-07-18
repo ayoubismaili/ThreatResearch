@@ -59,7 +59,7 @@ Go to [source](../cc/sub_2DD790.cc).
   * [`sub_2D7BC0`](sub_2D7BC0.md) ❓
   * [`sub_2D7B50`](sub_2D7B50.md) ❓
   * [`sub_2E3E10`](sub_2E3E10.md) ❓
-  * [`sub_2E6F20`](sub_2E6F20.md) ⌛
+  * [`sub_2E6F20`](sub_2E6F20.md) ✅
   * [`sub_2DAE70`](sub_2DAE70.md) ⌛
   * [`sub_2D6BD0`](sub_2D6BD0.md) ⌛
   * [`sub_2DEAA0`](sub_2DEAA0.md) ⌛
