@@ -19,6 +19,18 @@
 
 This function is possibly responsible for infecting the machine and performing file encryption.
 
+## Syntax
+
+(Add syntax.)
+
+## Assembly
+
+Go to [assembly](../asm/sub_2DC5A0.asm).
+
+## Source
+
+Go to [source](../cc/sub_2DC5A0.cc).
+
 ## Arguments
 
 (Add arguments.)
