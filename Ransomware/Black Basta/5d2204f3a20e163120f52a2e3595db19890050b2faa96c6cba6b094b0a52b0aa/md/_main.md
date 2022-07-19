@@ -57,7 +57,7 @@ Go to [source](../cc/_main.cc).
   * [`sub_2DA410`](sub_2DA410.md) ❓
   * [`sub_2D26D0`](sub_2D26D0.md) ✅
   * [`sub_2D26A0`](sub_2D26A0.md) ❓
-  * [`sub_2DA8D0`](sub_2DA8D0.md) ⌛
+  * [`sub_2DA8D0`](sub_2DA8D0.md) ❓
   * [`sub_2DC5A0`](sub_2DC5A0.md) ✅ 🔥
 
 * Data dependencies:
