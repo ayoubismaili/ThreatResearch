@@ -41,7 +41,7 @@ This function is possibly responsible for infecting the machine and performing f
   * [`sub_2DA700`](sub_2DA700.md) ❓
   * [`sub_2DA8D0`](sub_2DA8D0.md) ❓
   * [`__loaddll`](__loaddll.md) ❓
-  * [`sub_2DF650`](sub_2DF650.md) ⌛
+  * [`sub_2DF650`](sub_2DF650.md) ✅ 🔥
   * [`sub_2D6BD0`](sub_2D6BD0.md) ⌛
   * [`sub_2DC8E0`](sub_2DC8E0.md) ⌛
   * [`GetSystemMetrics`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getsystemmetrics)
