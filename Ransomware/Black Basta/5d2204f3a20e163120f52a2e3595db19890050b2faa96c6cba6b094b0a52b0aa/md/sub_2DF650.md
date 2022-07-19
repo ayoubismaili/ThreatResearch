@@ -70,8 +70,8 @@ Go to [source](../cc/sub_2DF650.cc).
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
 
 * Data dependencies
-  * [`aCWindowsSysnat_0`](aCWindowsSysnat_0.md) ⌛
-  * [`aCWindowsSystem_0`](aCWindowsSystem_0.md) ⌛
+  * [`aCWindowsSysnat_0`](aCWindowsSysnat_0.md) ✔️
+  * [`aCWindowsSystem_0`](aCWindowsSystem_0.md) ✔️
   * [`aUagkcg5mzsQxxu`](aUagkcg5mzsQxxu.md) ⌛
   * [`aErrrrrrrror`](aErrrrrrrror.md) ⌛
 
