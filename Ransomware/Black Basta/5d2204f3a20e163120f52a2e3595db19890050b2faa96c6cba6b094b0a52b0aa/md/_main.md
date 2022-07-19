@@ -8,8 +8,8 @@
 - [ ] Add Source.
 - [X] Add Arguments.
 - [X] Add Return Value.
-- [ ] Add Dependencies.
-- [ ] Add Used By.
+- [X] Add Dependencies.
+- [X] Add Used By.
 - [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
