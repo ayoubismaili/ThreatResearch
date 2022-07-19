@@ -43,7 +43,7 @@ Go to [source](../cc/sub_2D26D0.cc).
 
 * Function dependencies:
   * [`sub_2D8D10`](sub_2D8D10.md) ❓
-  * [`sub_2EC490`](sub_2EC490.md)
+  * [`sub_2EC490`](sub_2EC490.md) ❓
   * [`sub_2EC3C0`](sub_2EC3C0.md)
   * [`j____uncaught_exception`](j____uncaught_exception.md)
   * [`sub_2E2720`](sub_2E2720.md)
