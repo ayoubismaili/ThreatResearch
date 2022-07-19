@@ -2,7 +2,7 @@
 
 ## Tasks
 
-- [ ] Add Description.
+- [X] Add Description.
 - [ ] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
@@ -21,7 +21,7 @@
 
 ## Syntax
 
-(Add syntax.)
+This function possibly drops the image having the name [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) and size [`dword_357190`](dword_357190.md) contained in the memory location [`unk_336330`](unk_336330.md). 
 
 ## Assembly
 
@@ -56,8 +56,8 @@ Go to [source](../cc/sub_2DFCB0.cc).
 
 * Data dependencies:
   * [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) ✅
-  * [`dword_357190`](dword_357190.md) ⌛
-  * [`unk_336330`](unk_336330.md) ⌛
+  * [`dword_357190`](dword_357190.md) ✅
+  * [`unk_336330`](unk_336330.md) ✅
 
 
 ## Used By
