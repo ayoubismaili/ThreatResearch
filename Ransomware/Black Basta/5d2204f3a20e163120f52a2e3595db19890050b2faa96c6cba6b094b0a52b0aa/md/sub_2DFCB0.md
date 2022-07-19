@@ -17,11 +17,11 @@
 
 ## Description
 
-(Add description.)
+This function possibly drops the image having the name [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) and size [`dword_357190`](dword_357190.md) contained in the memory location [`unk_336330`](unk_336330.md).
 
 ## Syntax
 
-This function possibly drops the image having the name [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) and size [`dword_357190`](dword_357190.md) contained in the memory location [`unk_336330`](unk_336330.md). 
+(Add syntax.)
 
 ## Assembly
 
