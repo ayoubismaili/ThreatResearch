@@ -2,17 +2,17 @@
 
 ## Tasks
 
-- [ ] Add Description.
-- [ ] Add Syntax.
-- [ ] Add Assembly.
-- [ ] Add Source.
-- [ ] Add Arguments.
-- [ ] Add Return Value.
+- [X] Add Description.
+- [X] Add Syntax.
+- [X] Add Assembly.
+- [X] Add Source.
+- [X] Add Arguments.
+- [X] Add Return Value.
 - [ ] Add Dependencies.
-- [ ] Add Used By.
-- [ ] Add Graph.
-- [ ] Add Flow.
-- [ ] Add Pseudo-code.
+- [X] Add Used By.
+- [X] Add Graph.
+- [X] Add Flow.
+- [X] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
 
 ## Description
@@ -23,13 +23,13 @@ This handler changes the status of the service from `SERVICE_RUNNING` to `SERVIC
 ## Syntax
 
 ```c
-LPHANDLER_FUNCTION LphandlerFunction;
-
-void LphandlerFunction(
-  DWORD dwControl
-)
+void HandlerProc(DWORD dwControl)
 {...}
 ```
+
+## Assembly
+
+Go to [assembly](../asm/HandlerProc.asm).
 
 ## Source
 
@@ -49,6 +49,9 @@ None.
   * [`SetServiceStatus`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-setservicestatus)
   * [`OutputDebugStringW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-outputdebugstringw)
   * [`SetEvent`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-setevent)
+
+* Data dependencies:
+  * ...
 
 ## Used By
 
