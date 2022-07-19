@@ -42,11 +42,17 @@ Go to [source](../cc/sub_2DFB20.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_30DC04`](sub_30DC04.md) ⌛
+  * [`ShellExecuteA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-shellexecutea)
 
 
 * Data dependencies:
-  * ...
+  * [`aBcdeditDeletev`](aBcdeditDeletev.md) ⌛
+  * [`aCWindowsSystem_1`](aCWindowsSystem_1.md) ⌛
+  * [`aCWindowsSysnat_1`](aCWindowsSysnat_1.md) ⌛
+  * [`Parameters`](Parameters.md) ⌛
+  * [`File`](File.md) ⌛
+  * [`Operation`](Operation.md) ⌛
 
 ## Used By
 
