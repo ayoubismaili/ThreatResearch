@@ -4,7 +4,7 @@
 
 - [ ] Add Description.
 - [ ] Add Syntax.
-- [ ] Add Assembly.
+- [X] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
@@ -17,9 +17,23 @@
 
 ## Description
 
+(Add description.)
+
+## Syntax
+
+(Add syntax.)
+
+## Assembly
+
+Go to [assembly](../asm/sub_2D26D0.asm).
+
+## Source
+
+Go to [source](../cc/sub_2D26D0.cc).
 
 ## Arguments
 
+(Add arguments.)
 
 ## Return Value
 
@@ -28,7 +42,7 @@
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2D8D10`](sub_2D8D10.md)
+  * [`sub_2D8D10`](sub_2D8D10.md) ❓
   * [`sub_2EC490`](sub_2EC490.md)
   * [`sub_2EC3C0`](sub_2EC3C0.md)
   * [`j____uncaught_exception`](j____uncaught_exception.md)
@@ -36,6 +50,9 @@
   * `?make_error_code@std@@YA?AVerror_code@1@W4io_errc@1@@Z_0`
   * [`sub_2D7ED0`](sub_2D7ED0.md)
   * [`sub_3098A0`](sub_3098A0.md)
+
+* Data dependencies:
+  * ...
 
 ## Used By
 
