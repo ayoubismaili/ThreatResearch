@@ -70,7 +70,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
 
 * Data dependencies:
   * [`aEncryption`](aEncryption.md) ✅
-  * [`unk_359670`](unk_359670.md) ⌛
+  * [`unk_359670`](unk_359670.md) ✅
   * [`dword_357290`](dword_357290.md) ⌛
   * [`lpServiceName`](lpServiceName.md) ⌛
   * [`aPleaseRunProgr`](aPleaseRunProgr.md) ⌛
