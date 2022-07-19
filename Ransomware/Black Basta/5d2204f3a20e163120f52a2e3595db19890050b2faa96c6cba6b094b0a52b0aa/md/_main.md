@@ -61,12 +61,17 @@ Go to [source](../cc/_main.cc).
   * [`sub_2DC5A0`](sub_2DC5A0.md) ✅ 🔥
 
 * Data dependencies:
-  * ...
+  * [`byte_340C84`](byte_340C84.md) ⌛
+  * [`aForcepath`](aForcepath.md) ⌛
+  * [`unk_35724C`](unk_35724C.md) ⌛
+  * [`sub_2D4910`](sub_2D4910.md) ⌛
+  * [`aForcedPath`](aForcedPath.md) ⌛
+  * [`unk_359670`](unk_359670.md) ⌛
 
 ## Used By
 
 * Used by functions:
-  * ...
+  * None.
 
 
 ## Graph
