@@ -46,7 +46,7 @@ Go to [source](../cc/sub_2DF650.cc).
   * [`GetCurrentProcessId`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-getcurrentprocessid)
   * [`FreeConsole`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/console/freeconsole)
   * [`sub_30DC04`](sub_30DC04.md) ✔️
-  * [`sub_2F1320`](sub_2F1320.md) ⌛
+  * [`sub_2F1320`](sub_2F1320.md) ✔️
   * [`sub_2E2BC0`](sub_2E2BC0.md) ⌛
   * [`sub_30851F`](sub_30851F.md) ⌛
   * [`sub_2E3350`](sub_2E3350.md) ⌛
