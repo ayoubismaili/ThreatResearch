@@ -50,7 +50,7 @@ Go to [source](../cc/sub_2DF1B0.cc).
   * [`sub_2E78B0`](sub_2E78B0.md) ✔️
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`_memset`](_memset.md) ⌛
-  * [`sub_2EAF90`](sub_2EAF90.md) ⌛
+  * [`sub_2EAF90`](sub_2EAF90.md) ❓
   * [`sub_2D6A50`](sub_2D6A50.md) ⌛
   * [`sub_30851F`](sub_30851F.md) ⌛
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
