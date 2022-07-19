@@ -45,7 +45,7 @@ This function is possibly responsible for infecting the machine and performing f
   * [`sub_2D6BD0`](sub_2D6BD0.md) ✅
   * [`sub_2DC8E0`](sub_2DC8E0.md) ⌛ 🔥
   * [`GetSystemMetrics`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getsystemmetrics)
-  * [`sub_2DA530`](sub_2DA530.md) ⌛
+  * [`sub_2DA530`](sub_2DA530.md) ❓
   * [`RegOpenKeyExW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-regopenkeyexw)
   * [`sub_2DCEE0`](sub_2DCEE0.md) ⌛
   * [`sub_30DC04`](sub_30DC04.md) ⌛
