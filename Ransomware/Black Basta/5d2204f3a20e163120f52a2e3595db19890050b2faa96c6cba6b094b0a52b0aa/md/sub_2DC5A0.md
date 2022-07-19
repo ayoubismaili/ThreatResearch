@@ -88,7 +88,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
   * [`Operation`](Operation.md) ✅
   * [`aErrorWhileAddi`](aErrorWhileAddi.md) ✅
   * [`aThisProgramNee`](aThisProgramNee.md) ✅
-  * [`aErrorWhileCrea`](aErrorWhileCrea.md) ⌛
+  * [`aErrorWhileCrea`](aErrorWhileCrea.md) ✅
   * [`aStartedAsServi`](aStartedAsServi.md) ⌛
 
 ## Used By
