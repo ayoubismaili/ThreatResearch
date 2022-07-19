@@ -83,7 +83,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
   * [`aCWindowsSystem`](aCWindowsSystem.md) ✅
   * [`aCWindowsSysnat`](aCWindowsSysnat.md) ✅
   * [`unk_357294`](unk_357294.md) ❓
-  * [`Parameters`](Parameters.md) ⌛
+  * [`Parameters`](Parameters.md) ✅
   * [`File`](File.md) ⌛
   * [`Operation`](Operation.md) ⌛
   * [`aErrorWhileAddi`](aErrorWhileAddi.md) ⌛
