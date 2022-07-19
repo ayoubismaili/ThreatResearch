@@ -8,9 +8,9 @@
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
-- [ ] Add Used By.
-- [ ] Add Graph.
+- [X] Add Dependencies.
+- [X] Add Used By.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -48,11 +48,14 @@ Go to [source](../cc/sub_2D26D0.cc).
   * [`j____uncaught_exception`](j____uncaught_exception.md) ⌛
   * [`sub_2E2720`](sub_2E2720.md) ❓
   * `?make_error_code@std@@YA?AVerror_code@1@W4io_errc@1@@Z_0`
-  * [`sub_2D7ED0`](sub_2D7ED0.md)
-  * [`sub_3098A0`](sub_3098A0.md)
+  * [`sub_2D7ED0`](sub_2D7ED0.md) ❓
+  * [`sub_3098A0`](sub_3098A0.md) ✅
 
 * Data dependencies:
-  * ...
+  * [`aIosBaseBadbitS`](aIosBaseBadbitS.md) ⌛
+  * [`aIosBaseFailbit`](aIosBaseFailbit.md) ⌛
+  * [`aIosBaseEofbitS`](aIosBaseEofbitS.md) ⌛
+  * `__TI5?AVfailure@ios_base@std@@`
 
 ## Used By
 
