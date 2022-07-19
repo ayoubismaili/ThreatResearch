@@ -50,7 +50,7 @@ Go to [source](../cc/_main.cc).
   * [`sub_2D6B90`](sub_2D6B90.md) ✅
   * [`sub_2DAEA0`](sub_2DAEA0.md) ✅
   * [`sub_2D9610`](sub_2D9610.md) ✅
-  * [`sub_2D4AA0`](sub_2D4AA0.md) ⌛
+  * [`sub_2D4AA0`](sub_2D4AA0.md) ✅
   * [`sub_2E6F10`](sub_2E6F10.md) ⌛
   * [`unknown_libname_1`](unknown_libname_1.md) ⌛
   * [`sub_2DAF20`](sub_2DAF20.md) ⌛
