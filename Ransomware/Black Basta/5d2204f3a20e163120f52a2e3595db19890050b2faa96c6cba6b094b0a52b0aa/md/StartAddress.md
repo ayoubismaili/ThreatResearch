@@ -22,9 +22,8 @@ This function represents a *Thread Procedure* that is created from the function 
 ## Syntax
 
 ```c
-typedef DWORD (__stdcall *LPTHREAD_START_ROUTINE) (  
-    [in] LPVOID lpThreadParameter  
-);
+DWORD StartAddress(LPVOID lpThreadParameter)
+{...}
 ```
 
 ## Assembly
@@ -52,7 +51,7 @@ Go to [source](../cc/StartAddress.cc).
   * [`sub_2D6A50`](sub_2D6A50.md) ✅
   * [`sub_2DD790`](sub_2DD790.md) ✅
   * [`sub_2DD0D0`](sub_2DD0D0.md) ✅
-  * [`sub_2DFB20`](sub_2DFB20.md) ⌛
+  * [`sub_2DFB20`](sub_2DFB20.md) ✅
   * [`sub_2E2A70`](sub_2E2A70.md) ⌛
 
 * Data dependencies:
