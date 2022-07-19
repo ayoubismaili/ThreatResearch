@@ -79,7 +79,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
   * [`xmmword_3571D4`](xmmword_3571D4.md) ❓
   * [`aBootOption`](aBootOption.md) ✅
   * [`SubKey`](SubKey.md) ✅
-  * [`aBcdeditSetSafe`](aBcdeditSetSafe.md) ⌛
+  * [`aBcdeditSetSafe`](aBcdeditSetSafe.md) ✅
   * [`aCWindowsSystem`](aCWindowsSystem.md) ⌛
   * [`aCWindowsSysnat`](aCWindowsSysnat.md) ⌛
   * [`unk_357294`](unk_357294.md) ⌛
