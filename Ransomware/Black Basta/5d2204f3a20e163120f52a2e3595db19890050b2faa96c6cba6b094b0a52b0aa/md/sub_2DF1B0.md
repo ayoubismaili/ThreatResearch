@@ -42,7 +42,7 @@ Go to [source](../cc/sub_2DF1B0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2D71D0`](sub_2D71D0.md) ⌛
+  * [`sub_2D71D0`](sub_2D71D0.md) ✔️
   * [`GetModuleFileNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulefilenamew)
   * [`sub_2EB200`](sub_2EB200.md) ⌛
   * [`sub_2D3230`](sub_2D3230.md) ⌛
