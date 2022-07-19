@@ -51,7 +51,10 @@ None.
   * [`SetEvent`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-setevent)
 
 * Data dependencies:
-  * ...
+  * [`ServiceStatus`](ServiceStatus.md) ✅
+  * [`hServiceStatus`](hServiceStatus.md) ✅
+  * [`OutputString`](OutputString.md)
+  * [`hHandle`](hHandle.md) ✅
 
 ## Used By
 
