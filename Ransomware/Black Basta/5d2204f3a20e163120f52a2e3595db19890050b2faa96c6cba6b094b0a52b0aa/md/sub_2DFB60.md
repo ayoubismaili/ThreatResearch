@@ -43,7 +43,7 @@ Go to [source](../cc/sub_2DFB60.cc).
 
 * Function dependencies:
   * [`sub_2ECD20`](sub_2ECD20.md) ✔️
-  * [`sub_2D6BD0`](sub_2D6BD0.md) ❓
+  * [`sub_2D6BD0`](sub_2D6BD0.md) ✔️
   * [`sub_2D2DC0`](sub_2D2DC0.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`sub_2D67A0`](sub_2D67A0.md) ✔️
