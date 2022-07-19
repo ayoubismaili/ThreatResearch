@@ -51,7 +51,7 @@ This function is possibly responsible for infecting the machine and performing f
   * [`sub_30DC04`](sub_30DC04.md) ✅
   * [`sub_2DFCB0`](sub_2DFCB0.md) ✅ 🔥
   * [`sub_2DA440`](sub_2DA440.md) ✅
-  * [`sub_2D9620`](sub_2D9620.md) ⌛
+  * [`sub_2D9620`](sub_2D9620.md) ❓
   * [`sub_2E0280`](sub_2E0280.md) ⌛
   * [`ShellExecuteA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-shellexecutea)
   * [`sub_2DEA60`](sub_2DEA60.md) ⌛
