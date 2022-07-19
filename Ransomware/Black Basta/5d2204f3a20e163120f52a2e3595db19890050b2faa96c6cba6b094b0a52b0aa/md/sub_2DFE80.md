@@ -81,7 +81,7 @@ None.
   * [`aBootOption`](aBootOption.md) ✅
   * [`unk_359670`](unk_359670.md) ⌛
   * [`dword_357290`](dword_357290.md) ⌛
-  * [`lpServiceName`](lpServiceName.md) ⌛
+  * [`lpServiceName`](lpServiceName.md) ✅
   * [`hServiceStatus`](hServiceStatus.md) ⌛
   * [`ServiceStatus`](ServiceStatus.md) ⌛
   * [`aMySampleServic_0`](aMySampleServic_0.md) ⌛
