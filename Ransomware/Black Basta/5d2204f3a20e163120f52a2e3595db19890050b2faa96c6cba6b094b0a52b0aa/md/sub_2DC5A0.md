@@ -4,15 +4,15 @@
 
 - [X] Add Description.
 - [ ] Add Syntax.
-- [ ] Add Assembly.
+- [X] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
-- [ ] Add Dependencies.
+- [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
 - [ ] Add Flow.
-- [ ] Add Pseudo-code.
+- [X] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
 
 ## Description
