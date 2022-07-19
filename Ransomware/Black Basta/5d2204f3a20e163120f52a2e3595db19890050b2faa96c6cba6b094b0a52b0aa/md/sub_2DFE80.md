@@ -78,7 +78,7 @@ None.
   * [`CloseHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
 
 * Data dependencies:
-  * [`aBootOption`](aBootOption.md) ⌛
+  * [`aBootOption`](aBootOption.md) ✅
   * [`unk_359670`](unk_359670.md) ⌛
   * [`dword_357290`](dword_357290.md) ⌛
   * [`lpServiceName`](lpServiceName.md) ⌛
