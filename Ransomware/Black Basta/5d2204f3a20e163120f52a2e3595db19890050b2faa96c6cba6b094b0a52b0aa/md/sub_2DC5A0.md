@@ -89,7 +89,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
   * [`aErrorWhileAddi`](aErrorWhileAddi.md) ✅
   * [`aThisProgramNee`](aThisProgramNee.md) ✅
   * [`aErrorWhileCrea`](aErrorWhileCrea.md) ✅
-  * [`aStartedAsServi`](aStartedAsServi.md) ⌛
+  * [`aStartedAsServi`](aStartedAsServi.md) ✅
 
 ## Used By
 
