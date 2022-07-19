@@ -72,7 +72,7 @@ Go to [source](../cc/sub_2DD790.cc).
   * [`sub_2ED260`](sub_2ED260.md) ❓
   * [`__Mtx_unlock`](__Mtx_unlock.md) ⌛
   * [`sub_2D9F60`](sub_2D9F60.md) ❓
-  * [`sub_2E7060`](sub_2E7060.md) ⌛
+  * [`sub_2E7060`](sub_2E7060.md) ❓
   * [`sub_2E3DE0`](sub_2E3DE0.md) ⌛
   * [`sub_2E9310`](sub_2E9310.md) ⌛
   * [`sub_2D26D0`](sub_2D26D0.md) ⌛
