@@ -84,7 +84,7 @@ None.
   * [`lpServiceName`](lpServiceName.md) ✅
   * [`hServiceStatus`](hServiceStatus.md) ✅
   * [`ServiceStatus`](ServiceStatus.md) ✅
-  * [`aMySampleServic_0`](aMySampleServic_0.md) ⌛
+  * [`aMySampleServic_0`](aMySampleServic_0.md) ✅
   * [`hHandle`](hHandle.md) ⌛
 
 ## Used By
