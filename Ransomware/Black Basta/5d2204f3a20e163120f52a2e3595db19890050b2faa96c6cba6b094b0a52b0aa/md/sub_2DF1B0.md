@@ -54,7 +54,7 @@ Go to [source](../cc/sub_2DF1B0.cc).
   * [`sub_2D6A50`](sub_2D6A50.md) ✔️
   * [`sub_30851F`](sub_30851F.md) ✔️
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
-  * [`sub_2E2BC0`](sub_2E2BC0.md) ⌛
+  * [`sub_2E2BC0`](sub_2E2BC0.md) ✔️
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
 
