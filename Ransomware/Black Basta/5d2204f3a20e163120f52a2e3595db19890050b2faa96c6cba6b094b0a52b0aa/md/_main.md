@@ -46,7 +46,7 @@ Go to [source](../cc/_main.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2D7040`](sub_2D7040.md) ⌛
+  * [`sub_2D7040`](sub_2D7040.md) ✅
   * [`sub_2D6B90`](sub_2D6B90.md) ⌛
   * [`sub_2DAEA0`](sub_2DAEA0.md) ⌛
   * [`sub_2D9610`](sub_2D9610.md) ⌛
