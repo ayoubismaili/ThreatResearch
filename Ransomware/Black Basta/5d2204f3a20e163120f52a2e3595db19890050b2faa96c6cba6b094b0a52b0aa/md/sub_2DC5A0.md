@@ -78,7 +78,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
   * [`sub_2D4910`](sub_2D4910.md) ❓
   * [`xmmword_3571D4`](xmmword_3571D4.md) ❓
   * [`aBootOption`](aBootOption.md) ✅
-  * [`SubKey`](SubKey.md) ⌛
+  * [`SubKey`](SubKey.md) ✅
   * [`aBcdeditSetSafe`](aBcdeditSetSafe.md) ⌛
   * [`aCWindowsSystem`](aCWindowsSystem.md) ⌛
   * [`aCWindowsSysnat`](aCWindowsSysnat.md) ⌛
