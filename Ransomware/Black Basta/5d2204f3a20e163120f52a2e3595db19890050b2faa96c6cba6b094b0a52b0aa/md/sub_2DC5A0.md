@@ -69,7 +69,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
   * [`sub_2DEA60`](sub_2DEA60.md) ❓
 
 * Data dependencies:
-  * [`aEncryption`](aEncryption.md) ⌛
+  * [`aEncryption`](aEncryption.md) ✅
   * [`unk_359670`](unk_359670.md) ⌛
   * [`dword_357290`](dword_357290.md) ⌛
   * [`lpServiceName`](lpServiceName.md) ⌛
