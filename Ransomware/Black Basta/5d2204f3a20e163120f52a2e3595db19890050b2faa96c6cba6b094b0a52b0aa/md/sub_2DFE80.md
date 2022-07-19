@@ -61,7 +61,7 @@ None.
 
 * Function dependencies:
   * [`GetSystemMetrics`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getsystemmetrics)
-  * [`sub_2D26D0`](sub_2D26D0.md) ⌛
+  * [`sub_2D26D0`](sub_2D26D0.md) ✅
   * [`sub_2DA530`](sub_2DA530.md) ⌛
   * [`sub_2ED330`](sub_2ED330.md) ⌛
   * [`sub_2EAB20`](sub_2EAB20.md) ⌛
