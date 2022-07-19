@@ -39,7 +39,7 @@ This function is possibly responsible for infecting the machine and performing f
   * [`OpenSCManagerW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-openscmanagerw)
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`sub_2DA700`](sub_2DA700.md) ❓
-  * [`sub_2DA8D0`](sub_2DA8D0.md) ⌛
+  * [`sub_2DA8D0`](sub_2DA8D0.md) ❓
   * [`__loaddll`](__loaddll.md) ⌛
   * [`sub_2DF650`](sub_2DF650.md) ⌛
   * [`sub_2D6BD0`](sub_2D6BD0.md) ⌛
