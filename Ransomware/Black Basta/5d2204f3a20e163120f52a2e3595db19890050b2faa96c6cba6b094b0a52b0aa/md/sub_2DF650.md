@@ -56,7 +56,7 @@ Go to [source](../cc/sub_2DF650.cc).
   * [`sub_2D71D0`](sub_2D71D0.md) ✔️
   * [`sub_2DF1B0`](sub_2DF1B0.md) ✔️
   * [`sub_2DA3D0`](sub_2DA3D0.md) ✔️
-  * [`sub_2E7840`](sub_2E7840.md) ⌛
+  * [`sub_2E7840`](sub_2E7840.md) ✔️
   * [`sub_2DA440`](sub_2DA440.md) ⌛
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
   * [`sub_2DFCB0`](sub_2DFCB0.md) ❓
