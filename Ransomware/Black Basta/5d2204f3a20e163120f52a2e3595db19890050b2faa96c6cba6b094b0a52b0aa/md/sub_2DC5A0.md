@@ -2,15 +2,15 @@
 
 ## Tasks
 
-- [ ] Add Description.
+- [X] Add Description.
 - [ ] Add Syntax.
 - [ ] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
 - [ ] Add Return Value.
 - [ ] Add Dependencies.
-- [ ] Add Used By.
-- [ ] Add Graph.
+- [X] Add Used By.
+- [X] Add Graph.
 - [ ] Add Flow.
 - [ ] Add Pseudo-code.
 - [ ] Fully documented (Including dependencies).
@@ -30,7 +30,7 @@ This function is possibly responsible for infecting the machine and performing f
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2D26D0`](sub_2D26D0.md) ⌛
+  * [`sub_2D26D0`](sub_2D26D0.md) ✅
   * [`sub_2ED330`](sub_2ED330.md) ⌛
   * [`sub_2EAB20`](sub_2EAB20.md) ⌛
   * [`sub_2E76E0`](sub_2E76E0.md) ⌛
