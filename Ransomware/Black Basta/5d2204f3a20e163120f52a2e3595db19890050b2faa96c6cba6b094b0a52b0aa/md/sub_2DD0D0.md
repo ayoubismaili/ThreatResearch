@@ -2,8 +2,8 @@
 
 ## Tasks
 
-- [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Description.
+- [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
@@ -17,11 +17,14 @@
 
 ## Description
 
-(Add description.)
+This function changes the *Service Start Type* to `SERVICE_DISABLED`.
 
 ## Syntax
 
-(Add syntax.)
+```c
+DWORD sub_2DD0D0(LPCWSTR lpServiceName)
+{...}
+```
 
 ## Assembly
 
@@ -33,7 +36,7 @@ Go to [source](../cc/sub_2DD0D0.cc).
 
 ## Arguments
 
-(Add arguments.)
+* `lpServiceName` : The name of the service to disable
 
 ## Return Value
 
@@ -42,11 +45,14 @@ Go to [source](../cc/sub_2DD0D0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`OpenSCManagerW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-openscmanagerw)
+  * [`OpenServiceW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-openservicew)
+  * [`ChangeServiceConfigA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-changeserviceconfiga)
+  * [`CloseServiceHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-closeservicehandle)
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
