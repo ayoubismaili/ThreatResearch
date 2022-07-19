@@ -56,7 +56,7 @@ Go to [source](../cc/StartAddress.cc).
 
 * Data dependencies:
   * [`hHandle`](hHandle.md) ⌛
-  * [`lpServiceName`](lpServiceName.md) ⌛
+  * [`lpServiceName`](lpServiceName.md) ✅
 
 ## Used By
 
