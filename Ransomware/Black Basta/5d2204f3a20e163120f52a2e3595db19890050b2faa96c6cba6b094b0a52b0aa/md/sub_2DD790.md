@@ -79,7 +79,7 @@ Go to [source](../cc/sub_2DD790.cc).
   * [`sub_2ED330`](sub_2ED330.md) ❓
   * [`sub_2EAB20`](sub_2EAB20.md) ❓
   * [`sub_2E76E0`](sub_2E76E0.md) ❓
-  * [`sub_30851F`](sub_30851F.md) ⌛
+  * [`sub_30851F`](sub_30851F.md) ✅
   * [`sub_2E2BC0`](sub_2E2BC0.md) ⌛
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`_terminate`](_terminate.md) ⌛
