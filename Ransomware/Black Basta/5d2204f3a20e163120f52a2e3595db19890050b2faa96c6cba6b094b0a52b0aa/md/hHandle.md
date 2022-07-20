@@ -15,6 +15,8 @@ This data represents a `HANDLE`.
 
 * Used by functions:
   * [`HandlerProc`](HandlerProc.md)
+  * [`StartAddress`](StartAddress.md)
+  * [`sub_2DFE80`](sub_2DFE80.md)
 
 ## Value
 
