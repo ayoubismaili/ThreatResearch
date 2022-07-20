@@ -11,6 +11,11 @@ This data represents the name of an icon file.
 * Size : 
 * Data Type : `CHAR*`
 
+## Used By
+
+* Used by functions:
+  * [`sub_2DFB60`](sub_2DFB60.md)
+
 ## Value
 
 ```c
