@@ -42,10 +42,10 @@ Go to [source](../cc/sub_2EA1C0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2EB8D0`](sub_2EB8D0.md) ⌛
-  * [`sub_2E3C90`](sub_2E3C90.md) ⌛
+  * [`sub_2EB8D0`](sub_2EB8D0.md) ✔️
+  * [`sub_2E3C90`](sub_2E3C90.md) ✔️
   * [`sub_2D5100`](sub_2D5100.md) ⌛
-  * [`sub_30851F`](sub_30851F.md) ⌛
+  * [`sub_30851F`](sub_30851F.md) ✔️
   * [`sub_2D6F70`](sub_2D6F70.md) ⌛
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
   * [`_toupper`](_toupper.md) ⌛
@@ -56,7 +56,7 @@ Go to [source](../cc/sub_2EA1C0.cc).
   * [`sub_2E2ED0`](sub_2E2ED0.md) ⌛
 
 * Data dependencies:
-  * [`asc_340F38`](asc_340F38.md) ⌛
+  * [`asc_340F38`](asc_340F38.md) ✔️
   * [`asc_340F44`](asc_340F44.md) ⌛
 
 ## Used By
