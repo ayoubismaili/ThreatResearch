@@ -47,11 +47,11 @@ Go to [source](../cc/sub_2F00A0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2F08C0`](sub_2F08C0.md)
-  * [`sub_2EDC60`](sub_2EDC60.md)
+  * [`sub_2F08C0`](sub_2F08C0.md) ✅
+  * [`sub_2EDC60`](sub_2EDC60.md) ✅
 
 * Data dependencies:
-  * [`aMpzImportNails`](aMpzImportNails.md)
+  * [`aMpzImportNails`](aMpzImportNails.md) ⌛
 
 ## Used By
 
