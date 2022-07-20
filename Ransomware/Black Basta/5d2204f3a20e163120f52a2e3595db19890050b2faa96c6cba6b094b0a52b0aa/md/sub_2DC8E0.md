@@ -53,7 +53,7 @@ Go to [source](../cc/sub_2DC8E0.cc).
   * [`Sleep`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep)
   * [`QueryServiceStatusEx`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-queryservicestatusex)
   * [`GetServiceDisplayNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-getservicedisplaynamew)
-  * [`sub_2E3C90`](sub_2E3C90.md) ⌛
+  * [`sub_2E3C90`](sub_2E3C90.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
   * [`sub_2D2910`](sub_2D2910.md) ⌛
   * [`sub_2D3F20`](sub_2D3F20.md) ⌛
