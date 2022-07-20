@@ -63,6 +63,7 @@ Go to [source](../cc/sub_2EA1C0.cc).
 
 * Used by functions:
   * [`sub_2D8A90`](sub_2D8A90.md)
+  * [`sub_2D24F0`](sub_2D24F0.md)
 
 ## Graph
 
