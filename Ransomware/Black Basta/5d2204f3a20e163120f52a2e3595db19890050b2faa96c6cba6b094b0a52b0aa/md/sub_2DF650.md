@@ -17,7 +17,15 @@
 
 ## Description
 
-This function executes commands that silently deletes the system *Shadow Copy Backups*.
+This function executes commands that silently deletes the system *Shadow Copy Backups*. 
+
+It possibly drops the image having the name [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) and size [`dword_357190`](dword_357190.md) contained in the memory location [`unk_336330`](unk_336330.md). 
+
+It changes the desktop wallpaper.
+
+It possibly drops the icon file having the name [`aFkdjsadasdIco`](aFkdjsadasdIco.md) and size [`dword_357194`](dword_357194.md) contained in the memory location [`unk_33C628`](unk_33C628.md).
+
+It possibly assigns an icons to files having the extension [`aBasta_0 `](aBasta_0.md).
 
 ## Syntax
 
