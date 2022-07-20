@@ -44,9 +44,9 @@ Go to [source](../cc/sub_2EA1C0.cc).
 * Function dependencies:
   * [`sub_2EB8D0`](sub_2EB8D0.md) ✔️
   * [`sub_2E3C90`](sub_2E3C90.md) ✔️
-  * [`sub_2D5100`](sub_2D5100.md) ⌛
+  * [`sub_2D5100`](sub_2D5100.md) ❓
   * [`sub_30851F`](sub_30851F.md) ✔️
-  * [`sub_2D6F70`](sub_2D6F70.md) ⌛
+  * [`sub_2D6F70`](sub_2D6F70.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ⌛
   * [`_toupper`](_toupper.md) ⌛
   * [`sub_2D6D40`](sub_2D6D40.md) ⌛
