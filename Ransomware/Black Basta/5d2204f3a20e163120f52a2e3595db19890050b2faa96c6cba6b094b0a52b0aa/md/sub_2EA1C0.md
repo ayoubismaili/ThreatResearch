@@ -53,7 +53,7 @@ Go to [source](../cc/sub_2EA1C0.cc).
   * [`_memmove`](_memmove.md) ⌛
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
-  * [`sub_2E2ED0`](sub_2E2ED0.md) ⌛
+  * [`sub_2E2ED0`](sub_2E2ED0.md) ❓
 
 * Data dependencies:
   * [`asc_340F38`](asc_340F38.md) ✔️
