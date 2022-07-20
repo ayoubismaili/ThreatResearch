@@ -2,7 +2,7 @@
 
 ## Tasks
 
-- [ ] Add Description.
+- [X] Add Description.
 - [ ] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
@@ -17,7 +17,7 @@
 
 ## Description
 
-(Add description.)
+This function possibly drops the icon file having the name [`aFkdjsadasdIco`](aFkdjsadasdIco.md) and size [`dword_357194`](dword_357194.md) contained in the memory location [`unk_33C628`](unk_33C628.md).
 
 ## Syntax
 
@@ -56,8 +56,8 @@ Go to [source](../cc/sub_2DFB60.cc).
 
 * Data dependencies:
   * [`aFkdjsadasdIco`](aFkdjsadasdIco.md) ✔️
-  * [`dword_357194`](dword_357194.md) ⌛
-  * [`unk_33C628`](unk_33C628.md) ⌛
+  * [`dword_357194`](dword_357194.md) ✔️
+  * [`unk_33C628`](unk_33C628.md) ✔️
 
 ## Used By
 
