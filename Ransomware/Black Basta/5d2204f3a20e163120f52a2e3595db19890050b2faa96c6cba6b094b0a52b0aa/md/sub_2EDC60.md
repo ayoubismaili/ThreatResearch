@@ -6,8 +6,8 @@
 - [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
-- [ ] Add Arguments.
-- [ ] Add Return Value.
+- [X] Add Arguments.
+- [X] Add Return Value.
 - [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
@@ -37,19 +37,21 @@ Go to [source](../cc/sub_2EDC60.cc).
 
 ## Arguments
 
-(Add arguments.)
+`msg` : The error message
 
 ## Return Value
 
-(Add return value.)
+None.
 
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`___acrt_iob_func`](___acrt_iob_func.md) ⌛
+  * [`sub_2EDC30`](sub_2EDC30.md) ⌛
+  * [`_abort`](_abort.md) ⌛
 
 * Data dependencies:
-  * ...
+  * [`unk_341CA0`](unk_341CA0.md) ⌛
 
 ## Used By
 

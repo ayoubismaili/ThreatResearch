@@ -1,0 +1,11 @@
+digraph G {
+  start -> BB_002EDC60;
+
+  BB_002EDC60 -> BB_003125E8 [color=blue];
+  
+  BB_003125E8 -> dead_end;
+
+  start [shape=Mdiamond];
+//  end [shape=Msquare];
+  dead_end [shape=Msquare];
+}
