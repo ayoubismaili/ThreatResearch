@@ -53,7 +53,7 @@ None.
 * Data dependencies:
   * [`ServiceStatus`](ServiceStatus.md) ✅
   * [`hServiceStatus`](hServiceStatus.md) ✅
-  * [`OutputString`](OutputString.md)
+  * [`OutputString`](OutputString.md) ✅
   * [`hHandle`](hHandle.md) ✅
 
 ## Used By
