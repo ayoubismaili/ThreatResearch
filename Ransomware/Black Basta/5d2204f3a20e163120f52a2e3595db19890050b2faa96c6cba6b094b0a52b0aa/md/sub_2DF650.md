@@ -2,7 +2,7 @@
 
 ## Tasks
 
-- [ ] Add Description.
+- [X] Add Description.
 - [ ] Add Syntax.
 - [X] Add Assembly.
 - [X] Add Source.
@@ -17,7 +17,7 @@
 
 ## Description
 
-(Add description.)
+This function executes commands that silently deletes the system *Shadow Copy Backups*.
 
 ## Syntax
 
