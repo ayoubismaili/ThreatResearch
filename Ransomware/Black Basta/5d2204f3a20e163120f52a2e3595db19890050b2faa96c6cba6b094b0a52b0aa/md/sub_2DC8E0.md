@@ -47,7 +47,7 @@ Go to [source](../cc/sub_2DC8E0.cc).
   * [`sub_2D26D0`](sub_2D26D0.md) ✔️
   * [`sub_2ED330`](sub_2ED330.md) ❓
   * [`sub_2EAB20`](sub_2EAB20.md) ❓
-  * [`sub_2E76E0`](sub_2E76E0.md) ⌛
+  * [`sub_2E76E0`](sub_2E76E0.md) ❓
   * [`ControlService`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-controlservice)
   * [`sub_2DA700`](sub_2DA700.md) ⌛
   * [`Sleep`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep)
