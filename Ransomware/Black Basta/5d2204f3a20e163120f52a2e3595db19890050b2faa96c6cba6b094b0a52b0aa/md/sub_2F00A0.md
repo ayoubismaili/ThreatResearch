@@ -2,8 +2,8 @@
 
 ## Tasks
 
-- [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Description.
+- [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
