@@ -49,7 +49,7 @@ Go to [source](../cc/sub_2EA1C0.cc).
   * [`sub_2D6F70`](sub_2D6F70.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`_toupper`](_toupper.md) ⌛
-  * [`sub_2D6D40`](sub_2D6D40.md) ⌛
+  * [`sub_2D6D40`](sub_2D6D40.md) ❓
   * [`_memmove`](_memmove.md) ⌛
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
