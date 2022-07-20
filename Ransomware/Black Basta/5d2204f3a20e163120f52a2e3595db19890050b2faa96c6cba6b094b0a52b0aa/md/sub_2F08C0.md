@@ -2,8 +2,8 @@
 
 ## Tasks
 
-- [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Description.
+- [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
 - [X] Add Arguments.
@@ -17,11 +17,15 @@
 
 ## Description
 
-(Add description.)
+This function is possibly the function [`mpz_realloc`<sup>Source</sup>](https://github.com/idris-lang/Idris-dev/blob/master/rts/mini-gmp.c#L1454) of the *GMP* library.
 
 ## Syntax
 
-(Add syntax.)
+```c
+static mp_ptr
+mpz_realloc (mpz_t r, mp_size_t size)
+{...}
+```
 
 ## Assembly
 
@@ -42,10 +46,11 @@ Go to [source](../cc/sub_2F08C0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`off_357554`](off_357554.md) ⌛
+  * [`off_357550`](off_357550.md) ⌛
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
