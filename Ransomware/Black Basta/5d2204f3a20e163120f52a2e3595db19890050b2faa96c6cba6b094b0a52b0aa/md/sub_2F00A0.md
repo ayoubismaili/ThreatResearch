@@ -17,11 +17,16 @@
 
 ## Description
 
-(Add description.)
+This function is possibly the function [`mpz_import`<sup>Source</sup>](https://github.com/idris-lang/Idris-dev/blob/master/rts/mini-gmp.c#L4258) of the *GMP* library.
 
 ## Syntax
 
-(Add syntax.)
+```c
+void
+mpz_import (mpz_t r, size_t count, int order, size_t size, int endian,
+      size_t nails, const void *src)
+{...}
+```
 
 ## Assembly
 
