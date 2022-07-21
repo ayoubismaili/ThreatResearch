@@ -1,4 +1,4 @@
-# sub_2DFE80 function
+# sub_40FE80 function
 
 ## Tasks
 
@@ -36,17 +36,17 @@ The function changes the status of the service to `SERVICE_RUNNING` then creates
 ## Syntax
 
 ```c
-void sub_2DFE80(DWORD dwNumServicesArgs, LPWSTR *lpServiceArgVectors)
+void sub_40FE80(DWORD dwNumServicesArgs, LPWSTR *lpServiceArgVectors)
 {...}
 ```
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DFE80.asm).
+Go to [assembly](../asm/sub_40FE80.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DFE80.cc).
+Go to [source](../cc/sub_40FE80.cc).
 
 ## Arguments
 
@@ -61,8 +61,8 @@ None.
 
 * Function dependencies:
   * [`GetSystemMetrics`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getsystemmetrics)
-  * [`sub_2D26D0`](sub_2D26D0.md) ✅
-  * [`sub_2DA530`](sub_2DA530.md) ❓
+  * [`sub_4026D0`](sub_4026D0.md) ✅
+  * [`sub_40A530`](sub_40A530.md) ❓
   * [`sub_2ED330`](sub_2ED330.md) ❓
   * [`sub_2EAB20`](sub_2EAB20.md) ❓
   * [`sub_2E76E0`](sub_2E76E0.md) ❓
@@ -90,11 +90,11 @@ None.
 ## Used By
 
 * Used by functions:
-  * [`sub_2DC5A0`](sub_2DC5A0.md)
+  * [`sub_40C5A0`](sub_40C5A0.md)
 
 ## Graph
 
-![sub_2DFE80 Graph](../svg/sub_2DFE80.svg "sub_2DFE80 Graph")
+![sub_40FE80 Graph](../svg/sub_40FE80.svg "sub_40FE80 Graph")
 
 ## Flow
 
@@ -147,9 +147,9 @@ end:
 ```c
 v1 = GetSystemMetrics(0x43);
 v2 = v1;
-v3 = sub_2D26D0(unk_359670, aBootOption);
+v3 = sub_4026D0(unk_359670, aBootOption);
 v4 = v3;
-v5 = sub_2DA530(v4); //UnknownObject.sub_2DA530(...)
+v5 = sub_40A530(v4); //UnknownObject.sub_40A530(...)
 v6 = v5;
 v7 = v6->Dword00;
 v8 = v7->Dword04;

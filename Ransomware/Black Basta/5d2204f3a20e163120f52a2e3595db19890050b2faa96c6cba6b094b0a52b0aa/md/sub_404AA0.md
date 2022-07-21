@@ -1,4 +1,4 @@
-# sub_2D4AA0 function
+# sub_404AA0 function
 
 ## Tasks
 
@@ -28,7 +28,7 @@
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2D3B60`](sub_2D3B60.md)
+  * [`sub_403B60`](sub_403B60.md)
 
 ## Used By
 
@@ -37,5 +37,5 @@
 
 ## Graph
 
-![sub_2D4AA0 Graph](../svg/sub_2D4AA0.svg "sub_2D4AA0 Graph")
+![sub_404AA0 Graph](../svg/sub_404AA0.svg "sub_404AA0 Graph")
 

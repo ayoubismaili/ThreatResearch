@@ -14,7 +14,7 @@ This data represents the parameters of a shutdown command.
 ## Used By
 
 * Used by functions:
-  * [`sub_2DC5A0`](sub_2DC5A0.md)
+  * [`sub_40C5A0`](sub_40C5A0.md)
 
 ## Value
 

@@ -1,4 +1,4 @@
-# sub_2DEE40 function
+# sub_40EE40 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@ This function scans the volumes of the computer.
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DEE40.asm).
+Go to [assembly](../asm/sub_40EE40.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DEE40.cc).
+Go to [source](../cc/sub_40EE40.cc).
 
 ## Arguments
 
@@ -46,8 +46,8 @@ Go to [source](../cc/sub_2DEE40.cc).
   * [`GetVolumePathNamesForVolumeNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getvolumepathnamesforvolumenamew)
   * [`GetVolumeInformationW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getvolumeinformationw)
   * [`sub_2EB200`](sub_2EB200.md) ✔️
-  * [`sub_2D3230`](sub_2D3230.md) ❓
-  * [`sub_2D3640`](sub_2D3640.md) ❓
+  * [`sub_403230`](sub_403230.md) ❓
+  * [`sub_403640`](sub_403640.md) ❓
   * [`sub_30851F`](sub_30851F.md) ✔️
   * [`FindNextVolumeW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findnextvolumew)
   * [`FindVolumeClose`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findvolumeclose)
@@ -64,7 +64,7 @@ Go to [source](../cc/sub_2DEE40.cc).
 
 ## Graph
 
-![sub_2DEE40 Graph](../svg/sub_2DEE40.svg "sub_2DEE40 Graph")
+![sub_40EE40 Graph](../svg/sub_40EE40.svg "sub_40EE40 Graph")
 
 ## Flow
 

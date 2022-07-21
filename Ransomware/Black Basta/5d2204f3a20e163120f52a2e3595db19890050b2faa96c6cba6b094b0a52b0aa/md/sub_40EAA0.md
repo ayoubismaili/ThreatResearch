@@ -1,4 +1,4 @@
-# sub_2DEAA0 function
+# sub_40EAA0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DEAA0.asm).
+Go to [assembly](../asm/sub_40EAA0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DEAA0.cc).
+Go to [source](../cc/sub_40EAA0.cc).
 
 ## Arguments
 
@@ -45,7 +45,7 @@ Go to [source](../cc/sub_2DEAA0.cc).
   * [`sub_2E3C90`](sub_2E3C90.md) ✅
   * [`sub_2E74A0`](sub_2E74A0.md) ❓
   * [`sub_30851F`](sub_30851F.md) ✅
-  * [`sub_2D6D40`](sub_2D6D40.md) ❓
+  * [`sub_406D40`](sub_406D40.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ✅
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛ 
@@ -66,11 +66,11 @@ Go to [source](../cc/sub_2DEAA0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2DD790`](sub_2DD790.md)
+  * [`sub_40D790`](sub_40D790.md)
 
 ## Graph
 
-![sub_2DEAA0 Graph](../svg/sub_2DEAA0.svg "sub_2DEAA0 Graph")
+![sub_40EAA0 Graph](../svg/sub_40EAA0.svg "sub_40EAA0 Graph")
 
 ## Flow
 

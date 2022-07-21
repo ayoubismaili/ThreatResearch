@@ -1,4 +1,4 @@
-# sub_2DF1B0 function
+# sub_40F1B0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DF1B0.asm).
+Go to [assembly](../asm/sub_40F1B0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DF1B0.cc).
+Go to [source](../cc/sub_40F1B0.cc).
 
 ## Arguments
 
@@ -42,16 +42,16 @@ Go to [source](../cc/sub_2DF1B0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2D71D0`](sub_2D71D0.md) ✔️
+  * [`sub_4071D0`](sub_4071D0.md) ✔️
   * [`GetModuleFileNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulefilenamew)
   * [`sub_2EB200`](sub_2EB200.md) ✔️
-  * [`sub_2D3230`](sub_2D3230.md) ❓
+  * [`sub_403230`](sub_403230.md) ❓
   * [`sub_2E3BA0`](sub_2E3BA0.md) ✔️
   * [`sub_2E78B0`](sub_2E78B0.md) ✔️
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`_memset`](_memset.md) ⌛
   * [`sub_2EAF90`](sub_2EAF90.md) ❓
-  * [`sub_2D6A50`](sub_2D6A50.md) ✔️
+  * [`sub_406A50`](sub_406A50.md) ✔️
   * [`sub_30851F`](sub_30851F.md) ✔️
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`sub_2E2BC0`](sub_2E2BC0.md) ✔️
@@ -70,11 +70,11 @@ Go to [source](../cc/sub_2DF1B0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2DF650`](sub_2DF650.md)
+  * [`sub_40F650`](sub_40F650.md)
 
 ## Graph
 
-![sub_2DF1B0 Graph](../svg/sub_2DF1B0.svg "sub_2DF1B0 Graph")
+![sub_40F1B0 Graph](../svg/sub_40F1B0.svg "sub_40F1B0 Graph")
 
 ## Flow
 

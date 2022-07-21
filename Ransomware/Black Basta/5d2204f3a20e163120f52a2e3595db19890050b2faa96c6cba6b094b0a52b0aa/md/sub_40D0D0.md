@@ -1,4 +1,4 @@
-# sub_2DD0D0 function
+# sub_40D0D0 function
 
 ## Tasks
 
@@ -22,17 +22,17 @@ This function changes the *Service Start Type* to `SERVICE_DISABLED`.
 ## Syntax
 
 ```c
-DWORD sub_2DD0D0(LPCWSTR lpServiceName)
+DWORD sub_40D0D0(LPCWSTR lpServiceName)
 {...}
 ```
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DD0D0.asm).
+Go to [assembly](../asm/sub_40D0D0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DD0D0.cc).
+Go to [source](../cc/sub_40D0D0.cc).
 
 ## Arguments
 
@@ -61,7 +61,7 @@ Go to [source](../cc/sub_2DD0D0.cc).
 
 ## Graph
 
-![sub_2DD0D0 Graph](../svg/sub_2DD0D0.svg "sub_2DD0D0 Graph")
+![sub_40D0D0 Graph](../svg/sub_40D0D0.svg "sub_40D0D0 Graph")
 
 ## Flow
 

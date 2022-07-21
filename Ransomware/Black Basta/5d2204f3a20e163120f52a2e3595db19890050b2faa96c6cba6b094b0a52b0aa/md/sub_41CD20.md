@@ -44,9 +44,9 @@ Go to [source](../cc/sub_2ECD20.cc).
 * Function dependencies:
   * [`sub_2ECB40`](sub_2ECB40.md) ⌛
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
-  * [`sub_2D2CB0`](sub_2D2CB0.md) ⌛
-  * [`sub_2D52B0`](sub_2D52B0.md) ⌛
-  * [`sub_2D8360`](sub_2D8360.md) ⌛
+  * [`sub_402CB0`](sub_402CB0.md) ⌛
+  * [`sub_4052B0`](sub_4052B0.md) ⌛
+  * [`sub_408360`](sub_408360.md) ⌛
   * [`sub_3098A0`](sub_3098A0.md) ⌛
 
 * Data dependencies:
@@ -57,7 +57,7 @@ Go to [source](../cc/sub_2ECD20.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2DFCB0`](sub_2DFCB0.md)
+  * [`sub_40FCB0`](sub_40FCB0.md)
 
 ## Graph
 

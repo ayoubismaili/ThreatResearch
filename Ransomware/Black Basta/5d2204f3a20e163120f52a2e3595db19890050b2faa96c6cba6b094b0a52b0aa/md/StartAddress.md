@@ -17,7 +17,7 @@
 
 ## Description
 
-This function represents a *Thread Procedure* that is created from the function [`sub_2DFE80`](sub_2DFE80.md).
+This function represents a *Thread Procedure* that is created from the function [`sub_40FE80`](sub_40FE80.md).
 
 ## Syntax
 
@@ -46,12 +46,12 @@ Go to [source](../cc/StartAddress.cc).
 
 * Function dependencies:
   * [`WaitForSingleObject`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject)
-  * [`sub_2DF650`](sub_2DF650.md) ✔️ 🔥
-  * [`sub_2DEE40`](sub_2DEE40.md) ✔️ 🔥
-  * [`sub_2D6A50`](sub_2D6A50.md) ✔️
-  * [`sub_2DD790`](sub_2DD790.md) ✔️ 🔥
-  * [`sub_2DD0D0`](sub_2DD0D0.md) ✔️ 🔥
-  * [`sub_2DFB20`](sub_2DFB20.md) ✔️ 🔥
+  * [`sub_40F650`](sub_40F650.md) ✔️ 🔥
+  * [`sub_40EE40`](sub_40EE40.md) ✔️ 🔥
+  * [`sub_406A50`](sub_406A50.md) ✔️
+  * [`sub_40D790`](sub_40D790.md) ✔️ 🔥
+  * [`sub_40D0D0`](sub_40D0D0.md) ✔️ 🔥
+  * [`sub_40FB20`](sub_40FB20.md) ✔️ 🔥
   * [`sub_2E2A70`](sub_2E2A70.md) ❓
 
 * Data dependencies:
@@ -61,7 +61,7 @@ Go to [source](../cc/StartAddress.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2DFE80`](sub_2DFE80.md)
+  * [`sub_40FE80`](sub_40FE80.md)
 
 ## Graph
 
@@ -109,9 +109,9 @@ if (v1 != 0) {
 ### BB_002E008E
 
 ```c
-v2 = sub_2DF650();
+v2 = sub_40F650();
 v3 = &var_1C;
-v4 = sub_2DEE40(v3);
+v4 = sub_40EE40(v3);
 var_4 = 0;
 v6 = 0x2AAAAAAB;
 v7 = var_18;
@@ -150,10 +150,10 @@ do {
   v20 = v18 + v9; //variables v18, v9 need propagation
   v21 = v19;
   var_10 = v19;
-  v22 = sub_2D6A50(v20);
+  v22 = sub_406A50(v20);
   var_4 = 1;
   var_4 = 0;
-  v23 = sub_2DD790();
+  v23 = sub_40D790();
   v24 = var_18;
   v25 = v18 + 0x18;
   v18 = v25; //propagate v18 due to reuse and modification by BB_002E00C5
@@ -181,8 +181,8 @@ do {
 v37 = dword_357290 >= 8;
 v38 = lpServiceName;
 v39 = v37 ? v38: lpServiceName; //phi
-v40 = sub_2DD0D0(v39);
-v41 = sub_2DFB20();
+v40 = sub_40D0D0(v39);
+v41 = sub_40FB20();
 var_4 = 0xFFFFFFFF;
 v42 = &var_1C;
 v43 = sub_2E2A70(v42); //UnknownObject.sub_2E2A70(...)

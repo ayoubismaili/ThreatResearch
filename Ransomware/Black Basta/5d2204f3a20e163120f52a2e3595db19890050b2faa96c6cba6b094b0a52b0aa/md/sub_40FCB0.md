@@ -1,4 +1,4 @@
-# sub_2DFCB0 function
+# sub_40FCB0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@ This function possibly drops the image having the name [`aDlaksjdoiwqJpg`](aDlak
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DFCB0.asm).
+Go to [assembly](../asm/sub_40FCB0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DFCB0.cc).
+Go to [source](../cc/sub_40FCB0.cc).
 
 ## Arguments
 
@@ -43,15 +43,15 @@ Go to [source](../cc/sub_2DFCB0.cc).
 
 * Function dependencies:
   * [`sub_2ECD20`](sub_2ECD20.md) ✔️
-  * [`sub_2D6BD0`](sub_2D6BD0.md) ✔️
-  * [`sub_2D2DC0`](sub_2D2DC0.md) ❓
+  * [`sub_406BD0`](sub_406BD0.md) ✔️
+  * [`sub_402DC0`](sub_402DC0.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
-  * [`sub_2D67A0`](sub_2D67A0.md) ❓
+  * [`sub_4067A0`](sub_4067A0.md) ❓
   * [`sub_2EBF50`](sub_2EBF50.md) ❓
   * [`sub_2ED3E0`](sub_2ED3E0.md) ❓
   * [`sub_2E76E0`](sub_2E76E0.md) ❓
   * [`sub_2E4190`](sub_2E4190.md) ⚠️
-  * [`sub_2DB720`](sub_2DB720.md) ❓
+  * [`sub_40B720`](sub_40B720.md) ❓
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
 
 * Data dependencies:
@@ -63,11 +63,11 @@ Go to [source](../cc/sub_2DFCB0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2DF650`](sub_2DF650.md)
+  * [`sub_40F650`](sub_40F650.md)
 
 ## Graph
 
-![sub_2DFCB0 Graph](../svg/sub_2DFCB0.svg "sub_2DFCB0 Graph")
+![sub_40FCB0 Graph](../svg/sub_40FCB0.svg "sub_40FCB0 Graph")
 
 ## Flow
 

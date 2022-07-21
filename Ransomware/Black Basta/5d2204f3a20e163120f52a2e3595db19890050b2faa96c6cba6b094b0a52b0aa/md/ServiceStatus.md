@@ -14,7 +14,7 @@ This data represents the [`SERVICE_STATUS`<sup>Docs</sup>](https://docs.microsof
 ## Used By
 
 * Used by functions:
-  * [`sub_2DFE80`](sub_2DFE80.md)
+  * [`sub_40FE80`](sub_40FE80.md)
 
 ## Value
 

@@ -1,4 +1,4 @@
-# sub_2DFB20 function
+# sub_40FB20 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DFB20.asm).
+Go to [assembly](../asm/sub_40FB20.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DFB20.cc).
+Go to [source](../cc/sub_40FB20.cc).
 
 ## Arguments
 
@@ -61,7 +61,7 @@ Go to [source](../cc/sub_2DFB20.cc).
 
 ## Graph
 
-![sub_2DFB20 Graph](../svg/sub_2DFB20.svg "sub_2DFB20 Graph")
+![sub_40FB20 Graph](../svg/sub_40FB20.svg "sub_40FB20 Graph")
 
 ## Flow
 

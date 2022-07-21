@@ -14,7 +14,7 @@ This data represents the name of an image.
 ## Used By
 
 * Used by functions:
-  * [`sub_2DFCB0`](sub_2DFCB0.md)
+  * [`sub_40FCB0`](sub_40FCB0.md)
 
 ## Value
 

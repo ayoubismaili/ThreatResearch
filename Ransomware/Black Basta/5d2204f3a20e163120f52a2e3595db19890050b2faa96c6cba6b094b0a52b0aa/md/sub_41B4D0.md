@@ -44,14 +44,14 @@ Go to [source](../cc/sub_2EB4D0.cc).
 * Function dependencies:
   * [`sub_2E8100`](sub_2E8100.md) ✅
   * [`_free`](_free.md) ⌛
-  * [`sub_2D6D90`](sub_2D6D90.md) ❓
-  * [`sub_2D6D40`](sub_2D6D40.md) ❓
-  * [`sub_2D5100`](sub_2D5100.md) ❓
+  * [`sub_406D90`](sub_406D90.md) ❓
+  * [`sub_406D40`](sub_406D40.md) ❓
+  * [`sub_405100`](sub_405100.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ✅
-  * [`sub_2D4730`](sub_2D4730.md) ❓
+  * [`sub_404730`](sub_404730.md) ❓
   * [`sub_2E9D30`](sub_2E9D30.md) ❓
-  * [`sub_2DB050`](sub_2DB050.md) ❓
-  * [`sub_2DA4B0`](sub_2DA4B0.md) ❓
+  * [`sub_40B050`](sub_40B050.md) ❓
+  * [`sub_40A4B0`](sub_40A4B0.md) ❓
   * [`sub_2E7F40`](sub_2E7F40.md) ✅
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`sub_2E2EF0`](sub_2E2EF0.md) ❓

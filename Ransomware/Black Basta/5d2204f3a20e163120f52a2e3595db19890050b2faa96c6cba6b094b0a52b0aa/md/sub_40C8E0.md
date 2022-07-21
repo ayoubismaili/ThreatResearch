@@ -1,4 +1,4 @@
-# sub_2DC8E0 function
+# sub_40C8E0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2DC8E0.asm).
+Go to [assembly](../asm/sub_40C8E0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2DC8E0.cc).
+Go to [source](../cc/sub_40C8E0.cc).
 
 ## Arguments
 
@@ -43,21 +43,21 @@ Go to [source](../cc/sub_2DC8E0.cc).
 
 * Function dependencies:
   * [`OpenServiceW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-openservicew)
-  * [`sub_2D6BD0`](sub_2D6BD0.md) ✔️
-  * [`sub_2D26D0`](sub_2D26D0.md) ✔️
+  * [`sub_406BD0`](sub_406BD0.md) ✔️
+  * [`sub_4026D0`](sub_4026D0.md) ✔️
   * [`sub_2ED330`](sub_2ED330.md) ❓
   * [`sub_2EAB20`](sub_2EAB20.md) ❓
   * [`sub_2E76E0`](sub_2E76E0.md) ❓
   * [`ControlService`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-controlservice)
-  * [`sub_2DA700`](sub_2DA700.md) ❓
+  * [`sub_40A700`](sub_40A700.md) ❓
   * [`Sleep`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep)
   * [`QueryServiceStatusEx`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-queryservicestatusex)
   * [`GetServiceDisplayNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-getservicedisplaynamew)
   * [`sub_2E3C90`](sub_2E3C90.md) ✔️
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
-  * [`sub_2D2910`](sub_2D2910.md) ❓
-  * [`sub_2D3F20`](sub_2D3F20.md) ❓
-  * [`sub_2D4940`](sub_2D4940.md) ❓
+  * [`sub_402910`](sub_402910.md) ❓
+  * [`sub_403F20`](sub_403F20.md) ❓
+  * [`sub_404940`](sub_404940.md) ❓
   * [`DeleteService`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-deleteservice)
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`CloseServiceHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-closeservicehandle)
@@ -82,11 +82,11 @@ Go to [source](../cc/sub_2DC8E0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2DC5A0`](sub_2DC5A0.md)
+  * [`sub_40C5A0`](sub_40C5A0.md)
 
 ## Graph
 
-![sub_2DC8E0 Graph](../svg/sub_2DC8E0.svg "sub_2DC8E0 Graph")
+![sub_40C8E0 Graph](../svg/sub_40C8E0.svg "sub_40C8E0 Graph")
 
 ## Flow
 

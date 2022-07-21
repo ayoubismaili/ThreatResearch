@@ -42,7 +42,7 @@ DWORD sub_30DC04(CHAR* CommandLine)
 ## Used By
 
 * Used by functions:
-  * [`sub_2DF650`](sub_2DF650.md)
+  * [`sub_40F650`](sub_40F650.md)
 
 ## Graph
 

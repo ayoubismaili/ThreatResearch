@@ -50,7 +50,7 @@ Go to [source](../cc/sub_2ECE10.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2D5180`](sub_2D5180.md)
+  * [`sub_405180`](sub_405180.md)
   * [`sub_2E85D0`](sub_2E85D0.md)
   * [`sub_2E44B0`](sub_2E44B0.md)
 

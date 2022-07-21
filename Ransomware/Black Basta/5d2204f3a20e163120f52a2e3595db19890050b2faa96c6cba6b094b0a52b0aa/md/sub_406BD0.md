@@ -1,4 +1,4 @@
-# sub_2D6BD0 function
+# sub_406BD0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2D6BD0.asm).
+Go to [assembly](../asm/sub_406BD0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2D6BD0.cc).
+Go to [source](../cc/sub_406BD0.cc).
 
 ## Arguments
 
@@ -52,11 +52,11 @@ Go to [source](../cc/sub_2D6BD0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2DF520`](sub_2DF520.md)
+  * [`sub_40F520`](sub_40F520.md)
 
 ## Graph
 
-![sub_2D6BD0 Graph](../svg/sub_2D6BD0.svg "sub_2D6BD0 Graph")
+![sub_406BD0 Graph](../svg/sub_406BD0.svg "sub_406BD0 Graph")
 
 ## Flow
 

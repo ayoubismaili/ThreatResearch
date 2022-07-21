@@ -44,12 +44,12 @@ Go to [source](../cc/sub_2EA1C0.cc).
 * Function dependencies:
   * [`sub_2EB8D0`](sub_2EB8D0.md) ✔️
   * [`sub_2E3C90`](sub_2E3C90.md) ✔️
-  * [`sub_2D5100`](sub_2D5100.md) ❓
+  * [`sub_405100`](sub_405100.md) ❓
   * [`sub_30851F`](sub_30851F.md) ✔️
-  * [`sub_2D6F70`](sub_2D6F70.md) ❓
+  * [`sub_406F70`](sub_406F70.md) ❓
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`_toupper`](_toupper.md) ⌛
-  * [`sub_2D6D40`](sub_2D6D40.md) ❓
+  * [`sub_406D40`](sub_406D40.md) ❓
   * [`_memmove`](_memmove.md) ⌛
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
@@ -62,8 +62,8 @@ Go to [source](../cc/sub_2EA1C0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2D8A90`](sub_2D8A90.md)
-  * [`sub_2D24F0`](sub_2D24F0.md)
+  * [`sub_408A90`](sub_408A90.md)
+  * [`sub_4024F0`](sub_4024F0.md)
 
 ## Graph
 
