@@ -42,10 +42,10 @@ Go to [source](../cc/sub_2DFCB0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2ECD20`](sub_2ECD20.md) ✅
-  * [`sub_2D6BD0`](sub_2D6BD0.md) ✅
+  * [`sub_2ECD20`](sub_2ECD20.md) ✔️
+  * [`sub_2D6BD0`](sub_2D6BD0.md) ✔️
   * [`sub_2D2DC0`](sub_2D2DC0.md) ❓
-  * [`sub_2E2C40`](sub_2E2C40.md) ✅
+  * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`sub_2D67A0`](sub_2D67A0.md) ❓
   * [`sub_2EBF50`](sub_2EBF50.md) ❓
   * [`sub_2ED3E0`](sub_2ED3E0.md) ❓
@@ -55,9 +55,9 @@ Go to [source](../cc/sub_2DFCB0.cc).
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
 
 * Data dependencies:
-  * [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) ✅
-  * [`dword_357190`](dword_357190.md) ✅
-  * [`unk_336330`](unk_336330.md) ✅
+  * [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) ✔️
+  * [`dword_357190`](dword_357190.md) ✔️
+  * [`unk_336330`](unk_336330.md) ✔️
 
 
 ## Used By
