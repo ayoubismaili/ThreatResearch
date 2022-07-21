@@ -44,17 +44,17 @@ Go to [source](../cc/sub_40F1B0.cc).
 * Function dependencies:
   * [`sub_4071D0`](sub_4071D0.md) ✔️
   * [`GetModuleFileNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulefilenamew)
-  * [`sub_2EB200`](sub_2EB200.md) ✔️
+  * [`sub_41B200`](sub_41B200.md) ✔️
   * [`sub_403230`](sub_403230.md) ❓
-  * [`sub_2E3BA0`](sub_2E3BA0.md) ✔️
-  * [`sub_2E78B0`](sub_2E78B0.md) ✔️
-  * [`sub_2E2C40`](sub_2E2C40.md) ✔️
+  * [`sub_413BA0`](sub_413BA0.md) ✔️
+  * [`sub_4178B0`](sub_4178B0.md) ✔️
+  * [`sub_412C40`](sub_412C40.md) ✔️
   * [`_memset`](_memset.md) ⌛
-  * [`sub_2EAF90`](sub_2EAF90.md) ❓
+  * [`sub_41AF90`](sub_41AF90.md) ❓
   * [`sub_406A50`](sub_406A50.md) ✔️
   * [`sub_30851F`](sub_30851F.md) ✔️
-  * [`sub_2E2C40`](sub_2E2C40.md) ✔️
-  * [`sub_2E2BC0`](sub_2E2BC0.md) ✔️
+  * [`sub_412C40`](sub_412C40.md) ✔️
+  * [`sub_412BC0`](sub_412BC0.md) ✔️
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
 

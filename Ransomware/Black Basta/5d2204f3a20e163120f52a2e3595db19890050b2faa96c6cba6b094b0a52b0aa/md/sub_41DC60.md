@@ -1,4 +1,4 @@
-# sub_2EDC60 function
+# sub_41DC60 function
 
 ## Tasks
 
@@ -29,11 +29,11 @@ gmp_die (const char *msg)
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2EDC60.asm).
+Go to [assembly](../asm/sub_41DC60.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2EDC60.cc).
+Go to [source](../cc/sub_41DC60.cc).
 
 ## Arguments
 
@@ -47,7 +47,7 @@ None.
 
 * Function dependencies:
   * [`___acrt_iob_func`](___acrt_iob_func.md) ⌛
-  * [`sub_2EDC30`](sub_2EDC30.md) ⌛
+  * [`sub_41DC30`](sub_41DC30.md) ⌛
   * [`_abort`](_abort.md) ⌛
 
 * Data dependencies:
@@ -60,7 +60,7 @@ None.
 
 ## Graph
 
-![sub_2EDC60 Graph](../svg/sub_2EDC60.svg "sub_2EDC60 Graph")
+![sub_41DC60 Graph](../svg/sub_41DC60.svg "sub_41DC60 Graph")
 
 ## Flow
 

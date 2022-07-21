@@ -42,11 +42,11 @@ Go to [source](../cc/sub_40EAA0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2E3C90`](sub_2E3C90.md) ✅
-  * [`sub_2E74A0`](sub_2E74A0.md) ❓
+  * [`sub_413C90`](sub_413C90.md) ✅
+  * [`sub_4174A0`](sub_4174A0.md) ❓
   * [`sub_30851F`](sub_30851F.md) ✅
   * [`sub_406D40`](sub_406D40.md) ❓
-  * [`sub_2E2C40`](sub_2E2C40.md) ✅
+  * [`sub_412C40`](sub_412C40.md) ✅
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛ 
 

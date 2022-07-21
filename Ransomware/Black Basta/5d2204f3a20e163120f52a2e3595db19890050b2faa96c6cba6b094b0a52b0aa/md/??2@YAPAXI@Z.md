@@ -32,7 +32,7 @@ This function allocates a number of bytes through the use of the function [`_mal
 * Function dependencies:
   * [`__callnewh`](__callnewh.md)
   * [`_malloc`](_malloc.md)
-  * [`sub_2E29D0`](sub_2E29D0.md)
+  * [`sub_4129D0`](sub_4129D0.md)
   * [`sub_2F15F4`](sub_2F15F4.md)
 
 ## Graph

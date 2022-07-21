@@ -1,4 +1,4 @@
-# sub_2EC5E0 function
+# sub_41C5E0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2EC5E0.asm).
+Go to [assembly](../asm/sub_41C5E0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2EC5E0.cc).
+Go to [source](../cc/sub_41C5E0.cc).
 
 ## Arguments
 
@@ -44,12 +44,12 @@ Go to [source](../cc/sub_2EC5E0.cc).
 * Function dependencies:
   * [`GetFileAttributesExW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfileattributesexw)
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
-  * [`sub_2E8100`](sub_2E8100.md) ✅
+  * [`sub_418100`](sub_418100.md) ✅
   * [`_free`](_free.md) ⌛
-  * [`sub_2EB4D0`](sub_2EB4D0.md) ✅
+  * [`sub_41B4D0`](sub_41B4D0.md) ✅
   * [`sub_405180`](sub_405180.md) ✅
-  * `sub_2EC5E0` *(Recursion)*
-  * [`sub_2E2C40`](sub_2E2C40.md) ✅
+  * `sub_41C5E0` *(Recursion)*
+  * [`sub_412C40`](sub_412C40.md) ✅
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
 
 * Data dependencies:
@@ -58,13 +58,13 @@ Go to [source](../cc/sub_2EC5E0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2EC510`](sub_2EC510.md)
-  * [`sub_2E85D0`](sub_2E85D0.md)
-  * [`sub_2E44B0`](sub_2E44B0.md)
+  * [`sub_41C510`](sub_41C510.md)
+  * [`sub_4185D0`](sub_4185D0.md)
+  * [`sub_4144B0`](sub_4144B0.md)
 
 ## Graph
 
-![sub_2EC5E0 Graph](../svg/sub_2EC5E0.svg "sub_2EC5E0 Graph")
+![sub_41C5E0 Graph](../svg/sub_41C5E0.svg "sub_41C5E0 Graph")
 
 ## Flow
 

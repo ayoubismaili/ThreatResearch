@@ -52,7 +52,7 @@ Go to [source](../cc/StartAddress.cc).
   * [`sub_40D790`](sub_40D790.md) ✔️ 🔥
   * [`sub_40D0D0`](sub_40D0D0.md) ✔️ 🔥
   * [`sub_40FB20`](sub_40FB20.md) ✔️ 🔥
-  * [`sub_2E2A70`](sub_2E2A70.md) ❓
+  * [`sub_412A70`](sub_412A70.md) ❓
 
 * Data dependencies:
   * [`hHandle`](hHandle.md) ✔️
@@ -185,7 +185,7 @@ v40 = sub_40D0D0(v39);
 v41 = sub_40FB20();
 var_4 = 0xFFFFFFFF;
 v42 = &var_1C;
-v43 = sub_2E2A70(v42); //UnknownObject.sub_2E2A70(...)
+v43 = sub_412A70(v42); //UnknownObject.sub_412A70(...)
 //BB_002E0137
 //...
 ```

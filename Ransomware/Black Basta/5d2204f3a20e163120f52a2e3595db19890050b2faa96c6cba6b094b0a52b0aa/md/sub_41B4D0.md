@@ -1,4 +1,4 @@
-# sub_2EB4D0 function
+# sub_41B4D0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2EB4D0.asm).
+Go to [assembly](../asm/sub_41B4D0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2EB4D0.cc).
+Go to [source](../cc/sub_41B4D0.cc).
 
 ## Arguments
 
@@ -42,19 +42,19 @@ Go to [source](../cc/sub_2EB4D0.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2E8100`](sub_2E8100.md) ✅
+  * [`sub_418100`](sub_418100.md) ✅
   * [`_free`](_free.md) ⌛
   * [`sub_406D90`](sub_406D90.md) ❓
   * [`sub_406D40`](sub_406D40.md) ❓
   * [`sub_405100`](sub_405100.md) ❓
-  * [`sub_2E2C40`](sub_2E2C40.md) ✅
+  * [`sub_412C40`](sub_412C40.md) ✅
   * [`sub_404730`](sub_404730.md) ❓
-  * [`sub_2E9D30`](sub_2E9D30.md) ❓
+  * [`sub_419D30`](sub_419D30.md) ❓
   * [`sub_40B050`](sub_40B050.md) ❓
   * [`sub_40A4B0`](sub_40A4B0.md) ❓
-  * [`sub_2E7F40`](sub_2E7F40.md) ✅
+  * [`sub_417F40`](sub_417F40.md) ✅
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
-  * [`sub_2E2EF0`](sub_2E2EF0.md) ❓
+  * [`sub_412EF0`](sub_412EF0.md) ❓
 
 * Data dependencies:
   * [`asc_340F44`](asc_340F44.md) ⌛
@@ -62,11 +62,11 @@ Go to [source](../cc/sub_2EB4D0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2EC5E0`](sub_2EC5E0.md)
+  * [`sub_41C5E0`](sub_41C5E0.md)
 
 ## Graph
 
-![sub_2EB4D0 Graph](../svg/sub_2EB4D0.svg "sub_2EB4D0 Graph")
+![sub_41B4D0 Graph](../svg/sub_41B4D0.svg "sub_41B4D0 Graph")
 
 ## Flow
 

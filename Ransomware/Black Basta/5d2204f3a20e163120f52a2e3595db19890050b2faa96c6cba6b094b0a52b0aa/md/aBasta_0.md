@@ -14,7 +14,7 @@ This data possibly represents the extension of the encrypted files.
 ## Used By
 
 * Used by functions:
-  * [`sub_2E0150`](sub_2E0150.md)
+  * [`sub_410150`](sub_410150.md)
 
 ## Value
 

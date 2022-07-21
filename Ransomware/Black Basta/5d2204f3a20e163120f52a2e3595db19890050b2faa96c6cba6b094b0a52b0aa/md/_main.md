@@ -51,7 +51,7 @@ Go to [source](../cc/_main.cc).
   * [`sub_40AEA0`](sub_40AEA0.md) ✔️
   * [`sub_409610`](sub_409610.md) ✔️
   * [`sub_404AA0`](sub_404AA0.md) ✔️
-  * [`sub_2E6F10`](sub_2E6F10.md) ✔️
+  * [`sub_416F10`](sub_416F10.md) ✔️
   * [`unknown_libname_1`](unknown_libname_1.md) ❓
   * [`sub_40AF20`](sub_40AF20.md) ❓
   * [`sub_40A410`](sub_40A410.md) ❓

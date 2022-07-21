@@ -14,7 +14,7 @@ This data possibly represents a part of the registry key name that sets the defa
 ## Used By
 
 * Used by functions:
-  * [`sub_2E0150`](sub_2E0150.md)
+  * [`sub_410150`](sub_410150.md)
 
 ## Value
 

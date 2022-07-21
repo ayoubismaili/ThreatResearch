@@ -45,7 +45,7 @@ Go to [source](../cc/sub_40EE40.cc).
   * [`FindFirstVolumeW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findfirstvolumew)
   * [`GetVolumePathNamesForVolumeNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getvolumepathnamesforvolumenamew)
   * [`GetVolumeInformationW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getvolumeinformationw)
-  * [`sub_2EB200`](sub_2EB200.md) ✔️
+  * [`sub_41B200`](sub_41B200.md) ✔️
   * [`sub_403230`](sub_403230.md) ❓
   * [`sub_403640`](sub_403640.md) ❓
   * [`sub_30851F`](sub_30851F.md) ✔️

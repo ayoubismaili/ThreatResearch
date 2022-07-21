@@ -43,9 +43,9 @@ Go to [source](../cc/sub_40C5A0.cc).
 
 * Function dependencies:
   * [`sub_4026D0`](sub_4026D0.md) ✔️
-  * [`sub_2ED330`](sub_2ED330.md) ❓
-  * [`sub_2EAB20`](sub_2EAB20.md) ❓
-  * [`sub_2E76E0`](sub_2E76E0.md) ❓
+  * [`sub_41D330`](sub_41D330.md) ❓
+  * [`sub_41AB20`](sub_41AB20.md) ❓
+  * [`sub_4176E0`](sub_4176E0.md) ❓
   * [`sub_40FE80`](sub_40FE80.md) ✔️ 🔥
   * [`StartServiceCtrlDispatcherW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-startservicectrldispatcherw)
   * [`OpenSCManagerW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-openscmanagerw)
@@ -64,7 +64,7 @@ Go to [source](../cc/sub_40C5A0.cc).
   * [`sub_40FCB0`](sub_40FCB0.md) ✔️ 🔥
   * [`sub_40A440`](sub_40A440.md) ✔️
   * [`sub_409620`](sub_409620.md) ❓
-  * [`sub_2E0280`](sub_2E0280.md) ✔️ 🔥
+  * [`sub_410280`](sub_410280.md) ✔️ 🔥
   * [`ShellExecuteA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-shellexecutea)
   * [`sub_40EA60`](sub_40EA60.md) ❓
 
@@ -114,12 +114,12 @@ v2 = v1;
 v3 = v2->Dword00;
 v4 = v3->Dword04;
 v5 = v4 + v2;
-v6 = sub_2ED330(v5, 0xA); //UnknownObject.sub_2ED330(...)
+v6 = sub_41D330(v5, 0xA); //UnknownObject.sub_41D330(...)
 v7 = v6;
 v8 = v2;
-v9 = sub_2EAB20(v8, v7); //UnknownObject.sub_2EAB20(...)
+v9 = sub_41AB20(v8, v7); //UnknownObject.sub_41AB20(...)
 v10 = v2;
-v11 = sub_2E76E0(v10); //UnknownObject.sub_2E76E0(...)
+v11 = sub_4176E0(v10); //UnknownObject.sub_4176E0(...)
 v12 = dword_357290 >= 8;
 v13 = lpServiceName;
 ServiceStartTable.lpServiceProc = sub_40FE80;
@@ -229,12 +229,12 @@ v42 = v41;
 v43 = v42->Dword00;
 v44 = v43->Dword04;
 v45 = v44 + v42;
-v46 = sub_2ED330(v45, 0xA); //UnknownObject.sub_2ED330(...)
+v46 = sub_41D330(v45, 0xA); //UnknownObject.sub_41D330(...)
 v47 = v46;
 v48 = v42;
-v49 = sub_2EAB20(v48, v47); //UnknownObject.sub_2EAB20(...)
+v49 = sub_41AB20(v48, v47); //UnknownObject.sub_41AB20(...)
 v50 = v42;
-v51 = sub_2E76E0(v50); //UnknownObject.sub_2E76E0(...)
+v51 = sub_4176E0(v50); //UnknownObject.sub_4176E0(...)
 if (v38 == 0) {
   //BB_002DC738
   //...
@@ -293,7 +293,7 @@ var_30 = v66;
 v68 = sub_406BD0(unk_357294);
 var_4 = 4;
 var_4 = 0xFFFFFFFF;
-v69 = sub_2E0280();
+v69 = sub_410280();
 v70 = ShellExecuteA(v38, Operation, File, Parameters, v38, v38);
 v71 = __loaddll(v38);
 //BB_002DC81E

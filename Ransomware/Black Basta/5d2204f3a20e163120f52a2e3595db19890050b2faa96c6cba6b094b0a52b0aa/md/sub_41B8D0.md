@@ -1,4 +1,4 @@
-# sub_2EB8D0 function
+# sub_41B8D0 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2EB8D0.asm).
+Go to [assembly](../asm/sub_41B8D0.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2EB8D0.cc).
+Go to [source](../cc/sub_41B8D0.cc).
 
 ## Arguments
 
@@ -51,11 +51,11 @@ Go to [source](../cc/sub_2EB8D0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2E8310`](sub_2E8310.md)
+  * [`sub_418310`](sub_418310.md)
 
 ## Graph
 
-![sub_2EB8D0 Graph](../svg/sub_2EB8D0.svg "sub_2EB8D0 Graph")
+![sub_41B8D0 Graph](../svg/sub_41B8D0.svg "sub_41B8D0 Graph")
 
 ## Flow
 

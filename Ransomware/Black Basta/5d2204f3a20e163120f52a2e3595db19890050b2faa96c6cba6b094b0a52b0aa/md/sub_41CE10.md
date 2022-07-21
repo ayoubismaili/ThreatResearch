@@ -1,4 +1,4 @@
-# sub_2ECE10 function
+# sub_41CE10 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@ This function looks like a cryptographic function that processes a block of data
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2ECE10.asm).
+Go to [assembly](../asm/sub_41CE10.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2ECE10.cc).
+Go to [source](../cc/sub_41CE10.cc).
 
 ## Arguments
 
@@ -51,12 +51,12 @@ Go to [source](../cc/sub_2ECE10.cc).
 
 * Used by functions:
   * [`sub_405180`](sub_405180.md)
-  * [`sub_2E85D0`](sub_2E85D0.md)
-  * [`sub_2E44B0`](sub_2E44B0.md)
+  * [`sub_4185D0`](sub_4185D0.md)
+  * [`sub_4144B0`](sub_4144B0.md)
 
 ## Graph
 
-![sub_2ECE10 Graph](../svg/sub_2ECE10.svg "sub_2ECE10 Graph")
+![sub_41CE10 Graph](../svg/sub_41CE10.svg "sub_41CE10 Graph")
 
 ## Flow
 

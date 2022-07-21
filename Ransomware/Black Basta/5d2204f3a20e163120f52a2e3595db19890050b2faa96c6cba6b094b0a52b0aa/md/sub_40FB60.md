@@ -42,15 +42,15 @@ Go to [source](../cc/sub_40FB60.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2ECD20`](sub_2ECD20.md) ✔️
+  * [`sub_41CD20`](sub_41CD20.md) ✔️
   * [`sub_406BD0`](sub_406BD0.md) ✔️
   * [`sub_402DC0`](sub_402DC0.md) ❓
-  * [`sub_2E2C40`](sub_2E2C40.md) ✔️
+  * [`sub_412C40`](sub_412C40.md) ✔️
   * [`sub_4067A0`](sub_4067A0.md) ✔️
-  * [`sub_2EBF50`](sub_2EBF50.md) ❓
-  * [`sub_2ED3E0`](sub_2ED3E0.md) ❓
-  * [`sub_2E76E0`](sub_2E76E0.md) ❓
-  * [`sub_2E4190`](sub_2E4190.md) ❓
+  * [`sub_41BF50`](sub_41BF50.md) ❓
+  * [`sub_41D3E0`](sub_41D3E0.md) ❓
+  * [`sub_4176E0`](sub_4176E0.md) ❓
+  * [`sub_414190`](sub_414190.md) ❓
   * [`sub_40B720`](sub_40B720.md) ❓
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
 

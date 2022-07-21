@@ -63,9 +63,9 @@ None.
   * [`GetSystemMetrics`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getsystemmetrics)
   * [`sub_4026D0`](sub_4026D0.md) ✅
   * [`sub_40A530`](sub_40A530.md) ❓
-  * [`sub_2ED330`](sub_2ED330.md) ❓
-  * [`sub_2EAB20`](sub_2EAB20.md) ❓
-  * [`sub_2E76E0`](sub_2E76E0.md) ❓
+  * [`sub_41D330`](sub_41D330.md) ❓
+  * [`sub_41AB20`](sub_41AB20.md) ❓
+  * [`sub_4176E0`](sub_4176E0.md) ❓
   * [`HandlerProc`](HandlerProc.md) ✅ 🔥
   * [`RegisterServiceCtrlHandlerW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-registerservicectrlhandlerw)
   * [`SetServiceStatus`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-setservicestatus)
@@ -154,12 +154,12 @@ v6 = v5;
 v7 = v6->Dword00;
 v8 = v7->Dword04;
 v9 = v8 + v6;
-v10 = sub_2ED330(v9, 0xA); //UnknownObject.sub_2ED330(...)
+v10 = sub_41D330(v9, 0xA); //UnknownObject.sub_41D330(...)
 v11 = v10;
 v12 = v6;
-v13 = sub_2EAB20(v12, v11); //UnknownObject.sub_2EAB20(...)
+v13 = sub_41AB20(v12, v11); //UnknownObject.sub_41AB20(...)
 v14 = v6;
-v15 = sub_2E76E0(v14); //UnknownObject.sub_2E76E0(...)
+v15 = sub_4176E0(v14); //UnknownObject.sub_4176E0(...)
 if (v1 != 0) {
   //BB_002DFED0
   //...

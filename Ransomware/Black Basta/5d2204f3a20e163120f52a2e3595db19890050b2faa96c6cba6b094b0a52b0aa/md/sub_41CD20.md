@@ -1,4 +1,4 @@
-# sub_2ECD20 function
+# sub_41CD20 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2ECD20.asm).
+Go to [assembly](../asm/sub_41CD20.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2ECD20.cc).
+Go to [source](../cc/sub_41CD20.cc).
 
 ## Arguments
 
@@ -42,7 +42,7 @@ Go to [source](../cc/sub_2ECD20.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_2ECB40`](sub_2ECB40.md) ⌛
+  * [`sub_41CB40`](sub_41CB40.md) ⌛
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`sub_402CB0`](sub_402CB0.md) ⌛
   * [`sub_4052B0`](sub_4052B0.md) ⌛
@@ -61,7 +61,7 @@ Go to [source](../cc/sub_2ECD20.cc).
 
 ## Graph
 
-![sub_2ECD20 Graph](../svg/sub_2ECD20.svg "sub_2ECD20 Graph")
+![sub_41CD20 Graph](../svg/sub_41CD20.svg "sub_41CD20 Graph")
 
 ## Flow
 

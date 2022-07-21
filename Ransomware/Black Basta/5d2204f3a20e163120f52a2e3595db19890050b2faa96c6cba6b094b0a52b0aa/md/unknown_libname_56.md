@@ -51,7 +51,7 @@ Go to [source](../cc/unknown_libname_56.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2E4650`](sub_2E4650.md)
+  * [`sub_414650`](sub_414650.md)
 
 ## Graph
 

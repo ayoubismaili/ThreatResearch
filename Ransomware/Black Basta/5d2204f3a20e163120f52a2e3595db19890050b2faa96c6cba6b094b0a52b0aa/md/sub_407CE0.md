@@ -56,7 +56,7 @@ Go to [source](../cc/sub_407CE0.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2E6F20`](sub_2E6F20.md)
+  * [`sub_416F20`](sub_416F20.md)
 
 ## Graph
 

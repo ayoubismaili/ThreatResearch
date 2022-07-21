@@ -45,16 +45,16 @@ Go to [source](../cc/sub_40C8E0.cc).
   * [`OpenServiceW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-openservicew)
   * [`sub_406BD0`](sub_406BD0.md) ✔️
   * [`sub_4026D0`](sub_4026D0.md) ✔️
-  * [`sub_2ED330`](sub_2ED330.md) ❓
-  * [`sub_2EAB20`](sub_2EAB20.md) ❓
-  * [`sub_2E76E0`](sub_2E76E0.md) ❓
+  * [`sub_41D330`](sub_41D330.md) ❓
+  * [`sub_41AB20`](sub_41AB20.md) ❓
+  * [`sub_4176E0`](sub_4176E0.md) ❓
   * [`ControlService`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-controlservice)
   * [`sub_40A700`](sub_40A700.md) ❓
   * [`Sleep`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-sleep)
   * [`QueryServiceStatusEx`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-queryservicestatusex)
   * [`GetServiceDisplayNameW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-getservicedisplaynamew)
-  * [`sub_2E3C90`](sub_2E3C90.md) ✔️
-  * [`sub_2E2C40`](sub_2E2C40.md) ✔️
+  * [`sub_413C90`](sub_413C90.md) ✔️
+  * [`sub_412C40`](sub_412C40.md) ✔️
   * [`sub_402910`](sub_402910.md) ❓
   * [`sub_403F20`](sub_403F20.md) ❓
   * [`sub_404940`](sub_404940.md) ❓

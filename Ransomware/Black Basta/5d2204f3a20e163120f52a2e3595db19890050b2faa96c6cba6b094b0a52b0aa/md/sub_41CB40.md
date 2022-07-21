@@ -1,4 +1,4 @@
-# sub_2ECB40 function
+# sub_41CB40 function
 
 ## Tasks
 
@@ -25,11 +25,11 @@
 
 ## Assembly
 
-Go to [assembly](../asm/sub_2ECB40.asm).
+Go to [assembly](../asm/sub_41CB40.asm).
 
 ## Source
 
-Go to [source](../cc/sub_2ECB40.cc).
+Go to [source](../cc/sub_41CB40.cc).
 
 ## Arguments
 
@@ -43,7 +43,7 @@ Go to [source](../cc/sub_2ECB40.cc).
 
 * Function dependencies:
   * [`GetTempPathW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-gettemppathw)
-  * [`sub_2E3C90`](sub_2E3C90.md)
+  * [`sub_413C90`](sub_413C90.md)
   * [`sub_408A90`](sub_408A90.md)
   * [`sub_30851F`](sub_30851F.md)
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
@@ -56,11 +56,11 @@ Go to [source](../cc/sub_2ECB40.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_2ECD20`](sub_2ECD20.md)
+  * [`sub_41CD20`](sub_41CD20.md)
 
 ## Graph
 
-![sub_2ECB40 Graph](../svg/sub_2ECB40.svg "sub_2ECB40 Graph")
+![sub_41CB40 Graph](../svg/sub_41CB40.svg "sub_41CB40 Graph")
 
 ## Flow
 

@@ -1,4 +1,4 @@
-# sub_2E2BC0 function
+# sub_412BC0 function
 
 ## Tasks
 
@@ -33,5 +33,5 @@
 
 ## Graph
 
-![sub_2E2BC0 Graph](../svg/sub_2E2BC0.svg "sub_2E2BC0 Graph")
+![sub_412BC0 Graph](../svg/sub_412BC0.svg "sub_412BC0 Graph")
 
