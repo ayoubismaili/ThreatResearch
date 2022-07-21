@@ -56,7 +56,7 @@ Go to [source](../cc/sub_2DC8E0.cc).
   * [`sub_2E3C90`](sub_2E3C90.md) ✔️
   * [`sub_2E2C40`](sub_2E2C40.md) ✔️
   * [`sub_2D2910`](sub_2D2910.md) ❓
-  * [`sub_2D3F20`](sub_2D3F20.md) ⌛
+  * [`sub_2D3F20`](sub_2D3F20.md) ❓
   * [`sub_2D4940`](sub_2D4940.md) ⌛
   * [`DeleteService`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-deleteservice)
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
