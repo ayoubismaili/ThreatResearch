@@ -55,7 +55,7 @@ Go to [source](../cc/sub_2DC5A0.cc).
   * [`__loaddll`](__loaddll.md) ❓
   * [`sub_2DF650`](sub_2DF650.md) ✔️ 🔥
   * [`sub_2D6BD0`](sub_2D6BD0.md) ✔️
-  * [`sub_2DC8E0`](sub_2DC8E0.md) ⌛ 🔥
+  * [`sub_2DC8E0`](sub_2DC8E0.md) ✔️ 🔥
   * [`GetSystemMetrics`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getsystemmetrics)
   * [`sub_2DA530`](sub_2DA530.md) ❓
   * [`RegOpenKeyExW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winreg/nf-winreg-regopenkeyexw)
