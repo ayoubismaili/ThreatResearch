@@ -62,7 +62,7 @@ Go to [source](../cc/sub_2DC8E0.cc).
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`CloseServiceHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-closeservicehandle)
   * [`CreateServiceW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-createservicew)
-  * [`sub_30851F`](sub_30851F.md) ⌛
+  * [`sub_30851F`](sub_30851F.md) ✔️
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
 
