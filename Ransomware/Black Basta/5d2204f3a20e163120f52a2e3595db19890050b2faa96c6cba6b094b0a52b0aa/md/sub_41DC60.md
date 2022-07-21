@@ -56,7 +56,7 @@ None.
 ## Used By
 
 * Used by functions:
-  * [`sub_2F00A0`](sub_2F00A0.md)
+  * [`sub_4200A0`](sub_4200A0.md)
 
 ## Graph
 
