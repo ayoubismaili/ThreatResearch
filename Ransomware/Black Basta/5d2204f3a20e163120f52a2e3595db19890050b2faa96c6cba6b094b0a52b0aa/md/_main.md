@@ -22,7 +22,7 @@ This is the main function.
 ## Syntax
 
 ```c
-int _main(int argc, char**argv)
+int _main(int argc, const char **argv, const char **envp)
 {...}
 ```
 
@@ -38,6 +38,7 @@ Go to [source](../cc/_main.cc).
 
 * `argc` : The count of `main` arguments.
 * `argv` : The values of `main` arguments.
+* `envp` : 
 
 ## Return Value
 
@@ -61,12 +62,12 @@ Go to [source](../cc/_main.cc).
   * [`sub_40C5A0`](sub_40C5A0.md) ✔️ 🔥
 
 * Data dependencies:
-  * [`byte_340C84`](byte_340C84.md) ⌛
+  * [`byte_470C84`](byte_470C84.md) ⌛
   * [`aForcepath`](aForcepath.md) ⌛
-  * [`unk_35724C`](unk_35724C.md) ⌛
+  * [`unk_48724C`](unk_48724C.md) ⌛
   * [`sub_404910`](sub_404910.md) ⌛
   * [`aForcedPath`](aForcedPath.md) ⌛
-  * [`unk_359670`](unk_359670.md) ⌛
+  * [`unk_489670`](unk_489670.md) ⌛
 
 ## Used By
 
