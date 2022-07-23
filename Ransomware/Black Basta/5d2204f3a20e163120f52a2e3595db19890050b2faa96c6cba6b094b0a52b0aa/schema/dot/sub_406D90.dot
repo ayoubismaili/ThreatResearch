@@ -1,0 +1,77 @@
+digraph {
+  start -> n002;
+  
+  //insn 00406D97
+  n000 [label="esi"];
+  n001 [label="ecx"];
+  n002 [label="mov", color=purple, shape=box];
+  n001 -> n002 [color=cyan]; //data
+  n002 -> n000 [color=cyan]; //data
+  n002 -> n006; //flow
+  
+  //insn 00406D9C
+  n003 [label="memory.dword", color=orange, shape=box];
+  //n004 [label="esi"];
+  n005 [label="0"];
+  n006 [label="mov", color=purple, shape=box];
+  n005 -> n006 [color=cyan]; //data
+  n006 -> n003 [color=cyan]; //data
+  n000 -> n003 [color=cyan]; //data
+  n006 -> n012;
+  
+  //insn 00406DA2
+  n007 [label="memory.dword", color=orange, shape=box];
+  n008 [label="address.add", color=orange, shape=box];
+  //n009 [label="esi"];
+  n010 [label="0x10"];
+  n011 [label="0"];
+  n012 [label="mov", color=purple, shape=box];
+  n000 -> n008 [color=cyan]; //data
+  n010 -> n008 [color=cyan]; //data
+  n011 -> n012 [color=cyan]; //data
+  n012 -> n007 [color=cyan]; //data
+  n008 -> n007 [color=cyan]; //data
+  n012 -> n018; //flow
+  
+  //insn 00406DA9
+  n013 [label="memory.dword", color=orange, shape=box];
+  n014 [label="address.add", color=orange, shape=box];
+  //n015 [label="esi"];
+  n016 [label="0x14"];
+  n017 [label="7"];
+  n018 [label="mov", color=purple, shape=box];
+  n017 -> n018 [color=cyan]; //data
+  n018 -> n013 [color=cyan]; //data
+  n000 -> n014 [color=cyan]; //data
+  n016 -> n014 [color=cyan]; //data
+  n014 -> n013 [color=cyan]; //data
+  n018 -> n021; //flow
+  
+  //insn 00406DB0
+  n019 [label="Src"];
+  n020 [label="arg_4"];
+  n020_2 [label="eax"];
+  n021 [label="sub_413C90", color=purple, shape=box];
+  n020 -> n021 [color=cyan]; //data
+  n019 -> n021 [color=cyan]; //data
+  n021 -> n020_2 [color=cyan]; //data
+  n021 -> n024; //flow
+  
+  //insn 00406DB5
+  n022 [label="eax"];
+  //n023 [label="esi"];
+  n024 [label="mov", color=purple, shape=box];
+  n000 -> n024 [color=cyan]; //data
+  n024 -> n022 [color=cyan]; //data
+  n024 -> n026; //flow
+  
+  //insn 00406DB9
+  //n025 [label="eax"];
+  n026 [label="retn", color=purple, shape=box];
+  n022 -> n026 [color=cyan]; //data
+  
+  n026 -> end;
+  
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+}
