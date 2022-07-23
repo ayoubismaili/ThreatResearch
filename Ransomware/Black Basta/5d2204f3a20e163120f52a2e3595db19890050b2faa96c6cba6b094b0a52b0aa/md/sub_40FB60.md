@@ -56,7 +56,7 @@ Go to [source](../cc/sub_40FB60.cc).
 
 * Data dependencies:
   * [`aFkdjsadasdIco`](aFkdjsadasdIco.md) ✔️
-  * [`dword_357194`](dword_357194.md) ✔️
+  * [`dword_487194`](dword_487194.md) ✔️
   * [`unk_46C628`](unk_46C628.md) ✔️
 
 ## Used By
