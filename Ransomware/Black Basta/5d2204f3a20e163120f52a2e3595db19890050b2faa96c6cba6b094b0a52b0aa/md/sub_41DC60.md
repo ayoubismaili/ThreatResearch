@@ -51,7 +51,7 @@ None.
   * [`_abort`](_abort.md) ⌛
 
 * Data dependencies:
-  * [`unk_341CA0`](unk_341CA0.md) ⌛
+  * [`unk_471CA0`](unk_471CA0.md) ⌛
 
 ## Used By
 

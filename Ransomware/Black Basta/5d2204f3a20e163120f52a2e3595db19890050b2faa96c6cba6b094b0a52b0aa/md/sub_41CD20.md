@@ -47,10 +47,10 @@ Go to [source](../cc/sub_41CD20.cc).
   * [`sub_402CB0`](sub_402CB0.md) ⌛
   * [`sub_4052B0`](sub_4052B0.md) ⌛
   * [`sub_408360`](sub_408360.md) ⌛
-  * [`sub_3098A0`](sub_3098A0.md) ⌛
+  * [`sub_4398A0`](sub_4398A0.md) ⌛
 
 * Data dependencies:
-  * [`off_357548`](off_357548.md) ⌛
+  * [`off_487548`](off_487548.md) ⌛
   * `__TI5?AVfilesystem_error@filesystem@ghc@@`
 
 

@@ -53,7 +53,7 @@ Go to [source](../cc/sub_41C5E0.cc).
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
 
 * Data dependencies:
-  * [`off_357548`](off_357548.md) ⌛
+  * [`off_487548`](off_487548.md) ⌛
 
 ## Used By
 

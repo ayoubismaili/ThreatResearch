@@ -68,52 +68,52 @@ None.
 ## Flow
 
 ```c
-BB_002DFE00:
+BB_0040FE00:
 //...
 if (condition) {
-  BB_002DFE09:
+  BB_0040FE09:
   //...
   if (condition) {
-    BB_002DFE12:
+    BB_0040FE12:
     //...
     if (condition) {
-      BB_002DFE4F:
+      BB_0040FE4F:
       //...
     }
-    BB_002DFE5A:
+    BB_0040FE5A:
     //...
   }
 }
-BB_002DFE66:
+BB_0040FE66:
 //...
 ```
 
 ## Pseudo-code
 
-### BB_002DFE00
+### BB_0040FE00
 
 ```c
 dwControl -= 1;
 if (dwControl == 0) {
-  //BB_002DFE09
+  //BB_0040FE09
   //...
 }
-//BB_002DFE66
+//BB_0040FE66
 //...
 ```
 
-### BB_002DFE09
+### BB_0040FE09
 
 ```c
 if (ServiceStatus.dwCurrentState == 4) {
-  //BB_002DFE12
+  //BB_0040FE12
   //...
 }
-//BB_002DFE66
+//BB_0040FE66
 //...
 ```
 
-### BB_002DFE12
+### BB_0040FE12
 
 ```c
 ServiceStatus.dwControlsAccepted = 0;
@@ -122,30 +122,30 @@ ServiceStatus.dwWin32ExitCode = 0;
 ServiceStatus.dwCheckPoint = 4;
 v1 = SetServiceStatus(hServiceStatus, &ServiceStatus);
 if (v1 == 0) {
-  //BB_002DFE4F
+  //BB_0040FE4F
   //..
 }
-//BB_002DFE5A
+//BB_0040FE5A
 //...
 ```
 
-### BB_002DFE4F
+### BB_0040FE4F
 
 ```c
 OutputDebugStringW(OutputString);
-//BB_002DFE5A
+//BB_0040FE5A
 //...
 ```
 
-### BB_002DFE5A
+### BB_0040FE5A
 
 ```c
 v2 = SetEvent(hHandle);
-//BB_002DFE66
+//BB_0040FE66
 //...
 ```
 
-### BB_002DFE66
+### BB_0040FE66
 
 ```c
 return;

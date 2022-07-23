@@ -17,7 +17,7 @@
 
 ## Description
 
-This function possibly drops the image having the name [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) and size [`dword_357190`](dword_357190.md) contained in the memory location [`unk_336330`](unk_336330.md).
+This function possibly drops the image having the name [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) and size [`dword_487190`](dword_487190.md) contained in the memory location [`unk_466330`](unk_466330.md).
 
 ## Syntax
 
@@ -56,8 +56,8 @@ Go to [source](../cc/sub_40FCB0.cc).
 
 * Data dependencies:
   * [`aDlaksjdoiwqJpg`](aDlaksjdoiwqJpg.md) ✔️
-  * [`dword_357190`](dword_357190.md) ✔️
-  * [`unk_336330`](unk_336330.md) ✔️
+  * [`dword_487190`](dword_487190.md) ✔️
+  * [`unk_466330`](unk_466330.md) ✔️
 
 
 ## Used By

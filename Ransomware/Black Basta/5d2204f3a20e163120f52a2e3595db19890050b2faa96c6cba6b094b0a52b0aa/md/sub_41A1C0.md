@@ -45,7 +45,7 @@ Go to [source](../cc/sub_41A1C0.cc).
   * [`sub_41B8D0`](sub_41B8D0.md) ✔️
   * [`sub_413C90`](sub_413C90.md) ✔️
   * [`sub_405100`](sub_405100.md) ❓
-  * [`sub_30851F`](sub_30851F.md) ✔️
+  * [`sub_43851F`](sub_43851F.md) ✔️
   * [`sub_406F70`](sub_406F70.md) ❓
   * [`sub_412C40`](sub_412C40.md) ✔️
   * [`_toupper`](_toupper.md) ⌛
@@ -56,8 +56,8 @@ Go to [source](../cc/sub_41A1C0.cc).
   * [`sub_412ED0`](sub_412ED0.md) ❓
 
 * Data dependencies:
-  * [`asc_340F38`](asc_340F38.md) ✔️
-  * [`asc_340F44`](asc_340F44.md) ⌛
+  * [`asc_470F38`](asc_470F38.md) ✔️
+  * [`asc_470F44`](asc_470F44.md) ⌛
 
 ## Used By
 

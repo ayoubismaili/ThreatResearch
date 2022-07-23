@@ -32,7 +32,7 @@ This function is a method of an unknown class.
 * Function dependencies:
   * [`_memmove`](_memmove.md)
   * [`sub_413350`](sub_413350.md)
-  * [`sub_30851F`](sub_30851F.md)
+  * [`sub_43851F`](sub_43851F.md)
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
   * [`sub_412ED0`](sub_412ED0.md)
 

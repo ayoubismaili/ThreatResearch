@@ -1,4 +1,4 @@
-# sub_30DC04 function
+# sub_43DC04 function
 
 ## Tasks
 
@@ -17,12 +17,12 @@
 
 ## Description
 
-This function jumps to the function [`sub_30DAE9`](sub_30DAE9.md).
+This function jumps to the function [`sub_43DAE9`](sub_43DAE9.md).
 
 ## Syntax
 
 ```c
-DWORD sub_30DC04(CHAR* CommandLine)
+DWORD sub_43DC04(CHAR* CommandLine)
 {...}
 ```
 
@@ -37,7 +37,7 @@ DWORD sub_30DC04(CHAR* CommandLine)
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_30DAE9`](sub_30DAE9.md)
+  * [`sub_43DAE9`](sub_43DAE9.md)
 
 ## Used By
 
@@ -46,5 +46,5 @@ DWORD sub_30DC04(CHAR* CommandLine)
 
 ## Graph
 
-![sub_30DC04 Graph](../svg/sub_30DC04.svg "sub_30DC04 Graph")
+![sub_43DC04 Graph](../svg/sub_43DC04.svg "sub_43DC04 Graph")
 

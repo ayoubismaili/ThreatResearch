@@ -28,7 +28,7 @@
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_30851F`](sub_30851F.md)
+  * [`sub_43851F`](sub_43851F.md)
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
 
 ## Graph

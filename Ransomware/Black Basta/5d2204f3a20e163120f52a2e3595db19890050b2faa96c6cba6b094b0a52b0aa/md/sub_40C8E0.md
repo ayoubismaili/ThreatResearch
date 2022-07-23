@@ -62,18 +62,18 @@ Go to [source](../cc/sub_40C8E0.cc).
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`CloseServiceHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-closeservicehandle)
   * [`CreateServiceW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winsvc/nf-winsvc-createservicew)
-  * [`sub_30851F`](sub_30851F.md) ✔️
+  * [`sub_43851F`](sub_43851F.md) ✔️
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md) ⌛
 
 
 * Data dependencies:
   * [`aExistingServic`](aExistingServic.md) ⌛
-  * [`unk_359670`](unk_359670.md) ⌛
+  * [`unk_489670`](unk_489670.md) ⌛
   * [`aServiceStatus`](aServiceStatus.md) ⌛
   * [`aServiceProcess`](aServiceProcess.md) ⌛
   * [`aStolenName`](aStolenName.md) ⌛
-  * [`unk_359720`](unk_359720.md) ⌛
+  * [`unk_489720`](unk_489720.md) ⌛
   * [`aServiceDeleted`](aServiceDeleted.md) ⌛
   * [`aServiceCannotB`](aServiceCannotB.md) ⌛
   * [`aCannotCloseHan`](aCannotCloseHan.md) ⌛

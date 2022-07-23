@@ -45,13 +45,13 @@ Go to [source](../cc/sub_41CB40.cc).
   * [`GetTempPathW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-gettemppathw)
   * [`sub_413C90`](sub_413C90.md)
   * [`sub_408A90`](sub_408A90.md)
-  * [`sub_30851F`](sub_30851F.md)
+  * [`sub_43851F`](sub_43851F.md)
   * [`GetLastError`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror)
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md)
   * [`__invalid_parameter_noinfo_noreturn`](__invalid_parameter_noinfo_noreturn.md)
 
 * Data dependencies:
-  * [`off_357548`](off_357548.md)
+  * [`off_487548`](off_487548.md)
 
 ## Used By
 

@@ -42,7 +42,7 @@ Go to [source](../cc/sub_40FB20.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_30DC04`](sub_30DC04.md) ✅
+  * [`sub_43DC04`](sub_43DC04.md) ✅
   * [`ShellExecuteA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-shellexecutea)
 
 

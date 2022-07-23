@@ -57,7 +57,7 @@ Go to [source](../cc/sub_41B4D0.cc).
   * [`sub_412EF0`](sub_412EF0.md) ❓
 
 * Data dependencies:
-  * [`asc_340F44`](asc_340F44.md) ⌛
+  * [`asc_470F44`](asc_470F44.md) ⌛
 
 ## Used By
 

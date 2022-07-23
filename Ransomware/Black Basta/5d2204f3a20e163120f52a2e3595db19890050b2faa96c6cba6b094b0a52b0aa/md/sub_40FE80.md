@@ -79,8 +79,8 @@ None.
 
 * Data dependencies:
   * [`aBootOption`](aBootOption.md) ✅
-  * [`unk_359670`](unk_359670.md) ⌛
-  * [`dword_357290`](dword_357290.md) ⌛
+  * [`unk_489670`](unk_489670.md) ⌛
+  * [`dword_487290`](dword_487290.md) ⌛
   * [`lpServiceName`](lpServiceName.md) ✅
   * [`hServiceStatus`](hServiceStatus.md) ✅
   * [`ServiceStatus`](ServiceStatus.md) ✅
@@ -99,55 +99,55 @@ None.
 ## Flow
 
 ```c
-BB_002DFE80:
+BB_0040FE80:
 //...
 if (condition) {
-  BB_002DFED0:
+  BB_0040FED0:
   //...
   if (condition) {
-    BB_002DFEFC:
+    BB_0040FEFC:
     //...
     if (condition)
     {
-      BB_002DFF5A:
+      BB_0040FF5A:
       //...
     }
-    BB_002DFF61:
+    BB_0040FF61:
     //...
     if (condition) {
-      BB_002DFF78:
+      BB_0040FF78:
       //...
     } else {
-      BB_002DFFA1:
+      BB_0040FFA1:
       //...
       if (condition) {
-        BB_002DFFDA:
+        BB_0040FFDA:
         //...
       }
-      BB_002DFFE1:
+      BB_0040FFE1:
       //...
     }
-    BB_002E0033:
+    BB_00410033:
     //...
     if (condition) {
-      BB_002E0044:
+      BB_00410044:
       //...
     }
   }
 }
-BB_002E004B:
+BB_0041004B:
 //...
 end:
 ```
 
 ## Pseudo-code
 
-### BB_002DFE80
+### BB_0040FE80
 
 ```c
 v1 = GetSystemMetrics(0x43);
 v2 = v1;
-v3 = sub_4026D0(unk_359670, aBootOption);
+v3 = sub_4026D0(unk_489670, aBootOption);
 v4 = v3;
 v5 = sub_40A530(v4); //UnknownObject.sub_40A530(...)
 v6 = v5;
@@ -161,30 +161,30 @@ v13 = sub_41AB20(v12, v11); //UnknownObject.sub_41AB20(...)
 v14 = v6;
 v15 = sub_4176E0(v14); //UnknownObject.sub_4176E0(...)
 if (v1 != 0) {
-  //BB_002DFED0
+  //BB_0040FED0
   //...
 }
-//BB_002E004B
+//BB_0041004B
 //...
 ```
 
-### BB_002DFED0
+### BB_0040FED0
 
 ```c
-v16 = dword_357290 >= 8;
+v16 = dword_487290 >= 8;
 v17 = lpServiceName;
 v18 = v16 ? v17: lpServiceName; //phi
 v19 = RegisterServiceCtrlHandlerW(v18, HandlerProc);
 hServiceStatus = v19;
 if (v19 != 0) {
-  //BB_002DFEFC
+  //BB_0040FEFC
   //...
 }
-//BB_002E004B
+//BB_0041004B
 //...
 ```
 
-### BB_002DFEFC
+### BB_0040FEFC
 
 ```c
 ServiceStatus.dwWaitHint = 0;
@@ -197,35 +197,35 @@ ServiceStatus.dwCheckPoint = 0;
 v20 = SetServiceStatus(v19, &ServiceStatus);
 if (v20 == 0)
 {
-  //BB_002DFF5A
+  //BB_0040FF5A
   //...
 }
-//BB_002DFF61
+//BB_0040FF61
 //...
 ```
 
-### BB_002DFF5A
+### BB_0040FF5A
 
 ```c
 OutputDebugStringW(aMySampleServic_0);
-//BB_002DFF61
+//BB_0040FF61
 //...
 ```
 
-### BB_002DFF61
+### BB_0040FF61
 
 ```c
 v21 = CreateEventW(0, 1, 0, 0);
 hHandle = v21;
 if (v21 == 0) {
-  //BB_002DFF78
+  //BB_0040FF78
   //...
 }
-//BB_002DFFA1
+//BB_0040FFA1
 //...
 ```
 
-### BB_002DFF78
+### BB_0040FF78
 
 ```c
 ServiceStatus.dwControlsAccepted = v21;
@@ -233,11 +233,11 @@ ServiceStatus.dwCurrentState = 1;
 v22 = GetLastError();
 ServiceStatus.dwWin32ExitCode = v22;
 ServiceStatus.dwCheckPoint = 1;
-//BB_002E0033
+//BB_00410033
 //...
 ```
 
-### BB_002DFFA1
+### BB_0040FFA1
 
 ```c
 ServiceStatus.dwControlsAccepted = 1;
@@ -246,22 +246,22 @@ ServiceStatus.dwWin32ExitCode = 0;
 ServiceStatus.dwCheckPoint = 0;
 v23 = SetServiceStatus(hServiceStatus, &ServiceStatus);
 if (v23 == 0) {
-  //BB_002DFFDA
+  //BB_0040FFDA
   //...
 }
-//BB_002DFFE1
+//BB_0040FFE1
 //...
 ```
 
-### BB_002DFFDA
+### BB_0040FFDA
 
 ```c
 OutputDebugStringW(aMySampleServic_0);
-//BB_002DFFE1
+//BB_0040FFE1
 //...
 ```
 
-### BB_002DFFE1
+### BB_0040FFE1
 
 ```c
 v24 = CreateThread(0, 0, StartAddress, 0, 0, 0);
@@ -271,31 +271,31 @@ ServiceStatus.dwControlsAccepted = 0;
 ServiceStatus.dwCurrentState = 1;
 ServiceStatus.dwWin32ExitCode = 0;
 ServiceStatus.dwCheckPoint = 3;
-//BB_002E0033
+//BB_00410033
 //...
 ```
 
-### BB_002E0033
+### BB_00410033
 
 ```c
 v26 = SetServiceStatus(hServiceStatus, &ServiceStatus);
 if (v26 == 0) {
-  //BB_002E0044
+  //BB_00410044
   //...
 }
-//BB_002E004B
+//BB_0041004B
 //...
 ```
 
-### BB_002E0044
+### BB_00410044
 
 ```c
 OutputDebugStringW(aMySampleServic_0);
-//BB_002E004B
+//BB_0041004B
 //...
 ```
 
-### BB_002E004B
+### BB_0041004B
 
 ```c
 return;

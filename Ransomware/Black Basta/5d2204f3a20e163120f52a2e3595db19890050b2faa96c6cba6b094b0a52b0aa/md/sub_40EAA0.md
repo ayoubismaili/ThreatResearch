@@ -44,7 +44,7 @@ Go to [source](../cc/sub_40EAA0.cc).
 * Function dependencies:
   * [`sub_413C90`](sub_413C90.md) ✅
   * [`sub_4174A0`](sub_4174A0.md) ❓
-  * [`sub_30851F`](sub_30851F.md) ✅
+  * [`sub_43851F`](sub_43851F.md) ✅
   * [`sub_406D40`](sub_406D40.md) ❓
   * [`sub_412C40`](sub_412C40.md) ✅
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛

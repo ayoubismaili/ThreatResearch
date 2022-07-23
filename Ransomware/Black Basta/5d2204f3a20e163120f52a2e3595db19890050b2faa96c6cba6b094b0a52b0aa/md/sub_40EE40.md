@@ -48,7 +48,7 @@ Go to [source](../cc/sub_40EE40.cc).
   * [`sub_41B200`](sub_41B200.md) ✔️
   * [`sub_403230`](sub_403230.md) ❓
   * [`sub_403640`](sub_403640.md) ❓
-  * [`sub_30851F`](sub_30851F.md) ✔️
+  * [`sub_43851F`](sub_43851F.md) ✔️
   * [`FindNextVolumeW`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findnextvolumew)
   * [`FindVolumeClose`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-findvolumeclose)
   * [`@__security_check_cookie@4`](@__security_check_cookie@4.md) ⌛
