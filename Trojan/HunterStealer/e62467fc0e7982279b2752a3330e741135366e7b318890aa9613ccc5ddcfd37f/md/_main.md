@@ -47,7 +47,7 @@ Go to [source](../cc/_main.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`__EH_prolog3_GS`](__EH_prolog3_GS.md) ⌛
+  * [`__EH_prolog3_GS`](__EH_prolog3_GS.md) ✔️
   * [`CreateMutexA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-createmutexa)
   * [`WaitForSingleObject`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject)
   * [`GetKeyState`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getkeystate)
