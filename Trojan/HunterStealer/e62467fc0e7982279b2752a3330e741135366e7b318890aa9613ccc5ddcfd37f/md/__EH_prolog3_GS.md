@@ -42,11 +42,11 @@ Go to [source](../cc/__EH_prolog3_GS.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
