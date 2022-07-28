@@ -51,7 +51,7 @@ Go to [source](../cc/_main.cc).
   * [`CreateMutexA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-createmutexa)
   * [`WaitForSingleObject`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject)
   * [`GetKeyState`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getkeystate)
-  * [`unknown_libname_35`](unknown_libname_35.md) ⌛
+  * [`unknown_libname_35`](unknown_libname_35.md) ✔️
   * [`_srand`](_srand.md) ⌛
   * [`SHGetFolderPathA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shgetfolderpatha)
   * [`sub_451111`](sub_451111.md) ⌛
