@@ -54,7 +54,7 @@ Go to [source](../cc/_main.cc).
   * [`unknown_libname_35`](unknown_libname_35.md) ✔️
   * [`_srand`](_srand.md) ⌛
   * [`SHGetFolderPathA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/shlobj_core/nf-shlobj_core-shgetfolderpatha)
-  * [`sub_451111`](sub_451111.md) ⌛
+  * [`sub_451111`](sub_451111.md) ✔️
   * [`GetTempPathA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-gettemppatha)
   * [`sub_440850`](sub_440850.md) ⌛
   * [`sub_451AF7`](sub_451AF7.md) ⌛
