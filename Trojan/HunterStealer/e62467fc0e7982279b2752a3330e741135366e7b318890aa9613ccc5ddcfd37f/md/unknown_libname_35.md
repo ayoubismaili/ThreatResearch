@@ -43,7 +43,7 @@ Go to [source](../cc/unknown_libname_35.cc).
 
 * Function dependencies:
   * [`GetSystemTimeAsFileTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getsystemtimeasfiletime)
-  * [`__alldiv`](__alldiv.md)
+  * [`__alldiv`](__alldiv.md) ⌛
 
 
 * Data dependencies:
