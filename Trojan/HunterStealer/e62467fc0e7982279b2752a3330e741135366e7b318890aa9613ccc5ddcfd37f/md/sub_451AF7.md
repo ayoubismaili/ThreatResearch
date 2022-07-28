@@ -6,8 +6,8 @@
 - [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
-- [ ] Add Arguments.
-- [ ] Add Return Value.
+- [X] Add Arguments.
+- [X] Add Return Value.
 - [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
@@ -36,20 +36,26 @@ Go to [source](../cc/sub_451AF7.cc).
 
 ## Arguments
 
-(Add arguments.)
+* `Object` : 
+* `Src` : 
+* `Value` : 
 
 ## Return Value
 
-(Add return value.)
+`int` : 
 
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_452340`](sub_452340.md) ⌛
+  * [`_memmove`](_memmove.md) ⌛
+  * [`sub_45237E`](sub_45237E.md) ⌛
+  * [`sub_452596`](sub_452596.md) ⌛
+  * [`sub_429D28`](sub_429D28.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
