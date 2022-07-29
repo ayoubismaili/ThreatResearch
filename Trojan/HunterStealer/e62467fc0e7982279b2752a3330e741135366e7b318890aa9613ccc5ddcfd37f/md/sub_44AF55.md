@@ -3,7 +3,7 @@
 ## Tasks
 
 - [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
 - [ ] Add Arguments.
@@ -21,7 +21,10 @@
 
 ## Syntax
 
-(Add syntax.)
+```c
+int __cdecl sub_44AF55()
+{...}
+```
 
 ## Assembly
 
