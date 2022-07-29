@@ -45,7 +45,7 @@ Go to [source](../cc/sub_42CC76.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_453C31`](sub_453C31.md) ⌛
+  * [`sub_453C31`](sub_453C31.md) ✔️
   * [`j_j__free`](j_j__free.md) ⌛
 
 

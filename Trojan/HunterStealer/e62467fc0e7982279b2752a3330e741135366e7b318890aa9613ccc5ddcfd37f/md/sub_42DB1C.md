@@ -46,7 +46,7 @@ Go to [source](../cc/sub_42DB1C.cc).
   * `??2@YAPAXI@Z` ⌛
   * [`sub_42CCB7`](sub_42CCB7.md) ✔️
   * [`sub_42CC76`](sub_42CC76.md) ✔️
-  * [`sub_453C31`](sub_453C31.md) ⌛
+  * [`sub_453C31`](sub_453C31.md) ✔️
   * [`__EH_epilog3`](__EH_epilog3.md) ⌛
 
 
