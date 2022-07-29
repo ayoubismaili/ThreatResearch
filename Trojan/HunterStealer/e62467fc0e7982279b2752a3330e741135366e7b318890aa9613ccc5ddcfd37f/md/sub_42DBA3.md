@@ -42,11 +42,11 @@ Go to [source](../cc/sub_42DBA3.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_42DB1C`](sub_42DB1C.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
