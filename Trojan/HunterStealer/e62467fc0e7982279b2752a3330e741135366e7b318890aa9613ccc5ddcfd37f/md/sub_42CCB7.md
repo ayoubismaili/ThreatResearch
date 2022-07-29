@@ -3,11 +3,11 @@
 ## Tasks
 
 - [ ] Add Description.
-- [ ] Add Syntax.
+- [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
-- [ ] Add Arguments.
-- [ ] Add Return Value.
+- [X] Add Arguments.
+- [X] Add Return Value.
 - [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
@@ -17,11 +17,14 @@
 
 ## Description
 
-(Add description.)
+This function is a method of an unknown class.
 
 ## Syntax
 
-(Add syntax.)
+```c
+int __thiscall sub_42CCB7(void *Object, int Value1, DWORD dwMaximumSizeLow, int Value2)
+{...}
+```
 
 ## Assembly
 
@@ -33,20 +36,25 @@ Go to [source](../cc/sub_42CCB7.cc).
 
 ## Arguments
 
-(Add arguments.)
+* `Object` : 
+* `Value1` : 
+* `dwMaximumSizeLow` : 
+* `Value2` : 
 
 ## Return Value
 
-(Add return value.)
+`int` : 
 
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`CreateFileMappingA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createfilemappinga)
+  * [`MapViewOfFile`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-mapviewoffile)
+  * [`CloseHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
