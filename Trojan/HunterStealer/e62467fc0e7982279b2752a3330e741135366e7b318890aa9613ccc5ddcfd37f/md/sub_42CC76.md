@@ -36,20 +36,21 @@ Go to [source](../cc/sub_42CC76.cc).
 
 ## Arguments
 
-
+* `Object` : 
 
 ## Return Value
 
-
+`int` : 
 
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_453C31`](sub_453C31.md) ⌛
+  * [`j_j__free`](j_j__free.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
