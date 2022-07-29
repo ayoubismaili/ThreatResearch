@@ -21,7 +21,10 @@
 
 ## Syntax
 
-(Add syntax.)
+```c
+void *__cdecl memmove(void *Dst, const void *Src, size_t Size)
+{...}
+```
 
 ## Assembly
 
@@ -42,11 +45,15 @@ Go to [source](../cc/_memmove.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
 
 
 * Data dependencies:
-  * ...
+  * [`dword_485010`](dword_485010.md) ⌛
+  * [`dword_486A30`](dword_486A30.md) ⌛
+  * [`jpt_456295`](jpt_456295.md) ⌛
+  * [`TrailingUp0`](TrailingUp0.md) ⌛
+  * [`jpt_456378`](jpt_456378.md) ⌛
 
 ## Used By
 

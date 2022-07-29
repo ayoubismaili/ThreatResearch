@@ -48,7 +48,7 @@ Go to [source](../cc/sub_451AF7.cc).
 
 * Function dependencies:
   * [`sub_452340`](sub_452340.md) ✔️
-  * [`_memmove`](_memmove.md) ⌛
+  * [`_memmove`](_memmove.md) ✔️
   * [`sub_45237E`](sub_45237E.md) ⌛
   * [`sub_452596`](sub_452596.md) ⌛
   * [`sub_429D28`](sub_429D28.md) ⌛
