@@ -59,7 +59,7 @@ Go to [source](../cc/_main.cc).
   * [`sub_440850`](sub_440850.md) ✔️
   * [`sub_451AF7`](sub_451AF7.md) ✔️
   * [`sub_42DBA3`](sub_42DBA3.md) ✔️
-  * [`sub_450504`](sub_450504.md) ⌛
+  * [`sub_450504`](sub_450504.md) ✔️
   * [`sub_450500`](sub_450500.md) ⌛
   * [`sub_44AF55`](sub_44AF55.md) ⌛
   * [`sub_44BB5D`](sub_44BB5D.md) ⌛
