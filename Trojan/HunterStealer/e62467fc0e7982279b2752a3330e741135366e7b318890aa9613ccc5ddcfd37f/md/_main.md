@@ -58,7 +58,6 @@ Go to [source](../cc/_main.cc).
   * [`GetTempPathA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-gettemppatha)
   * [`sub_440850`](sub_440850.md) ✔️
   * [`sub_451AF7`](sub_451AF7.md) ✔️
-  * [`sub_440850`](sub_440850.md) ⌛
   * [`sub_42DBA3`](sub_42DBA3.md) ⌛
   * [`sub_450504`](sub_450504.md) ⌛
   * [`sub_450500`](sub_450500.md) ⌛
