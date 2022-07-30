@@ -45,7 +45,7 @@ Go to [source](../cc/sub_43AD10.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_439AB2`](sub_439AB2.md) 
+  * [`sub_439AB2`](sub_439AB2.md) ⌛
 
 
 * Data dependencies:
