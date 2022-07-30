@@ -45,7 +45,7 @@ Go to [source](../cc/sub_4520EF.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_4525F6`](sub_4525F6.md) ⌛
+  * [`sub_4525F6`](sub_4525F6.md) ✔️
   * [`sub_4512F4`](sub_4512F4.md) ⌛
   * [`sub_451087`](sub_451087.md) ⌛
   * [`sub_45237E`](sub_45237E.md) ⌛
