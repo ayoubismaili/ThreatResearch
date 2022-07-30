@@ -67,7 +67,7 @@ Go to [source](../cc/sub_44AF55.cc).
   * [`sub_43F1F3`](sub_43F1F3.md) ⌛
   * [`sub_4516A1`](sub_4516A1.md) ⌛
   * [`sub_45262A`](sub_45262A.md) ⌛
-  * [`sub_450E5D`](sub_450E5D.md) ⌛
+  * [`sub_450E5D`](sub_450E5D.md) ✔️
   * [`sub_4519BF`](sub_4519BF.md) ⌛
   * [`sub_450BD0`](sub_450BD0.md) ⌛
   * [`sub_42DBAD`](sub_42DBAD.md) ⌛
