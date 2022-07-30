@@ -47,13 +47,15 @@ Go to [source](../cc/sub_43EC6D.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`_malloc`](_malloc.md) 
-  * [`_memmove`](_memmove.md) 
-  * [`sub_43EB29`](sub_43EB29.md) 
+  * [`_malloc`](_malloc.md) ⌛
+  * [`_memmove`](_memmove.md) ⌛
+  * [`sub_43EB29`](sub_43EB29.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * [`dword_4874A0`](dword_4874A0.md) ⌛
+  * [`dword_48749C`](dword_48749C.md) ⌛
+  * [`dword_487498`](dword_487498.md) ⌛
 
 ## Used By
 
