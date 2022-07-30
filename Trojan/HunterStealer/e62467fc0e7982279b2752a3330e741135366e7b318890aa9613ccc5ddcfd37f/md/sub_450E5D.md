@@ -45,11 +45,12 @@ Go to [source](../cc/sub_450E5D.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_452340`](sub_452340.md) ⌛
+  * [`_memmove`](_memmove.md) ✔️
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
