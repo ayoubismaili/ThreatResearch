@@ -45,11 +45,11 @@ Go to [source](../cc/sub_450ADB.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_45102C`](sub_45102C.md) 
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
