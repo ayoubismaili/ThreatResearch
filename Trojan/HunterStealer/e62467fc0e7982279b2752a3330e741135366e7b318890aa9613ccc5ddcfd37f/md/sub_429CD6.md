@@ -45,11 +45,12 @@ Go to [source](../cc/sub_429CD6.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
 
 
 * Data dependencies:
-  * ...
+  * [`aBadArrayNewLen`](aBadArrayNewLen.md) ⌛
+  * `??_7bad_array_new_length@std@@6B@` ⌛
 
 ## Used By
 
