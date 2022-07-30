@@ -45,11 +45,15 @@ Go to [source](../cc/sub_451BEB.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`__EH_prolog3`](__EH_prolog3.md) ⌛
+  * [`sub_452340`](sub_452340.md) ⌛
+  * [`sub_450E5D`](sub_450E5D.md) ⌛
+  * [`__EH_epilog3`](__EH_epilog3.md) ⌛
+  * [`sub_452596`](sub_452596.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * [`loc_471362`](loc_471362.md) ⌛
 
 ## Used By
 
