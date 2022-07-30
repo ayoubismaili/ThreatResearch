@@ -17,7 +17,7 @@
 
 ## Description
 
-This function is a method of an unknown class.
+This function is a method of an unknown class. This function probably generates a pseudo-random value.
 
 ## Syntax
 
@@ -41,16 +41,16 @@ Go to [source](../cc/sub_43E8DA.cc).
 
 ## Return Value
 
-(Add return value.)
+`int` : 
 
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
