@@ -1,4 +1,4 @@
-# sub_43EB29 function
+# sub_43EA24 function
 
 ## Tasks
 
@@ -22,23 +22,22 @@
 ## Syntax
 
 ```c
-int __thiscall sub_43EB29(void *Object, char Value1, int Value2)
+int __thiscall sub_43EA24(void *Object, int Value)
 {...}
 ```
 
 ## Assembly
 
-Go to [assembly](../asm/sub_43EB29.asm).
+Go to [assembly](../asm/sub_43EA24.asm).
 
 ## Source
 
-Go to [source](../cc/sub_43EB29.cc).
+Go to [source](../cc/sub_43EA24.cc).
 
 ## Arguments
 
 * `Object` : 
-* `Value1` : 
-* `Value2` : 
+* `Value` : 
 
 ## Return Value
 
@@ -47,23 +46,20 @@ Go to [source](../cc/sub_43EB29.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_43E91B`](sub_43E91B.md) ✔️
-  * [`sub_43EA24`](sub_43EA24.md) ✔️
-  * [`_memmove`](_memmove.md) ⌛
-  * `@__security_check_cookie@4` ⌛
+  * None.
 
 
 * Data dependencies:
-  * [`unk_487510`](unk_487510.md) ⌛
+  * None.
 
 ## Used By
 
 * Used by functions:
-  * [`sub_43EBF7`](../md/sub_43EBF7.md)
+  * [`sub_43EB29`](../md/sub_43EB29.md)
 
 ## Graph
 
-![sub_43EB29 Graph](../svg/sub_43EB29.svg "sub_43EB29 Graph")
+![sub_43EA24 Graph](../svg/sub_43EA24.svg "sub_43EA24 Graph")
 
 ## Flow
 
