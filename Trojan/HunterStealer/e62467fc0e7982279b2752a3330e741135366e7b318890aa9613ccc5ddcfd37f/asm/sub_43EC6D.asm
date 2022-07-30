@@ -12,7 +12,7 @@
 .text:0043EC71 push    edi
 .text:0043EC72 mov     edi, [ebp+Value1]
 .text:0043EC75 mov     ecx, [edi]
-.text:0043EC77 mov     Value3, ecx
+.text:0043EC77 mov     dword_4874A0, ecx
 .text:0043EC7D mov     eax, [edi+4]
 .text:0043EC80 mov     dword_48749C, eax
 .text:0043EC85 cmp     ecx, [ebp+Value3]
@@ -25,14 +25,14 @@
 .text:0043EC9F pop     ecx
 .text:0043ECA0 test    esi, esi
 .text:0043ECA2 jz      short loc_43ECD4
-.text:0043ECA4 mov     ecx, Value3
+.text:0043ECA4 mov     ecx, dword_4874A0
 .text:0043ECAA add     ecx, 0FFFFFFF8h
 .text:0043ECAD push    ecx                             ; Size
 .text:0043ECAE lea     ecx, [edi+8]
 .text:0043ECB1 push    ecx                             ; Src
 .text:0043ECB2 push    esi                             ; Dst
 .text:0043ECB3 call    _memmove
-.text:0043ECB8 mov     edx, Value3
+.text:0043ECB8 mov     edx, dword_4874A0
 .text:0043ECBE mov     ecx, esi                        ; Object
 .text:0043ECC0 push    [ebp+Value2]                    ; Value2
 .text:0043ECC3 push    0                               ; Value1
