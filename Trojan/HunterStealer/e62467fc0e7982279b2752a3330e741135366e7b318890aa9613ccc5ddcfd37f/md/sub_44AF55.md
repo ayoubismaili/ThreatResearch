@@ -49,7 +49,7 @@ Go to [source](../cc/sub_44AF55.cc).
   * [`sub_43E89B`](sub_43E89B.md) ✔️
   * [`sub_43E8DA`](sub_43E8DA.md) ✔️
   * [`sub_43EBF7`](sub_43EBF7.md) ✔️
-  * [`sub_43EC6D`](sub_43EC6D.md) ⌛
+  * [`sub_43EC6D`](sub_43EC6D.md) ✔️
   * `??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@QBD@Z` ⌛
   * [`_getenv`](_getenv.md) ⌛
   * [`sub_4515CE`](sub_4515CE.md) ⌛
