@@ -47,11 +47,14 @@ Go to [source](../cc/sub_43EB29.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_43E91B`](sub_43E91B.md) ⌛
+  * [`sub_43EA24`](sub_43EA24.md) ⌛
+  * [`_memmove`](_memmove.md) ⌛
+  * `@__security_check_cookie@4` ⌛
 
 
 * Data dependencies:
-  * ...
+  * [`unk_487510`](unk_487510.md) ⌛
 
 ## Used By
 
