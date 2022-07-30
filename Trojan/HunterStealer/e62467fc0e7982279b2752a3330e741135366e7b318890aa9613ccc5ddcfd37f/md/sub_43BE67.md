@@ -45,11 +45,12 @@ Go to [source](../cc/sub_43BE67.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_43AD10`](sub_43AD10.md) ⌛
+  * [`VirtualAlloc`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-virtualalloc)
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
