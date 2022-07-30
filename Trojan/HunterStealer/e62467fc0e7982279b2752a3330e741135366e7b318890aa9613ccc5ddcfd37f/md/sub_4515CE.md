@@ -45,7 +45,7 @@ Go to [source](../cc/sub_4515CE.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_452879`](sub_452879.md) ⌛
+  * [`sub_452879`](sub_452879.md) ✔️
   * `??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@$$QAV01@@Z` ⌛
 
 
