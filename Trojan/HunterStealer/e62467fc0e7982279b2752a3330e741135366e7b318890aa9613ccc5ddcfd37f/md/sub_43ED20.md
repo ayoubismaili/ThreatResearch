@@ -45,7 +45,7 @@ Go to [source](../cc/sub_43ED20.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`__EH_prolog3_GS`](__EH_prolog3_GS.md) ⌛
+  * [`__EH_prolog3_GS`](__EH_prolog3_GS.md) ✔️
   * `___std_fs_convert_narrow_to_wide@20` ⌛
   * [`sub_450ADB`](sub_450ADB.md) ⌛
   * [`__EH_epilog3_GS`](__EH_epilog3_GS.md) ⌛
