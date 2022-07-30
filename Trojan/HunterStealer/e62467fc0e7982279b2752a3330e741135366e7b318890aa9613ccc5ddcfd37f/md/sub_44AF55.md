@@ -52,7 +52,7 @@ Go to [source](../cc/sub_44AF55.cc).
   * [`sub_43EC6D`](sub_43EC6D.md) ✔️
   * `??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@QBD@Z` ⌛
   * [`_getenv`](_getenv.md) ⌛
-  * [`sub_4515CE`](sub_4515CE.md) ⌛
+  * [`sub_4515CE`](sub_4515CE.md) ✔️
   * [`sub_450D89`](sub_450D89.md) ⌛
   * [`sub_451BEB`](sub_451BEB.md) ⌛
   * `??_M@YGXPAXIIP6EX0@Z@Z` ⌛
