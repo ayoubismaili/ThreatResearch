@@ -49,7 +49,7 @@ Go to [source](../cc/sub_451BEB.cc).
   * [`sub_452340`](sub_452340.md) ✔️
   * [`sub_450E5D`](sub_450E5D.md) ✔️
   * [`__EH_epilog3`](__EH_epilog3.md) ⌛
-  * [`sub_452596`](sub_452596.md) ⌛
+  * [`sub_452596`](sub_452596.md) ✔️
 
 
 * Data dependencies:
