@@ -45,11 +45,11 @@ Go to [source](../cc/sub_42DBAD.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_42D3FC`](sub_42D3FC.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * [`dword_487214`](dword_487214.md) ⌛
 
 ## Used By
 
