@@ -46,7 +46,7 @@ Go to [source](../cc/sub_44AF55.cc).
 
 * Function dependencies:
   * [`__EH_prolog3_catch_GS`](__EH_prolog3_catch_GS.md) ⌛
-  * [`sub_43E89B`](sub_43E89B.md) ⌛
+  * [`sub_43E89B`](sub_43E89B.md) ✔️
   * [`sub_43E8DA`](sub_43E8DA.md) ⌛
   * [`sub_43EBF7`](sub_43EBF7.md) ⌛
   * [`sub_43EC6D`](sub_43EC6D.md) ⌛
