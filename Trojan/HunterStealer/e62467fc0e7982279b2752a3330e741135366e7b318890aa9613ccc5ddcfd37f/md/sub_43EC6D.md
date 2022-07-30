@@ -48,8 +48,8 @@ Go to [source](../cc/sub_43EC6D.cc).
 
 * Function dependencies:
   * [`_malloc`](_malloc.md) ⌛
-  * [`_memmove`](_memmove.md) ⌛
-  * [`sub_43EB29`](sub_43EB29.md) ⌛
+  * [`_memmove`](_memmove.md) ✔️
+  * [`sub_43EB29`](sub_43EB29.md) ✔️
 
 
 * Data dependencies:
