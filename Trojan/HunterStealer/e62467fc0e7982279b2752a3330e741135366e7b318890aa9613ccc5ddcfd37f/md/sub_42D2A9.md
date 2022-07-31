@@ -45,11 +45,11 @@ Go to [source](../cc/sub_42D2A9.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`CloseHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
