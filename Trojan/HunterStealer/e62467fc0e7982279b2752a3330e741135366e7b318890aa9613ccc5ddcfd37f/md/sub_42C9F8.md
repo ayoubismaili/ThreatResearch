@@ -36,7 +36,8 @@ Go to [source](../cc/sub_42C9F8.cc).
 
 ## Arguments
 
-* 
+* `Object` : 
+* `FileTime` : 
 
 ## Return Value
 
@@ -45,11 +46,12 @@ Go to [source](../cc/sub_42C9F8.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`FileTimeToSystemTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-filetimetosystemtime)
+  * `@__security_check_cookie@4` ⌛
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
