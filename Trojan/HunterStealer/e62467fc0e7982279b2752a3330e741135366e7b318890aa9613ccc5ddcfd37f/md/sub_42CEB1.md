@@ -46,7 +46,7 @@ Go to [source](../cc/sub_42CEB1.cc).
 
 * Function dependencies:
   * [`CreateFileA`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea)
-  * [`sub_42CF2F`](sub_42CF2F.md) ⌛
+  * [`sub_42CF2F`](sub_42CF2F.md) ✔️
   * [`CloseHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
 
 
