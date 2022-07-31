@@ -57,7 +57,7 @@ Go to [source](../cc/sub_42CF2F.cc).
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
