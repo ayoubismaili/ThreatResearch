@@ -45,11 +45,18 @@ Go to [source](../cc/sub_42C93F.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`__stricmp`](__stricmp.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * [`String2`](String2.md) ⌛
+  * [`aZip`](aZip.md) ⌛
+  * [`aZoo`](aZoo.md) ⌛
+  * [`aArc`](aArc.md) ⌛
+  * [`aLzh`](aLzh.md) ⌛
+  * [`aArj`](aArj.md) ⌛
+  * [`aGz`](aGz.md) ⌛
+  * [`aTgz`](aTgz.md) ⌛
 
 ## Used By
 
