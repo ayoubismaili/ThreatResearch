@@ -36,28 +36,7 @@ Go to [source](../cc/sub_42CF2F.cc).
 
 ## Arguments
 
-* `Object` : 
-  * Structure :
-  
-  ```c
-  struct struct_42CF2F_1
-  {
-    //...
-    HANDLE Dword04; //hFile
-    //...
-    DWORD Dword70;
-    DWORD Dword74;
-    DWORD Dword78;
-    DWORD Dword7C;
-    BYTE  Byte80;
-    //...
-    DWORD Dword84;
-    //...
-    DWORD Dword90;
-
-  };
-  ```
-
+* `Object` : Go to [definition](./struct/struct_42CF2F_1.md).
 * `hFile` : 
 * `Value` : 
 
