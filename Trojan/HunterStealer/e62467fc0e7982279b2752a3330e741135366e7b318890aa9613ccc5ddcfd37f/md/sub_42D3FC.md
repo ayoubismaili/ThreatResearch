@@ -50,7 +50,7 @@ Go to [source](../cc/sub_42D3FC.cc).
   * [`sub_42CF2F`](sub_42CF2F.md) ✔️
   * [`sub_42D061`](sub_42D061.md) ✔️
   * [`sub_42D142`](sub_42D142.md) ✔️
-  * [`sub_42BF2B`](sub_42BF2B.md) ⌛
+  * [`sub_42BF2B`](sub_42BF2B.md) ✔️
   * [`sub_42D2A9`](sub_42D2A9.md) ⌛
   * [`sub_42C8DB`](sub_42C8DB.md) ⌛
   * [`GetDesktopWindow`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getdesktopwindow)
