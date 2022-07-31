@@ -2,12 +2,12 @@
 
 ## Tasks
 
-- [ ] Add Description.
+- [X] Add Description.
 - [X] Add Syntax.
 - [X] Add Assembly.
 - [ ] Add Source.
-- [ ] Add Arguments.
-- [ ] Add Return Value.
+- [X] Add Arguments.
+- [X] Add Return Value.
 - [X] Add Dependencies.
 - [X] Add Used By.
 - [X] Add Graph.
@@ -17,12 +17,13 @@
 
 ## Description
 
-(Add description.)
+This function checks if the argument `FileName` has one of the following extensions: `.Z`, `.zip`, `.zoo`, `.arc`, `.lzh`, `.arj`, `.gz` or `.tgz`.
+The performed check is case-insensitive.
 
 ## Syntax
 
 ```c
-int __thiscall sub_42C93F(void *Object)
+int __thiscall sub_42C93F(char *FileName)
 {...}
 ```
 
@@ -36,11 +37,11 @@ Go to [source](../cc/sub_42C93F.cc).
 
 ## Arguments
 
-(Add arguments.)
+* `FileName` : A file name that have an extension.
 
 ## Return Value
 
-(Add return value.)
+`int` : Returns non-zero if `FileName` has one of the extensions, otherwise returns zero.
 
 ## Dependencies
 

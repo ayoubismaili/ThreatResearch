@@ -1,4 +1,4 @@
-.text:0042C93F ; int __thiscall sub_42C93F(void *Object)
+.text:0042C93F ; int __thiscall sub_42C93F(char *FileName)
 .text:0042C93F sub_42C93F proc near                    ; CODE XREF: sub_42D3FC+E7↓p
 .text:0042C93F mov     edx, ecx
 .text:0042C941 push    esi
