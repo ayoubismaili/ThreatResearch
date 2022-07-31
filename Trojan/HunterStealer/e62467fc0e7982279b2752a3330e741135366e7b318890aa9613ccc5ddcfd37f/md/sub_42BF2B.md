@@ -45,7 +45,7 @@ Go to [source](../cc/sub_42BF2B.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_42CD6E`](sub_42CD6E.md) ⌛
+  * [`sub_42CD6E`](sub_42CD6E.md) ✔️
 
 
 * Data dependencies:
