@@ -36,7 +36,30 @@ Go to [source](../cc/sub_42CF2F.cc).
 
 ## Arguments
 
-(Add arguments.)
+* `Object` : 
+  * Structure :
+  
+  ```c
+  struct struct_42CF2F_1
+  {
+    //...
+    HANDLE Dword04; //hFile
+    //...
+    DWORD Dword70;
+    DWORD Dword74;
+    DWORD Dword78;
+    DWORD Dword7C;
+    BYTE  Byte80;
+    //...
+    DWORD Dword84;
+    //...
+    DWORD Dword90;
+
+  };
+  ```
+
+* `hFile` : 
+* `Value` : 
 
 ## Return Value
 
@@ -45,7 +68,13 @@ Go to [source](../cc/sub_42CF2F.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`SetFilePointer`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-setfilepointer)
+  * [`sub_42CA67`](sub_42CA67.md) ⌛
+  * [`GetLocalTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getlocaltime)
+  * [`SystemTimeToFileTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-systemtimetofiletime)
+  * [`sub_42C9F8`](sub_42C9F8.md) ⌛
+  * [`__alldiv`](__alldiv.md) ⌛
+  * `@__security_check_cookie@4` ⌛
 
 
 * Data dependencies:
