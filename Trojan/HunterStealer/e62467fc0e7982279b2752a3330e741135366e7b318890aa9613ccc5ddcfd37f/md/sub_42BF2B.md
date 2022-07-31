@@ -54,7 +54,7 @@ Go to [source](../cc/sub_42BF2B.cc).
 ## Used By
 
 * Used by functions:
-  * [`sub_42DBAD`](../md/sub_42DBAD.md)
+  * [`sub_42D3FC`](../md/sub_42D3FC.md)
 
 ## Graph
 
