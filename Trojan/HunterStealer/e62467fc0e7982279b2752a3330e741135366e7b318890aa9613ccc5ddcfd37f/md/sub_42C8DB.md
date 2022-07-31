@@ -49,7 +49,7 @@ Go to [source](../cc/sub_42C8DB.cc).
 
 
 * Data dependencies:
-  * 
+  * [`dword_47CB00`](dword_47CB00.md) ⌛
 
 ## Used By
 
