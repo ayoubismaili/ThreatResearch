@@ -45,7 +45,7 @@ Go to [source](../cc/sub_42D3FC.cc).
 ## Dependencies
 
 * Function dependencies:
-  * [`sub_42C93F`](sub_42C93F.md) ⌛
+  * [`sub_42C93F`](sub_42C93F.md) ✔️
   * [`sub_42CEB1`](sub_42CEB1.md) ⌛
   * [`sub_42CF2F`](sub_42CF2F.md) ⌛
   * [`sub_42D061`](sub_42D061.md) ⌛
