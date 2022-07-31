@@ -51,7 +51,7 @@ Go to [source](../cc/sub_42CF2F.cc).
   * [`sub_42CA67`](sub_42CA67.md) ✔️
   * [`GetLocalTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getlocaltime)
   * [`SystemTimeToFileTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-systemtimetofiletime)
-  * [`sub_42C9F8`](sub_42C9F8.md) ⌛
+  * [`sub_42C9F8`](sub_42C9F8.md) ✔️
   * [`__alldiv`](__alldiv.md) ⌛
   * `@__security_check_cookie@4` ⌛
 
