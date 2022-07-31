@@ -45,11 +45,15 @@ Go to [source](../cc/sub_42CD8B.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`j_j__free`](j_j__free.md) ⌛
+  * [`unknown_libname_9`](unknown_libname_9.md) ⌛
+  * [`_memmove`](_memmove.md) ⌛
+  * [`sub_42C91E`](sub_42C91E.md) ⌛
+  * [`WriteFile`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-writefile)
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
