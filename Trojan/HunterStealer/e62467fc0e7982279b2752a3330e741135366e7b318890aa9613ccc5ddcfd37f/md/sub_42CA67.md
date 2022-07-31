@@ -48,11 +48,17 @@ Go to [source](../cc/sub_42CA67.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`GetFileInformationByHandle`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfileinformationbyhandle)
+  * [`GetFileSize`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-getfilesize)
+  * [`SetFilePointer`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-setfilepointer)
+  * [`ReadFile`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile)
+  * [`__alldiv`](__alldiv.md) ⌛
+  * [`sub_42C9F8`](sub_42C9F8.md) ⌛
+  * `@__security_check_cookie@4` ⌛
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
