@@ -48,7 +48,7 @@ Go to [source](../cc/sub_42CF2F.cc).
 
 * Function dependencies:
   * [`SetFilePointer`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-setfilepointer)
-  * [`sub_42CA67`](sub_42CA67.md) ⌛
+  * [`sub_42CA67`](sub_42CA67.md) ✔️
   * [`GetLocalTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-getlocaltime)
   * [`SystemTimeToFileTime`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/timezoneapi/nf-timezoneapi-systemtimetofiletime)
   * [`sub_42C9F8`](sub_42C9F8.md) ⌛
