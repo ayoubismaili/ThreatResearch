@@ -45,11 +45,11 @@ Go to [source](../cc/sub_42CD6E.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * [`sub_42CD8B`](sub_42CD8B.md) ⌛
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
