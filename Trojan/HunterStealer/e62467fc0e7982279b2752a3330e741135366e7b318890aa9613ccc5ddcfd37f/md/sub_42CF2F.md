@@ -36,7 +36,7 @@ Go to [source](../cc/sub_42CF2F.cc).
 
 ## Arguments
 
-* `Object` : Go to [definition](./struct/struct_42CF2F_1.md).
+* `Object` : Go to [definition](../struct/struct_42CF2F_1.md).
 * `hFile` : 
 * `Value` : 
 
