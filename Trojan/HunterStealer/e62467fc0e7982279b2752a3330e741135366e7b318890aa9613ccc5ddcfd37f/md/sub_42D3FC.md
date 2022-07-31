@@ -57,7 +57,7 @@ Go to [source](../cc/sub_42D3FC.cc).
   * [`GetTickCount`<sup>Docs</sup>](https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/nf-sysinfoapi-gettickcount)
   * [`_srand`](_srand.md) ⌛
   * [`_rand`](_rand.md) ⌛
-  * [`sub_42C91E`](sub_42C91E.md) ⌛
+  * [`sub_42C91E`](sub_42C91E.md) ✔️
   * [`sub_42CD8B`](sub_42CD8B.md) ⌛
   * [`sub_42D2EA`](sub_42D2EA.md) ⌛
   * [`sub_42D210`](sub_42D210.md) ⌛
