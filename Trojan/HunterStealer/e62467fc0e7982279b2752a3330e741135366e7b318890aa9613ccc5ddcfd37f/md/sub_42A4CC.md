@@ -45,11 +45,11 @@ Go to [source](../cc/sub_42A4CC.cc).
 ## Dependencies
 
 * Function dependencies:
-  * ...
+  * None.
 
 
 * Data dependencies:
-  * ...
+  * None.
 
 ## Used By
 
