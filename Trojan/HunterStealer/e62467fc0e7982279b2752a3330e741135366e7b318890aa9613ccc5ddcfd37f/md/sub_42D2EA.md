@@ -47,7 +47,7 @@ Go to [source](../cc/sub_42D2EA.cc).
 * Function dependencies:
   * `??2@YAPAXI@Z` ⌛
   * [`_memset`](_memset.md) ⌛
-  * [`sub_42A18C`](sub_42A18C.md) ⌛
+  * [`sub_42A18C`](sub_42A18C.md) ✔️
   * [`sub_42A262`](sub_42A262.md) ⌛
   * [`sub_42B592`](sub_42B592.md) ⌛
   * [`sub_42BC08`](sub_42BC08.md) ⌛
