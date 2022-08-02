@@ -1,0 +1,216 @@
+digraph G {
+  start -> l0_n0;
+  //Level 0
+  l0_n0 [label="_main"];
+  
+  //Level 1
+  l1_n0 [label="__EH_prolog3_GS"];
+  l1_n1 [label="CreateMutexA", color=pink];
+  l1_n2 [label="WaitForSingleObject", color=pink];
+  l1_n3 [label="GetKeyState", color=pink];
+  l1_n4 [label="unknown_libname_35"];
+  l1_n5 [label="_srand"];
+  l1_n6 [label="SHGetFolderPathA", color=pink];
+  l1_n7 [label="sub_451111"];
+  l1_n8 [label="GetTempPathA", color=pink];
+  l1_n9 [label="sub_440850"];
+  l1_n10 [label="sub_451AF7"];
+  l1_n11 [label="sub_42DBA3"];
+  l1_n12 [label="sub_450504"];
+  l1_n13 [label="sub_450500"];
+  l1_n14 [label="sub_44AF55"];
+  l1_n15 [label="sub_44BB5D"];
+  l1_n16 [label="sub_448309"];
+  l1_n17 [label="sub_44BE50"];
+  l1_n18 [label="sub_44A8E4"];
+  l1_n19 [label="sub_4417F4"];
+  l1_n20 [label="sub_441BCA"];
+  l1_n21 [label="sub_440FEE"];
+  l1_n22 [label="sub_443008"];
+  l1_n23 [label="sub_4433DB"];
+  l1_n24 [label="sub_4413E5"];
+  l1_n25 [label="sub_4495E6"];
+  l1_n26 [label="sub_44A659"];
+  l1_n27 [label="sub_44BFC1"];
+  l1_n28 [label="sub_447469"];
+  l1_n29 [label="sub_4499D1"];
+  l1_n30 [label="sub_450E5D"];
+  l1_n31 [label="sub_4456A4"];
+  l1_n32 [label="sub_4420CE"];
+  l1_n33 [label="sub_442490"];
+  l1_n34 [label="sub_442866"];
+  l1_n35 [label="sub_442C40"];
+  l1_n36 [label="sub_44FC60"];
+  l1_n37 [label="sub_44C082"];
+  l1_n38 [label="sub_42DC62"];
+  l1_n39 [label="sub_450507"];
+  l1_n40 [label="ReleaseMutex", color=pink];
+  l1_n41 [label="__loaddll"];
+  
+  l0_n0 -> l1_n0 [color=green];
+  l0_n0 -> l1_n1 [color=green];
+  l0_n0 -> l1_n2 [color=green];
+  l0_n0 -> l1_n3 [color=green];
+  l0_n0 -> l1_n4 [color=red];
+  l0_n0 -> l1_n5 [color=red];
+  l0_n0 -> l1_n6 [color=green];
+  l0_n0 -> l1_n7 [color=red];
+  l0_n0 -> l1_n8 [color=green];
+  l0_n0 -> l1_n9 [color=red];
+  l0_n0 -> l1_n10 [color=red];
+  l0_n0 -> l1_n11 [color=red];
+  l0_n0 -> l1_n12 [color=red];
+  l0_n0 -> l1_n13 [color=red];
+  l0_n0 -> l1_n14 [color=red];
+  l0_n0 -> l1_n15 [color=red];
+  l0_n0 -> l1_n16 [color=red];
+  l0_n0 -> l1_n17 [color=red];
+  l0_n0 -> l1_n18 [color=red];
+  l0_n0 -> l1_n19 [color=red];
+  l0_n0 -> l1_n20 [color=red];
+  l0_n0 -> l1_n21 [color=red];
+  l0_n0 -> l1_n22 [color=red];
+  l0_n0 -> l1_n23 [color=red];
+  l0_n0 -> l1_n24 [color=red];
+  l0_n0 -> l1_n25 [color=red];
+  l0_n0 -> l1_n26 [color=red];
+  l0_n0 -> l1_n27 [color=red];
+  l0_n0 -> l1_n28 [color=red];
+  l0_n0 -> l1_n29 [color=red];
+  l0_n0 -> l1_n30 [color=red];
+  l0_n0 -> l1_n31 [color=red];
+  l0_n0 -> l1_n32 [color=red];
+  l0_n0 -> l1_n33 [color=red];
+  l0_n0 -> l1_n34 [color=red];
+  l0_n0 -> l1_n35 [color=red];
+  l0_n0 -> l1_n36 [color=red];
+  l0_n0 -> l1_n37 [color=red];
+  l0_n0 -> l1_n38 [color=red];
+  l0_n0 -> l1_n39 [color=red];
+  l0_n0 -> l1_n40 [color=green];
+  l0_n0 -> l1_n41 [color=red];
+  
+  //Level 3
+  //unknown_libname_35
+  l2_n0 [label="GetSystemTimeAsFileTime", color=pink];
+  l2_n1 [label="__alldiv"];
+  
+  l1_n4 -> l2_n0 [color=green];
+  l1_n4 -> l2_n1 [color=red];
+  
+  //_srand
+  l2_n2 [label="___acrt_getptd"];
+  
+  l1_n5 -> l2_n2 [color=red];
+  
+  //sub_451111
+  l2_n3 [label="_memmove"];
+  l2_n4 [label="sub_45221E"];
+  
+  l1_n7 -> l2_n3 [color=red];
+  l1_n7 -> l2_n4 [color=red];
+  
+  //sub_440850
+  l2_n5 [label="_rand"];
+  
+  l1_n9 -> l2_n5 [color=red];
+  
+  //sub_451AF7
+  l2_n6 [label="sub_452340"];
+  //l2_n7 [label="_memmove"];
+  l2_n8 [label="sub_45237E"];
+  l2_n9 [label="sub_452596"];
+  l2_n10 [label="sub_429D28"];
+  
+  l1_n10 -> l2_n6 [color=red];
+  l1_n10 -> l2_n3 [color=red];
+  l1_n10 -> l2_n8 [color=red];
+  l1_n10 -> l2_n9 [color=red];
+  l1_n10 -> l2_n10 [color=red];
+  
+  //sub_42DBA3
+  l2_n11 [label="sub_42DB1C"];
+  
+  l1_n11 -> l2_n11 [color=red];
+  
+  //sub_450504
+  //empty
+  
+  //sub_450500
+  //empty
+  
+  //sub_44AF55
+  l2_n12 [label="__EH_prolog3_catch_GS"];
+  l2_n13 [label="sub_43E89B"];
+  l2_n14 [label="sub_43E8DA"];
+  l2_n15 [label="sub_43EBF7"];
+  l2_n16 [label="sub_43EC6D"];
+  l2_n17 [label="??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@QBD@Z"];
+  l2_n18 [label="_getenv"];
+  l2_n19 [label="sub_4515CE"];
+  l2_n20 [label="sub_450D89"];
+  l2_n21 [label="sub_451BEB"];
+  l2_n22 [label="??_M@YGXPAXIIP6EX0@Z@Z"];
+  //l2_n23 [label="sub_42DB1C"];
+  l2_n24 [label="sub_452988"];
+  l2_n25 [label="sub_43FE77"];
+  l2_n26 [label="sub_450FB3"];
+  l2_n27 [label="sub_4413BD"];
+  l2_n28 [label="sub_42A15F"];
+  l2_n29 [label="sub_43F7C9"];
+  l2_n30 [label="sub_43F7E4"];
+  l2_n31 [label="sub_43F1F3"];
+  l2_n32 [label="sub_4516A1"];
+  l2_n33 [label="sub_45262A"];
+  //l2_n34 [label="sub_450E5D"];
+  l2_n35 [label="sub_4519BF"];
+  l2_n36 [label="sub_450BD0"];
+  l2_n37 [label="sub_42DBAD"];
+  l2_n38 [label="sub_43FEBA"];
+  l2_n39 [label="sub_42DBF5"];
+  //l2_n40 [label="sub_42DC62"];
+  l2_n41 [label="sub_450ED4"];
+  l2_n42 [label="__EH_epilog3_catch_GS"];
+  
+  l1_n14 -> l2_n12 [color=red];
+  l1_n14 -> l2_n13 [color=red];
+  l1_n14 -> l2_n14 [color=red];
+  l1_n14 -> l2_n15 [color=red];
+  l1_n14 -> l2_n16 [color=red];
+  l1_n14 -> l2_n17 [color=red];
+  l1_n14 -> l2_n18 [color=red];
+  l1_n14 -> l2_n19 [color=red];
+  l1_n14 -> l2_n20 [color=red];
+  l1_n14 -> l2_n21 [color=red];
+  l1_n14 -> l2_n22 [color=red];
+  l1_n14 -> l2_n11 [color=red];
+  l1_n14 -> l2_n24 [color=red];
+  l1_n14 -> l2_n25 [color=red];
+  l1_n14 -> l2_n26 [color=red];
+  l1_n14 -> l2_n27 [color=red];
+  l1_n14 -> l2_n28 [color=red];
+  l1_n14 -> l2_n29 [color=red];
+  l1_n14 -> l2_n30 [color=red];
+  l1_n14 -> l2_n31 [color=red];
+  l1_n14 -> l2_n32 [color=red];
+  l1_n14 -> l2_n33 [color=red];
+  l1_n14 -> l1_n30 [color=red];
+  l1_n14 -> l2_n35 [color=red];
+  l1_n14 -> l2_n36 [color=red];
+  l1_n14 -> l2_n37 [color=red];
+  l1_n14 -> l2_n38 [color=red];
+  l1_n14 -> l2_n39 [color=red];
+  l1_n14 -> l1_n38 [color=red];
+  l1_n14 -> l2_n41 [color=red];
+  l1_n14 -> l2_n42 [color=red];
+  
+  //sub_44BB5D
+  
+  
+  
+  
+  
+
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+}
