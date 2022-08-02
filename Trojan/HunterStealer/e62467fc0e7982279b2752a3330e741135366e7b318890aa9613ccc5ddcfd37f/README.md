@@ -9,7 +9,7 @@ This page contains analysis for a *HunterStealer* malware threat.
 
 # Progress
 
-Go to [progres](./progress/progress.md).
+Go to [progress](./progress/progress.md).
 
 # Start Reading
 
