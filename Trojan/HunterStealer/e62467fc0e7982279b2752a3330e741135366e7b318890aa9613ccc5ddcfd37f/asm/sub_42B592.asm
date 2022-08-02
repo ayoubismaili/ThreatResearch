@@ -1,15 +1,15 @@
-.text:0042B592 ; int __thiscall sub_42B592(void *Object, int Value)
+.text:0042B592 ; int __fastcall sub_42B592(void *Object, int Value1, int Value2)
 .text:0042B592 sub_42B592 proc near                    ; CODE XREF: sub_42D2EA+E5↓p
 .text:0042B592
-.text:0042B592 Value= dword ptr  8
+.text:0042B592 Value2= dword ptr  8
 .text:0042B592
 .text:0042B592 push    ebp
 .text:0042B593 mov     ebp, esp
 .text:0042B595 push    ebx
-.text:0042B596 mov     ebx, edx
+.text:0042B596 mov     ebx, edx                        ; Value1
 .text:0042B598 push    esi
 .text:0042B599 push    edi
-.text:0042B59A mov     esi, ecx
+.text:0042B59A mov     esi, ecx                        ; Object
 .text:0042B59C lea     eax, [ebx-1]
 .text:0042B59F cmp     eax, 7
 .text:0042B5A2 jbe     short loc_42B5AE
@@ -43,7 +43,7 @@
 .text:0042B622 mov     [esi+6AF94h], eax
 .text:0042B628 cmp     ebx, ecx
 .text:0042B62A jg      short loc_42B635
-.text:0042B62C mov     eax, [ebp+Value]
+.text:0042B62C mov     eax, [ebp+Value2]
 .text:0042B62F or      word ptr [eax], 4
 .text:0042B633 jmp     short loc_42B640
 .text:0042B635 ; ---------------------------------------------------------------------------
@@ -51,7 +51,7 @@
 .text:0042B635 loc_42B635:                             ; CODE XREF: sub_42B592+98↑j
 .text:0042B635 cmp     ebx, 8
 .text:0042B638 jl      short loc_42B640
-.text:0042B63A mov     eax, [ebp+Value]
+.text:0042B63A mov     eax, [ebp+Value2]
 .text:0042B63D or      [eax], cx
 .text:0042B640
 .text:0042B640 loc_42B640:                             ; CODE XREF: sub_42B592+A1↑j
