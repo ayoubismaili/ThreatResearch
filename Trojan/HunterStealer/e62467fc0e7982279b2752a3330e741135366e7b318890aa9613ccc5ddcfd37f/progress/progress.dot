@@ -205,9 +205,47 @@ digraph G {
   l1_n14 -> l2_n42 [color=red];
   
   //sub_44BB5D
+  l2_n43 [label="CreateDCA", color=pink];
+  l2_n44 [label="CreateCompatibleDC", color=pink];
+  l2_n45 [label="GetDeviceCaps", color=pink];
+  l2_n46 [label="CreateCompatibleBitmap", color=pink];
+  l2_n47 [label="SelectObject", color=pink];
+  l2_n48 [label="StretchBlt", color=pink];
+  l2_n49 [label="GetObjectW", color=pink];
+  l2_n50 [label="LocalAlloc", color=pink];
+  l2_n51 [label="GlobalAlloc", color=pink];
+  l2_n52 [label="GetDIBits", color=pink];
+  l2_n53 [label="_malloc"];
+  //l2_n54 [label="_memmove"];
+  l2_n55 [label="GlobalFree", color=pink];
+  l2_n56 [label="ReleaseDC", color=pink];
+  //l2_n57 [label="sub_43E89B"];
+  //l2_n58 [label="sub_43E8DA"];
+  //l2_n59 [label="sub_43EBF7"];
+  //l2_n60 [label="sub_43EC6D"];
+  //l2_n61 [label="sub_42DBAD"];
+  l2_n62 [label="@__security_check_cookie@4"];
   
-  
-  
+  l1_n15 -> l2_n43 [color=red];
+  l1_n15 -> l2_n44 [color=red];
+  l1_n15 -> l2_n45 [color=red];
+  l1_n15 -> l2_n46 [color=red];
+  l1_n15 -> l2_n47 [color=red];
+  l1_n15 -> l2_n48 [color=red];
+  l1_n15 -> l2_n49 [color=red];
+  l1_n15 -> l2_n50 [color=red];
+  l1_n15 -> l2_n51 [color=red];
+  l1_n15 -> l2_n52 [color=red];
+  l1_n15 -> l2_n53 [color=red];
+  l1_n15 -> l2_n3 [color=red];
+  l1_n15 -> l2_n55 [color=red];
+  l1_n15 -> l2_n56 [color=red];
+  l1_n15 -> l2_n13 [color=red];
+  l1_n15 -> l2_n14 [color=red];
+  l1_n15 -> l2_n15 [color=red];
+  l1_n15 -> l2_n16 [color=red];
+  l1_n15 -> l2_n37 [color=red];
+  l1_n15 -> l2_n62 [color=red];
   
   
 
